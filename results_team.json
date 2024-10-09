@@ -1,0 +1,242 @@
+[
+  {
+    "id": 29,
+    "pontos": 300,
+    "mediaOdds": 700.7,
+    "nome": "Time AC",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 1
+  },
+  {
+    "id": 1,
+    "pontos": 289,
+    "mediaOdds": 685.19,
+    "nome": "Time A",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 2
+  },
+  {
+    "id": 23,
+    "pontos": 270,
+    "mediaOdds": 620.6,
+    "nome": "Time W",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 3
+  },
+  {
+    "id": 20,
+    "pontos": 240,
+    "mediaOdds": 500.5,
+    "nome": "Time T",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 4
+  },
+  {
+    "id": 19,
+    "pontos": 230,
+    "mediaOdds": 450.9,
+    "nome": "Time S",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 5
+  },
+  {
+    "id": 18,
+    "pontos": 220,
+    "mediaOdds": 360.36,
+    "nome": "Time R",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 6
+  },
+  {
+    "id": 12,
+    "pontos": 210,
+    "mediaOdds": 320.32,
+    "nome": "Time L",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 7
+  },
+  {
+    "id": 3,
+    "pontos": 200,
+    "mediaOdds": 300.75,
+    "nome": "Time C",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 8
+  },
+  {
+    "id": 24,
+    "pontos": 190,
+    "mediaOdds": 390.39,
+    "nome": "Time X",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 9
+  },
+  {
+    "id": 13,
+    "pontos": 180,
+    "mediaOdds": 400,
+    "nome": "Time M",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 10
+  },
+  {
+    "id": 11,
+    "pontos": 160,
+    "mediaOdds": 275.75,
+    "nome": "Time K",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 11
+  },
+  {
+    "id": 22,
+    "pontos": 160,
+    "mediaOdds": 310.3,
+    "nome": "Time V",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 12
+  },
+  {
+    "id": 27,
+    "pontos": 160,
+    "mediaOdds": 370.37,
+    "nome": "Time AA",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 13
+  },
+  {
+    "id": 2,
+    "pontos": 150,
+    "mediaOdds": 500.5,
+    "nome": "Time B",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 14
+  },
+  {
+    "id": 10,
+    "pontos": 140,
+    "mediaOdds": 490.9,
+    "nome": "Time J",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 15
+  },
+  {
+    "id": 26,
+    "pontos": 140,
+    "mediaOdds": 450.4,
+    "nome": "Time Z",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 16
+  },
+  {
+    "id": 9,
+    "pontos": 130,
+    "mediaOdds": 350.35,
+    "nome": "Time I",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 17
+  },
+  {
+    "id": 30,
+    "pontos": 130,
+    "mediaOdds": 340.34,
+    "nome": "Time AD",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 18
+  },
+  {
+    "id": 17,
+    "pontos": 125,
+    "mediaOdds": 450.45,
+    "nome": "Time Q",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 19
+  },
+  {
+    "id": 16,
+    "pontos": 115,
+    "mediaOdds": 375.37,
+    "nome": "Time P",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 20
+  },
+  {
+    "id": 15,
+    "pontos": 110,
+    "mediaOdds": 285.85,
+    "nome": "Time O",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 21
+  },
+  {
+    "id": 25,
+    "pontos": 110,
+    "mediaOdds": 260.26,
+    "nome": "Time Y",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 22
+  },
+  {
+    "id": 4,
+    "pontos": 100,
+    "mediaOdds": 250.25,
+    "nome": "Time D",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 23
+  },
+  {
+    "id": 14,
+    "pontos": 95,
+    "mediaOdds": 270.27,
+    "nome": "Time N",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 24
+  },
+  {
+    "id": 21,
+    "pontos": 95,
+    "mediaOdds": 220.2,
+    "nome": "Time U",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 25
+  },
+  {
+    "id": 5,
+    "pontos": 90,
+    "mediaOdds": 400.4,
+    "nome": "Time E",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 26
+  },
+  {
+    "id": 7,
+    "pontos": 80,
+    "mediaOdds": 315.15,
+    "nome": "Time G",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 27
+  },
+  {
+    "id": 28,
+    "pontos": 80,
+    "mediaOdds": 220,
+    "nome": "Time AB",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 28
+  },
+  {
+    "id": 8,
+    "pontos": 75,
+    "mediaOdds": 210.1,
+    "nome": "Time H",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 29
+  },
+  {
+    "id": 6,
+    "pontos": 70,
+    "mediaOdds": 226.2,
+    "nome": "Time F",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 30
+  }
+]
