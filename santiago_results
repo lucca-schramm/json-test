@@ -243,24 +243,6 @@
     "time": "Time C"
   },
   {
-    "id": 28,
-    "pontos": 80,
-    "totalApostado": 220,
-    "nome": "Bruna Costa",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 28,
-    "time": "Time D"
-  },
-  {
-    "id": 8,
-    "pontos": 75,
-    "totalApostado": 210.1,
-    "nome": "Samuel Almeida",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 29,
-    "time": "Time A"
-  },
-  {
     "id": 6,
     "pontos": 70,
     "totalApostado": 226.2,
@@ -268,5 +250,23 @@
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 30,
     "time": "Time B"
+  },
+  {
+    "id": 28,
+    "pontos": 80,
+    "totalApostado": 220,
+    "nome": "Bruna Costa",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 29,
+    "time": "Time D"
+  },
+  {
+    "id": 8,
+    "pontos": 15,
+    "totalApostado": 210.1,
+    "nome": "Samuel Almeida",
+    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+    "classificacao": 30,
+    "time": "Time A"
   }
 ]
