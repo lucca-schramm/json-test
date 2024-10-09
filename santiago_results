@@ -1,302 +1,244 @@
-[
-  {
-    "id": 29,
-    "pontos": 289,
-    "totalApostado": 700.7,
-    "nome": "Lucas Silva",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 1,
-    "time": "Time A",
-    "mediaOdds": 1.75
-  },
-  {
-    "id": 1,
-    "pontos": 289,
-    "totalApostado": 685.19,
-    "nome": "Ana Oliveira",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 2,
-    "time": "Time B",
-    "mediaOdds": 2.10
-  },
-  {
-    "id": 23,
-    "pontos": 270,
-    "totalApostado": 620.6,
-    "nome": "Pedro Santos",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 3,
-    "time": "Time C",
-    "mediaOdds": 1.85
-  },
-  {
-    "id": 20,
-    "pontos": 240,
-    "totalApostado": 500.5,
-    "nome": "Maria Costa",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 4,
-    "time": "Time D",
-    "mediaOdds": 2.50
-  },
-  {
-    "id": 19,
-    "pontos": 230,
-    "totalApostado": 450.9,
-    "nome": "Carlos Almeida",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 5,
-    "time": "Time A",
-    "mediaOdds": 1.95
-  },
-  {
-    "id": 18,
-    "pontos": 220,
-    "totalApostado": 360.36,
-    "nome": "Julia Martins",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 6,
-    "time": "Time B",
-    "mediaOdds": 1.65
-  },
-  {
-    "id": 12,
-    "pontos": 210,
-    "totalApostado": 320.32,
-    "nome": "Felipe Souza",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 7,
-    "time": "Time C",
-    "mediaOdds": 2.20
-  },
-  {
-    "id": 3,
-    "pontos": 200,
-    "totalApostado": 300.75,
-    "nome": "Mariana Ferreira",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 8,
-    "time": "Time D",
-    "mediaOdds": 1.40
-  },
-  {
-    "id": 24,
-    "pontos": 190,
-    "totalApostado": 390.39,
-    "nome": "Ricardo Lima",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 9,
-    "time": "Time A",
-    "mediaOdds": 1.80
-  },
-  {
-    "id": 13,
-    "pontos": 180,
-    "totalApostado": 400,
-    "nome": "Tatiane Rocha",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 10,
-    "time": "Time B",
-    "mediaOdds": 2.30
-  },
-  {
-    "id": 11,
-    "pontos": 160,
-    "totalApostado": 275.75,
-    "nome": "André Pereira",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 11,
-    "time": "Time C",
-    "mediaOdds": 1.55
-  },
-  {
-    "id": 22,
-    "pontos": 160,
-    "totalApostado": 310.3,
-    "nome": "Fernanda Carvalho",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 12,
-    "time": "Time D",
-    "mediaOdds": 2.45
-  },
-  {
-    "id": 27,
-    "pontos": 160,
-    "totalApostado": 370.37,
-    "nome": "Gabriel Martins",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 13,
-    "time": "Time A",
-    "mediaOdds": 1.75
-  },
-  {
-    "id": 2,
-    "pontos": 150,
-    "totalApostado": 500.5,
-    "nome": "Renata Gomes",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 14,
-    "time": "Time B",
-    "mediaOdds": 2.10
-  },
-  {
-    "id": 10,
-    "pontos": 140,
-    "totalApostado": 490.9,
-    "nome": "Bruno Ribeiro",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 15,
-    "time": "Time C",
-    "mediaOdds": 1.85
-  },
-  {
-    "id": 26,
-    "pontos": 140,
-    "totalApostado": 450.4,
-    "nome": "Sofia Mendes",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 16,
-    "time": "Time D",
-    "mediaOdds": 2.50
-  },
-  {
-    "id": 9,
-    "pontos": 130,
-    "totalApostado": 350.35,
-    "nome": "Thiago Almeida",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 17,
-    "time": "Time A",
-    "mediaOdds": 1.95
-  },
-  {
-    "id": 30,
-    "pontos": 130,
-    "totalApostado": 340.34,
-    "nome": "Camila Silva",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 18,
-    "time": "Time B",
-    "mediaOdds": 1.65
-  },
-  {
-    "id": 17,
-    "pontos": 125,
-    "totalApostado": 450.45,
-    "nome": "Vinícius Santos",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 19,
-    "time": "Time C",
-    "mediaOdds": 2.20
-  },
-  {
-    "id": 16,
-    "pontos": 115,
-    "totalApostado": 375.37,
-    "nome": "Larissa Costa",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 20,
-    "time": "Time D",
-    "mediaOdds": 1.40
-  },
-  {
-    "id": 15,
-    "pontos": 110,
-    "totalApostado": 285.85,
-    "nome": "Marcos Lima",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 21,
-    "time": "Time A",
-    "mediaOdds": 1.80
-  },
-  {
-    "id": 25,
-    "pontos": 110,
-    "totalApostado": 260.26,
-    "nome": "Tatiane Almeida",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 22,
-    "time": "Time B",
-    "mediaOdds": 2.30
-  },
-  {
-    "id": 4,
-    "pontos": 100,
-    "totalApostado": 250.25,
-    "nome": "Célia Moreira",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 23,
-    "time": "Time C",
-    "mediaOdds": 1.55
-  },
-  {
-    "id": 14,
-    "pontos": 95,
-    "totalApostado": 270.27,
-    "nome": "Eduardo Ferreira",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 24,
-    "time": "Time D",
-    "mediaOdds": 2.45
-  },
-  {
-    "id": 21,
-    "pontos": 95,
-    "totalApostado": 220.2,
-    "nome": "Rafael Oliveira",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 25,
-    "time": "Time A",
-    "mediaOdds": 1.75
-  },
-  {
-    "id": 5,
-    "pontos": 90,
-    "totalApostado": 400.4,
-    "nome": "Jessica Lima",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 26,
-    "time": "Time B",
-    "mediaOdds": 2.10
-  },
-  {
-    "id": 7,
-    "pontos": 80,
-    "totalApostado": 315.15,
-    "nome": "Fábio Santos",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 27,
-    "time": "Time C",
-    "mediaOdds": 1.85
-  },
-  {
-    "id": 6,
-    "pontos": 70,
-    "totalApostado": 226.2,
-    "nome": "Patrícia Martins",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 30,
-    "time": "Time B",
-    "mediaOdds": 1.40
-  },
-  {
-    "id": 28,
-    "pontos": 80,
-    "totalApostado": 220,
-    "nome": "Bruna Costa",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 29,
-    "time": "Time D",
-    "mediaOdds": 2.50
-  },
-  {
-    "id": 8,
-    "pontos": 35,
-    "totalApostado": 210.1,
-    "nome": "Samuel Almeida",
-    "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
-    "classificacao": 30,
-    "time": "Time A",
-    "mediaOdds": 1.95
-  }
-]
+{
+  "Time A": [
+    {
+      "id": 29,
+      "pontos": 289,
+      "totalApostado": 700.7,
+      "nome": "Lucas Silva",
+      "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+      "classificacao": 1,
+      "mediaOdds": 1.75
+    },
+    {
+      "id": 19,
+      "pontos": 230,
+      "totalApostado": 450.9,
+      "nome": "Carlos Almeida",
+      "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+      "classificacao": 5,
+      "mediaOdds": 1.95
+    },
+    {
+      "id": 24,
+      "pontos": 190,
+      "totalApostado": 390.39,
+      "nome": "Ricardo Lima",
+      "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+      "classificacao": 9,
+      "mediaOdds": 1.80
+    },
+    {
+      "id": 27,
+      "pontos": 160,
+      "totalApostado": 370.37,
+      "nome": "Gabriel Martins",
+      "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+      "classificacao": 13,
+      "mediaOdds": 1.75
+    },
+    {
+      "id": 9,
+      "pontos": 130,
+      "totalApostado": 350.35,
+      "nome": "Thiago Almeida",
+      "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+      "classificacao": 17,
+      "mediaOdds": 1.95
+    },
+    {
+      "id": 21,
+      "pontos": 95,
+      "totalApostado": 220.2,
+      "nome": "Rafael Oliveira",
+      "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+      "classificacao": 25,
+      "mediaOdds": 1.75
+    },
+    {
+      "id": 15,
+      "pontos": 110,
+      "totalApostado": 285.85,
+      "nome": "Marcos Lima",
+      "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+      "classificacao": 21,
+      "mediaOdds": 1.80
+    }
+  ],
+  "Time B": [
+    {
+      "id": 1,
+      "pontos": 289,
+      "totalApostado": 685.19,
+      "nome": "Ana Oliveira",
+      "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+      "classificacao": 2,
+      "mediaOdds": 2.10
+    },
+    {
+      "id": 18,
+      "pontos": 220,
+      "totalApostado": 360.36,
+      "nome": "Julia Martins",
+      "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+      "classificacao": 6,
+      "mediaOdds": 1.65
+    },
+    {
+      "id": 2,
+      "pontos": 150,
+      "totalApostado": 500.5,
+      "nome": "Renata Gomes",
+      "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+      "classificacao": 14,
+      "mediaOdds": 2.10
+    },
+    {
+      "id": 13,
+      "pontos": 180,
+      "totalApostado": 400,
+      "nome": "Tatiane Rocha",
+      "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+      "classificacao": 10,
+      "mediaOdds": 2.30
+    },
+    {
+      "id": 25,
+      "pontos": 110,
+      "totalApostado": 260.26,
+      "nome": "Tatiane Almeida",
+      "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+      "classificacao": 22,
+      "mediaOdds": 2.30
+    },
+    {
+      "id": 5,
+      "pontos": 90,
+      "totalApostado": 400.4,
+      "nome": "Jessica Lima",
+      "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+      "classificacao": 26,
+      "mediaOdds": 2.10
+    },
+    {
+      "id": 30,
+      "pontos": 130,
+      "totalApostado": 340.34,
+      "nome": "Camila Silva",
+      "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+      "classificacao": 18,
+      "mediaOdds": 1.65
+    }
+  ],
+  "Time C": [
+    {
+      "id": 23,
+      "pontos": 270,
+      "totalApostado": 620.6,
+      "nome": "Pedro Santos",
+      "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+      "classificacao": 3,
+      "mediaOdds": 1.85
+    },
+    {
+      "id": 12,
+      "pontos": 210,
+      "totalApostado": 320.32,
+      "nome": "Felipe Souza",
+      "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+      "classificacao": 7,
+      "mediaOdds": 2.20
+    },
+    {
+      "id": 11,
+      "pontos": 160,
+      "totalApostado": 275.75,
+      "nome": "André Pereira",
+      "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+      "classificacao": 11,
+      "mediaOdds": 1.55
+    },
+    {
+      "id": 4,
+      "pontos": 100,
+      "totalApostado": 250.25,
+      "nome": "Célia Moreira",
+      "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+      "classificacao": 23,
+      "mediaOdds": 1.55
+    },
+    {
+      "id": 17,
+      "pontos": 125,
+      "totalApostado": 450.45,
+      "nome": "Vinícius Santos",
+      "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+      "classificacao": 19,
+      "mediaOdds": 2.20
+    },
+    {
+      "id": 26,
+      "pontos": 140,
+      "totalApostado": 450.4,
+      "nome": "Sofia Mendes",
+      "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+      "classificacao": 16,
+      "mediaOdds": 2.50
+    },
+    {
+      "id": 7,
+      "pontos": 80,
+      "totalApostado": 315.15,
+      "nome": "Fábio Santos",
+      "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+      "classificacao": 27,
+      "mediaOdds": 1.85
+    }
+  ],
+  "Time D": [
+    {
+      "id": 20,
+      "pontos": 240,
+      "totalApostado": 500.5,
+      "nome": "Maria Costa",
+      "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+      "classificacao": 4,
+      "mediaOdds": 2.50
+    },
+    {
+      "id": 22,
+      "pontos": 160,
+      "totalApostado": 310.3,
+      "nome": "Fernanda Carvalho",
+      "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+      "classificacao": 12,
+      "mediaOdds": 2.45
+    },
+    {
+      "id": 14,
+      "pontos": 95,
+      "totalApostado": 270.27,
+      "nome": "Eduardo Ferreira",
+      "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+      "classificacao": 24,
+      "mediaOdds": 2.45
+    },
+    {
+      "id": 6,
+      "pontos": 70,
+      "totalApostado": 226.2,
+      "nome": "Patrícia Martins",
+      "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+      "classificacao": 30,
+      "mediaOdds": 1.40
+    },
+    {
+      "id": 28,
+      "pontos": 80,
+      "totalApostado": 220,
+      "nome": "Bruna Costa",
+      "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
+      "classificacao": 29,
+      "mediaOdds": 2.50
+    }
+  ]
+}
