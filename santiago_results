@@ -6,8 +6,7 @@
     "nome": "Lucas Silva",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 1,
-    "time": "Time A",
-    "mediaOdds": 2.345
+    "time": "Time A"
   },
   {
     "id": 1,
@@ -16,8 +15,7 @@
     "nome": "Ana Oliveira",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 2,
-    "time": "Time B",
-    "mediaOdds": 1.789
+    "time": "Time B"
   },
   {
     "id": 23,
@@ -26,8 +24,7 @@
     "nome": "Pedro Santos",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 3,
-    "time": "Time C",
-    "mediaOdds": 3.456
+    "time": "Time C"
   },
   {
     "id": 20,
@@ -36,8 +33,7 @@
     "nome": "Maria Costa",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 4,
-    "time": "Time D",
-    "mediaOdds": 2.001
+    "time": "Time D"
   },
   {
     "id": 19,
@@ -46,8 +42,7 @@
     "nome": "Carlos Almeida",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 5,
-    "time": "Time A",
-    "mediaOdds": 1.234
+    "time": "Time A"
   },
   {
     "id": 18,
@@ -56,8 +51,7 @@
     "nome": "Julia Martins",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 6,
-    "time": "Time B",
-    "mediaOdds": 4.567
+    "time": "Time B"
   },
   {
     "id": 12,
@@ -66,8 +60,7 @@
     "nome": "Felipe Souza",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 7,
-    "time": "Time C",
-    "mediaOdds": 2.789
+    "time": "Time C"
   },
   {
     "id": 3,
@@ -76,8 +69,7 @@
     "nome": "Mariana Ferreira",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 8,
-    "time": "Time D",
-    "mediaOdds": 3.210
+    "time": "Time D"
   },
   {
     "id": 24,
@@ -86,8 +78,7 @@
     "nome": "Ricardo Lima",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 9,
-    "time": "Time A",
-    "mediaOdds": 1.876
+    "time": "Time A"
   },
   {
     "id": 13,
@@ -96,8 +87,7 @@
     "nome": "Tatiane Rocha",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 10,
-    "time": "Time B",
-    "mediaOdds": 2.145
+    "time": "Time B"
   },
   {
     "id": 11,
@@ -106,8 +96,7 @@
     "nome": "André Pereira",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 11,
-    "time": "Time C",
-    "mediaOdds": 3.678
+    "time": "Time C"
   },
   {
     "id": 22,
@@ -116,8 +105,7 @@
     "nome": "Fernanda Carvalho",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 12,
-    "time": "Time D",
-    "mediaOdds": 2.345
+    "time": "Time D"
   },
   {
     "id": 27,
@@ -126,8 +114,7 @@
     "nome": "Gabriel Martins",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 13,
-    "time": "Time A",
-    "mediaOdds": 1.678
+    "time": "Time A"
   },
   {
     "id": 2,
@@ -136,8 +123,7 @@
     "nome": "Renata Gomes",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 14,
-    "time": "Time B",
-    "mediaOdds": 2.999
+    "time": "Time B"
   },
   {
     "id": 10,
@@ -146,8 +132,7 @@
     "nome": "Bruno Ribeiro",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 15,
-    "time": "Time C",
-    "mediaOdds": 1.555
+    "time": "Time C"
   },
   {
     "id": 26,
@@ -156,8 +141,7 @@
     "nome": "Sofia Mendes",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 16,
-    "time": "Time D",
-    "mediaOdds": 4.234
+    "time": "Time D"
   },
   {
     "id": 9,
@@ -166,8 +150,7 @@
     "nome": "Thiago Almeida",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 17,
-    "time": "Time A",
-    "mediaOdds": 2.111
+    "time": "Time A"
   },
   {
     "id": 30,
@@ -176,8 +159,7 @@
     "nome": "Camila Silva",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 18,
-    "time": "Time B",
-    "mediaOdds": 3.333
+    "time": "Time B"
   },
   {
     "id": 17,
@@ -186,8 +168,7 @@
     "nome": "Vinícius Santos",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 19,
-    "time": "Time C",
-    "mediaOdds": 2.456
+    "time": "Time C"
   },
   {
     "id": 16,
@@ -196,8 +177,7 @@
     "nome": "Larissa Costa",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 20,
-    "time": "Time D",
-    "mediaOdds": 1.876
+    "time": "Time D"
   },
   {
     "id": 15,
@@ -206,8 +186,7 @@
     "nome": "Marcos Lima",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 21,
-    "time": "Time A",
-    "mediaOdds": 3.112
+    "time": "Time A"
   },
   {
     "id": 25,
@@ -216,8 +195,7 @@
     "nome": "Tatiane Almeida",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 22,
-    "time": "Time B",
-    "mediaOdds": 2.852
+    "time": "Time B"
   },
   {
     "id": 4,
@@ -226,8 +204,7 @@
     "nome": "Célia Moreira",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 23,
-    "time": "Time C",
-    "mediaOdds": 1.402
+    "time": "Time C"
   },
   {
     "id": 14,
@@ -236,8 +213,7 @@
     "nome": "Eduardo Ferreira",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 24,
-    "time": "Time D",
-    "mediaOdds": 3.910
+    "time": "Time D"
   },
   {
     "id": 21,
@@ -246,8 +222,7 @@
     "nome": "Rafael Oliveira",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 25,
-    "time": "Time A",
-    "mediaOdds": 2.039
+    "time": "Time A"
   },
   {
     "id": 5,
@@ -256,8 +231,7 @@
     "nome": "Jessica Lima",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 26,
-    "time": "Time B",
-    "mediaOdds": 1.789
+    "time": "Time B"
   },
   {
     "id": 7,
@@ -266,8 +240,7 @@
     "nome": "Fábio Santos",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 27,
-    "time": "Time C",
-    "mediaOdds": 2.347
+    "time": "Time C"
   },
   {
     "id": 28,
@@ -276,8 +249,7 @@
     "nome": "Bruna Costa",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 28,
-    "time": "Time D",
-    "mediaOdds": 3.542
+    "time": "Time D"
   },
   {
     "id": 8,
@@ -286,8 +258,7 @@
     "nome": "Samuel Almeida",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 29,
-    "time": "Time A",
-    "mediaOdds": 1.889
+    "time": "Time A"
   },
   {
     "id": 6,
@@ -296,7 +267,6 @@
     "nome": "Patrícia Martins",
     "updatedAt": "Tue Oct 08 2024 23:51:02 GMT-0300 (Brasilia Standard Time)",
     "classificacao": 30,
-    "time": "Time B",
-    "mediaOdds": 4.214
+    "time": "Time B"
   }
 ]
