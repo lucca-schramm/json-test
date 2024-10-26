@@ -1,2606 +1,5080 @@
-[
+{
+  "ranking": [
+    {
+      "classificacao": "1",
+      "nome": "Anderson",
+      "id": 976878,
+      "pontos": 5,
+      "totalApostado": 25,
+      "somaOdds": 464.18,
+      "updatedAt": "2024-10-26T14:58:31.815Z"
+    },
+    {
+      "classificacao": "2",
+      "nome": "Ozano",
+      "id": 968121,
+      "pontos": 78,
+      "totalApostado": 1737,
+      "somaOdds": 327.92,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "3",
+      "nome": "Joao Santos",
+      "id": 729341,
+      "pontos": 51,
+      "totalApostado": 5501.26,
+      "somaOdds": 185.94,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "4",
+      "nome": "Jose Jucivaldo da",
+      "id": 364607,
+      "pontos": 64,
+      "totalApostado": 1771,
+      "somaOdds": 178.68,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "5",
+      "nome": "Raimundo Jose",
+      "id": 936476,
+      "pontos": 8,
+      "totalApostado": 40,
+      "somaOdds": 170.09,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "6",
+      "nome": "Osvaldo Ferreira da",
+      "id": 338299,
+      "pontos": 7,
+      "totalApostado": 340,
+      "somaOdds": 149.19,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "7",
+      "nome": "Paulo",
+      "id": 214712,
+      "pontos": 36,
+      "totalApostado": 1133,
+      "somaOdds": 144.63,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "8",
+      "nome": "ALVARO",
+      "id": 1219516,
+      "pontos": 23,
+      "totalApostado": 231.23,
+      "somaOdds": 137.78,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "9",
+      "nome": "Nilson",
+      "id": 525092,
+      "pontos": 1,
+      "totalApostado": 5,
+      "somaOdds": 122.72,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "10",
+      "nome": "Herivelton",
+      "id": 808733,
+      "pontos": 13,
+      "totalApostado": 476,
+      "somaOdds": 109.79,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "11",
+      "nome": "reginaldo",
+      "id": 678776,
+      "pontos": 24,
+      "totalApostado": 760,
+      "somaOdds": 109.48,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
     {
-        "id": 976878,
-        "somaOdds": 464.18322099999995,
-        "totalStake": 25,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 1
-    },
-    {
-        "id": 968121,
-        "somaOdds": 344.73299000000003,
-        "totalStake": 1817,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 2
-    },
-    {
-        "id": 729341,
-        "somaOdds": 191.80931299999992,
-        "totalStake": 5851.26,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 3
-    },
-    {
-        "id": 364607,
-        "somaOdds": 180.58000000000007,
-        "totalStake": 1783,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 4
-    },
-    {
-        "id": 936476,
-        "somaOdds": 170.08703300000002,
-        "totalStake": 40,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 5
-    },
-    {
-        "id": 1219516,
-        "somaOdds": 158.45663500000003,
-        "totalStake": 262.08,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 6
-    },
-    {
-        "id": 338299,
-        "somaOdds": 145.82809600000002,
-        "totalStake": 330,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 7
-    },
-    {
-        "id": 214712,
-        "somaOdds": 139.60994,
-        "totalStake": 1053,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 8
-    },
-    {
-        "id": 525092,
-        "somaOdds": 122.718112,
-        "totalStake": 5,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 9
-    },
-    {
-        "id": 808733,
-        "somaOdds": 109.79772900000002,
-        "totalStake": 476,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 10
-    },
-    {
-        "id": 678776,
-        "somaOdds": 105.55990999999999,
-        "totalStake": 750,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 11
-    },
-    {
-        "id": 775878,
-        "somaOdds": 98.510945,
-        "totalStake": 10,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 12
-    },
-    {
-        "id": 735920,
-        "somaOdds": 94.05416299999999,
-        "totalStake": 960,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 13
-    },
-    {
-        "id": 636108,
-        "somaOdds": 90.86117899999999,
-        "totalStake": 667.77,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 14
-    },
-    {
-        "id": 834163,
-        "somaOdds": 80.89659999999996,
-        "totalStake": 173.19,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 15
-    },
-    {
-        "id": 734512,
-        "somaOdds": 79.082403,
-        "totalStake": 175.45,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 16
-    },
-    {
-        "id": 687311,
-        "somaOdds": 77.222547,
-        "totalStake": 448,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 17
-    },
-    {
-        "id": 1367567,
-        "somaOdds": 75.71,
-        "totalStake": 155,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 18
-    },
-    {
-        "id": 398022,
-        "somaOdds": 67.021938,
-        "totalStake": 447,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 19
-    },
-    {
-        "id": 693448,
-        "somaOdds": 66.19472400000001,
-        "totalStake": 80,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 20
-    },
-    {
-        "id": 962227,
-        "somaOdds": 62.838298,
-        "totalStake": 5,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 21
-    },
-    {
-        "id": 279825,
-        "somaOdds": 60.306312999999996,
-        "totalStake": 1191.69,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 22
-    },
-    {
-        "id": 1178717,
-        "somaOdds": 58.347181,
-        "totalStake": 93.5,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 23
-    },
-    {
-        "id": 1514193,
-        "somaOdds": 57.598293,
-        "totalStake": 104,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 24
-    },
-    {
-        "id": 555340,
-        "somaOdds": 57.162473000000006,
-        "totalStake": 116.08,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 25
-    },
-    {
-        "id": 648743,
-        "somaOdds": 57.028151,
-        "totalStake": 260.87,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 26
-    },
-    {
-        "id": 715448,
-        "somaOdds": 56.175149,
-        "totalStake": 55,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 27
-    },
-    {
-        "id": 1187332,
-        "somaOdds": 54.018,
-        "totalStake": 30,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 28
-    },
-    {
-        "id": 610121,
-        "somaOdds": 52.78320000000001,
-        "totalStake": 125,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 29
-    },
-    {
-        "id": 1002665,
-        "somaOdds": 52.606393000000004,
-        "totalStake": 871.07,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 30
-    },
-    {
-        "id": 415995,
-        "somaOdds": 52.56971999999999,
-        "totalStake": 427.91999999999996,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 31
-    },
-    {
-        "id": 207407,
-        "somaOdds": 52.04200000000001,
-        "totalStake": 224.9,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 32
-    },
-    {
-        "id": 913096,
-        "somaOdds": 50.078538,
-        "totalStake": 25,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 33
-    },
-    {
-        "id": 1012299,
-        "somaOdds": 48.843052,
-        "totalStake": 421.18,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 34
-    },
-    {
-        "id": 940612,
-        "somaOdds": 47.8865,
-        "totalStake": 95.83000000000001,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 35
-    },
-    {
-        "id": 1016747,
-        "somaOdds": 41.519510999999994,
-        "totalStake": 35,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 36
-    },
-    {
-        "id": 608658,
-        "somaOdds": 40.98109,
-        "totalStake": 622.45,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 37
-    },
-    {
-        "id": 628468,
-        "somaOdds": 40.409522,
-        "totalStake": 20.759999999999998,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 38
-    },
-    {
-        "id": 922143,
-        "somaOdds": 38.351838,
-        "totalStake": 128,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 39
-    },
-    {
-        "id": 775336,
-        "somaOdds": 38.126911,
-        "totalStake": 45,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 40
-    },
-    {
-        "id": 697731,
-        "somaOdds": 33.517577,
-        "totalStake": 48,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 41
-    },
-    {
-        "id": 1421112,
-        "somaOdds": 33.163448,
-        "totalStake": 83,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 42
-    },
-    {
-        "id": 759258,
-        "somaOdds": 31.367106,
-        "totalStake": 254,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 43
-    },
-    {
-        "id": 779528,
-        "somaOdds": 30.240000000000002,
-        "totalStake": 336.41999999999996,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 44
-    },
-    {
-        "id": 552033,
-        "somaOdds": 30.191437,
-        "totalStake": 15,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 45
-    },
-    {
-        "id": 590571,
-        "somaOdds": 29.973264,
-        "totalStake": 30.84,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 46
-    },
-    {
-        "id": 1383094,
-        "somaOdds": 29.9,
-        "totalStake": 429,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 47
-    },
-    {
-        "id": 468384,
-        "somaOdds": 29.096173999999998,
-        "totalStake": 15,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 48
-    },
-    {
-        "id": 1390947,
-        "somaOdds": 28.470015999999998,
-        "totalStake": 697,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 49
-    },
-    {
-        "id": 1453207,
-        "somaOdds": 28.340000000000003,
-        "totalStake": 573,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 50
-    },
-    {
-        "id": 651870,
-        "somaOdds": 28.07,
-        "totalStake": 215,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 51
-    },
-    {
-        "id": 562269,
-        "somaOdds": 28.056019000000003,
-        "totalStake": 599.6500000000001,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 52
-    },
-    {
-        "id": 1317054,
-        "somaOdds": 27.169462,
-        "totalStake": 150,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 53
-    },
-    {
-        "id": 729109,
-        "somaOdds": 26.980034000000003,
-        "totalStake": 35,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 54
-    },
-    {
-        "id": 679812,
-        "somaOdds": 26.930475,
-        "totalStake": 5,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 55
-    },
-    {
-        "id": 1487851,
-        "somaOdds": 25.920646,
-        "totalStake": 110,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 56
-    },
-    {
-        "id": 218027,
-        "somaOdds": 24.857464,
-        "totalStake": 7.5,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 57
-    },
-    {
-        "id": 1211053,
-        "somaOdds": 24.557925,
-        "totalStake": 638.34,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 58
-    },
-    {
-        "id": 575750,
-        "somaOdds": 24.3595,
-        "totalStake": 52,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 59
-    },
-    {
-        "id": 862380,
-        "somaOdds": 24.212602,
-        "totalStake": 153,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 60
-    },
-    {
-        "id": 1254586,
-        "somaOdds": 24.03,
-        "totalStake": 25,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 61
-    },
-    {
-        "id": 1421852,
-        "somaOdds": 23.891555,
-        "totalStake": 35,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 62
-    },
-    {
-        "id": 1016719,
-        "somaOdds": 23.579025,
-        "totalStake": 66.66,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 63
-    },
-    {
-        "id": 596440,
-        "somaOdds": 22.25432,
-        "totalStake": 26,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 64
-    },
-    {
-        "id": 990108,
-        "somaOdds": 22.132852000000003,
-        "totalStake": 330.37,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 65
-    },
-    {
-        "id": 1381409,
-        "somaOdds": 21.571968,
-        "totalStake": 260,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 66
-    },
-    {
-        "id": 778668,
-        "somaOdds": 21.568406,
-        "totalStake": 108.28,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 67
-    },
-    {
-        "id": 654511,
-        "somaOdds": 21.341307999999998,
-        "totalStake": 431.65,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 68
-    },
-    {
-        "id": 1203245,
-        "somaOdds": 20.9724,
-        "totalStake": 589,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 69
-    },
-    {
-        "id": 666650,
-        "somaOdds": 20.673499999999997,
-        "totalStake": 373.31,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 70
-    },
-    {
-        "id": 748595,
-        "somaOdds": 19.890704,
-        "totalStake": 21,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 71
-    },
-    {
-        "id": 956181,
-        "somaOdds": 19.633736,
-        "totalStake": 50,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 72
-    },
-    {
-        "id": 626829,
-        "somaOdds": 19.3254,
-        "totalStake": 245,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 73
-    },
-    {
-        "id": 1385213,
-        "somaOdds": 18.660217,
-        "totalStake": 261.85,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 74
-    },
-    {
-        "id": 1459205,
-        "somaOdds": 18.53,
-        "totalStake": 265.93,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 75
-    },
-    {
-        "id": 861732,
-        "somaOdds": 18.363264,
-        "totalStake": 15,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 76
-    },
-    {
-        "id": 497784,
-        "somaOdds": 16.625549,
-        "totalStake": 1000,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 77
-    },
-    {
-        "id": 645793,
-        "somaOdds": 16.25,
-        "totalStake": 65,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 78
-    },
-    {
-        "id": 588212,
-        "somaOdds": 16.185567,
-        "totalStake": 20,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 79
-    },
-    {
-        "id": 786170,
-        "somaOdds": 16.15,
-        "totalStake": 43.95,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 80
-    },
-    {
-        "id": 433119,
-        "somaOdds": 16.100284000000002,
-        "totalStake": 99.26,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 81
-    },
-    {
-        "id": 752401,
-        "somaOdds": 16.052177,
-        "totalStake": 173.32,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 82
-    },
-    {
-        "id": 1454173,
-        "somaOdds": 15.977523999999999,
-        "totalStake": 40,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 83
-    },
-    {
-        "id": 734495,
-        "somaOdds": 15.918608,
-        "totalStake": 38.730000000000004,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 84
-    },
-    {
-        "id": 227838,
-        "somaOdds": 15.230915,
-        "totalStake": 15,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 85
-    },
-    {
-        "id": 1166578,
-        "somaOdds": 14.53475,
-        "totalStake": 209,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 86
-    },
-    {
-        "id": 857912,
-        "somaOdds": 14.482717999999998,
-        "totalStake": 40,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 87
-    },
-    {
-        "id": 535675,
-        "somaOdds": 13.984147,
-        "totalStake": 10,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 88
-    },
-    {
-        "id": 1389297,
-        "somaOdds": 13.61,
-        "totalStake": 25,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 89
-    },
-    {
-        "id": 746407,
-        "somaOdds": 13.324952,
-        "totalStake": 60,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 90
-    },
-    {
-        "id": 394883,
-        "somaOdds": 13.220267,
-        "totalStake": 175,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 91
-    },
-    {
-        "id": 520904,
-        "somaOdds": 13.124127999999999,
-        "totalStake": 21.78,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 92
-    },
-    {
-        "id": 896222,
-        "somaOdds": 12.985631999999999,
-        "totalStake": 20,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 93
-    },
-    {
-        "id": 1469326,
-        "somaOdds": 12.906986,
-        "totalStake": 40,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 94
-    },
-    {
-        "id": 477267,
-        "somaOdds": 12.4873,
-        "totalStake": 110,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 95
-    },
-    {
-        "id": 1002172,
-        "somaOdds": 12.33,
-        "totalStake": 76.97,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 96
-    },
-    {
-        "id": 616022,
-        "somaOdds": 12.119402,
-        "totalStake": 40,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 97
-    },
-    {
-        "id": 661271,
-        "somaOdds": 10.95,
-        "totalStake": 125.75,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 98
-    },
-    {
-        "id": 1467615,
-        "somaOdds": 10.81962,
-        "totalStake": 410,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 99
-    },
-    {
-        "id": 1142331,
-        "somaOdds": 10.7904,
-        "totalStake": 20,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 100
-    },
-    {
-        "id": 650151,
-        "somaOdds": 10.629667999999999,
-        "totalStake": 294.78,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 101
-    },
-    {
-        "id": 499644,
-        "somaOdds": 10.1342,
-        "totalStake": 400,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 102
-    },
-    {
-        "id": 1179426,
-        "somaOdds": 10.062072,
-        "totalStake": 5,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 103
-    },
-    {
-        "id": 663274,
-        "somaOdds": 9.694298,
-        "totalStake": 55,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 104
-    },
-    {
-        "id": 231735,
-        "somaOdds": 9.507398,
-        "totalStake": 20,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 105
-    },
-    {
-        "id": 1272512,
-        "somaOdds": 9.45,
-        "totalStake": 10,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 106
-    },
-    {
-        "id": 1337002,
-        "somaOdds": 9.161965,
-        "totalStake": 20,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 107
-    },
-    {
-        "id": 1287849,
-        "somaOdds": 9.1204,
-        "totalStake": 59.849999999999994,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 108
-    },
-    {
-        "id": 1401451,
-        "somaOdds": 8.951534,
-        "totalStake": 75,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 109
-    },
-    {
-        "id": 671324,
-        "somaOdds": 8.66,
-        "totalStake": 224.45000000000002,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 110
-    },
-    {
-        "id": 940184,
-        "somaOdds": 8.633692,
-        "totalStake": 30,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 111
-    },
-    {
-        "id": 486328,
-        "somaOdds": 8.4674,
-        "totalStake": 50,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 112
-    },
-    {
-        "id": 670447,
-        "somaOdds": 8.344999999999999,
-        "totalStake": 29,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 113
-    },
-    {
-        "id": 1407623,
-        "somaOdds": 8.25,
-        "totalStake": 10,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 114
-    },
-    {
-        "id": 1436369,
-        "somaOdds": 8.185396,
-        "totalStake": 40,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 115
-    },
-    {
-        "id": 229907,
-        "somaOdds": 8.145252,
-        "totalStake": 27,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 116
-    },
-    {
-        "id": 862021,
-        "somaOdds": 7.983614,
-        "totalStake": 116.65,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 117
-    },
-    {
-        "id": 198878,
-        "somaOdds": 7.785211,
-        "totalStake": 5.49,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 118
-    },
-    {
-        "id": 1443805,
-        "somaOdds": 7.705,
-        "totalStake": 68,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 119
-    },
-    {
-        "id": 872551,
-        "somaOdds": 7.0459,
-        "totalStake": 90.5,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 120
-    },
-    {
-        "id": 1423916,
-        "somaOdds": 7.035,
-        "totalStake": 170,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 121
-    },
-    {
-        "id": 217681,
-        "somaOdds": 6.904,
-        "totalStake": 130.66,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 122
-    },
-    {
-        "id": 824034,
-        "somaOdds": 6.9,
-        "totalStake": 23,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 123
-    },
-    {
-        "id": 683645,
-        "somaOdds": 6.7019,
-        "totalStake": 15,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 124
-    },
-    {
-        "id": 405532,
-        "somaOdds": 6.609,
-        "totalStake": 70.06,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 125
-    },
-    {
-        "id": 750127,
-        "somaOdds": 6.303100000000001,
-        "totalStake": 17.19,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 126
-    },
-    {
-        "id": 1505404,
-        "somaOdds": 6.2092,
-        "totalStake": 50,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 127
-    },
-    {
-        "id": 1469129,
-        "somaOdds": 6.1356,
-        "totalStake": 10,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 128
-    },
-    {
-        "id": 1513735,
-        "somaOdds": 6.045062,
-        "totalStake": 50,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 129
-    },
-    {
-        "id": 682127,
-        "somaOdds": 5.95,
-        "totalStake": 10,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 130
-    },
-    {
-        "id": 411107,
-        "somaOdds": 5.8872,
-        "totalStake": 5,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 131
-    },
-    {
-        "id": 1401294,
-        "somaOdds": 5.740282,
-        "totalStake": 80,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 132
-    },
-    {
-        "id": 994961,
-        "somaOdds": 5.72,
-        "totalStake": 10,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 133
-    },
-    {
-        "id": 915409,
-        "somaOdds": 5.625,
-        "totalStake": 34.019999999999996,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 134
-    },
-    {
-        "id": 586961,
-        "somaOdds": 5.615969,
-        "totalStake": 172,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 135
-    },
-    {
-        "id": 683859,
-        "somaOdds": 5.533125,
-        "totalStake": 15,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 136
-    },
-    {
-        "id": 869863,
-        "somaOdds": 5.5282,
-        "totalStake": 20,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 137
-    },
-    {
-        "id": 199453,
-        "somaOdds": 5.5,
-        "totalStake": 10,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 138
-    },
-    {
-        "id": 441029,
-        "somaOdds": 5.3504,
-        "totalStake": 5,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 139
-    },
-    {
-        "id": 1435062,
-        "somaOdds": 5.266839,
-        "totalStake": 100,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 140
-    },
-    {
-        "id": 981551,
-        "somaOdds": 5.231371,
-        "totalStake": 120.06,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 141
-    },
-    {
-        "id": 315950,
-        "somaOdds": 5.2,
-        "totalStake": 14,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 142
-    },
-    {
-        "id": 791594,
-        "somaOdds": 5.130002,
-        "totalStake": 13,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 143
-    },
-    {
-        "id": 1371752,
-        "somaOdds": 4.9399999999999995,
-        "totalStake": 40,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 144
-    },
-    {
-        "id": 1366154,
-        "somaOdds": 4.8172,
-        "totalStake": 15,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 145
-    },
-    {
-        "id": 815745,
-        "somaOdds": 4.7,
-        "totalStake": 230,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 146
-    },
-    {
-        "id": 1302620,
-        "somaOdds": 4.529999999999999,
-        "totalStake": 15,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 147
-    },
-    {
-        "id": 661419,
-        "somaOdds": 4.41,
-        "totalStake": 10,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 148
-    },
-    {
-        "id": 1417744,
-        "somaOdds": 4.300000000000001,
-        "totalStake": 21,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 149
-    },
-    {
-        "id": 1263045,
-        "somaOdds": 4.2568,
-        "totalStake": 1200,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 150
-    },
-    {
-        "id": 559092,
-        "somaOdds": 4.24,
-        "totalStake": 42.33,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 151
-    },
-    {
-        "id": 1444499,
-        "somaOdds": 4.17,
-        "totalStake": 24,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 152
-    },
-    {
-        "id": 280830,
-        "somaOdds": 4.14839,
-        "totalStake": 20,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 153
-    },
-    {
-        "id": 1284732,
-        "somaOdds": 4.0600000000000005,
-        "totalStake": 20,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 154
-    },
-    {
-        "id": 1255900,
-        "somaOdds": 4.05,
-        "totalStake": 20.7,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 155
-    },
-    {
-        "id": 1454179,
-        "somaOdds": 4.012313000000001,
-        "totalStake": 187.99,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 156
-    },
-    {
-        "id": 1427070,
-        "somaOdds": 3.8,
-        "totalStake": 10,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 157
-    },
-    {
-        "id": 1509677,
-        "somaOdds": 3.75,
-        "totalStake": 10,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 158
-    },
-    {
-        "id": 216447,
-        "somaOdds": 3.654,
-        "totalStake": 6,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 159
-    },
-    {
-        "id": 424648,
-        "somaOdds": 3.53,
-        "totalStake": 20,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 160
-    },
-    {
-        "id": 586049,
-        "somaOdds": 3.33,
-        "totalStake": 10,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 161
-    },
-    {
-        "id": 749794,
-        "somaOdds": 3.2853,
-        "totalStake": 40,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 162
-    },
-    {
-        "id": 971658,
-        "somaOdds": 3.28,
-        "totalStake": 100,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 163
-    },
-    {
-        "id": 393650,
-        "somaOdds": 3.28,
-        "totalStake": 35,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 164
-    },
-    {
-        "id": 830420,
-        "somaOdds": 3.25,
-        "totalStake": 6.63,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 165
-    },
-    {
-        "id": 664287,
-        "somaOdds": 3.15,
-        "totalStake": 25,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 166
-    },
-    {
-        "id": 597839,
-        "somaOdds": 3.11,
-        "totalStake": 5,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 167
-    },
-    {
-        "id": 659779,
-        "somaOdds": 3.11,
-        "totalStake": 5,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 168
-    },
-    {
-        "id": 1390926,
-        "somaOdds": 3,
-        "totalStake": 50,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 169
-    },
-    {
-        "id": 708416,
-        "somaOdds": 2.7,
-        "totalStake": 5,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 170
-    },
-    {
-        "id": 827732,
-        "somaOdds": 2.7,
-        "totalStake": 5,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 171
-    },
-    {
-        "id": 286955,
-        "somaOdds": 2.691,
-        "totalStake": 5,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 172
-    },
-    {
-        "id": 1368091,
-        "somaOdds": 2.5,
-        "totalStake": 20,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 173
-    },
-    {
-        "id": 1255815,
-        "somaOdds": 2.4566,
-        "totalStake": 10,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 174
-    },
-    {
-        "id": 1452625,
-        "somaOdds": 2.32,
-        "totalStake": 40,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 175
-    },
-    {
-        "id": 824365,
-        "somaOdds": 2.32,
-        "totalStake": 10,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 176
-    },
-    {
-        "id": 205469,
-        "somaOdds": 2.306491,
-        "totalStake": 40,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 177
-    },
-    {
-        "id": 253341,
-        "somaOdds": 2.3,
-        "totalStake": 20,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 178
-    },
-    {
-        "id": 446374,
-        "somaOdds": 2.26,
-        "totalStake": 10,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 179
-    },
-    {
-        "id": 660444,
-        "somaOdds": 2.25504,
-        "totalStake": 20,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 180
-    },
-    {
-        "id": 624850,
-        "somaOdds": 2.2275,
-        "totalStake": 25,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 181
-    },
-    {
-        "id": 1509611,
-        "somaOdds": 2.2,
-        "totalStake": 20,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 182
-    },
-    {
-        "id": 757028,
-        "somaOdds": 2.156875,
-        "totalStake": 155,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 183
-    },
-    {
-        "id": 1295514,
-        "somaOdds": 2.1306,
-        "totalStake": 10,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 184
-    },
-    {
-        "id": 1404986,
-        "somaOdds": 2.12,
-        "totalStake": 36,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 185
-    },
-    {
-        "id": 1407072,
-        "somaOdds": 2.1,
-        "totalStake": 26,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 186
-    },
-    {
-        "id": 1024147,
-        "somaOdds": 2.1,
-        "totalStake": 10,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 187
-    },
-    {
-        "id": 1428714,
-        "somaOdds": 2.1,
-        "totalStake": 10,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 188
-    },
-    {
-        "id": 11690,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 189
-    },
-    {
-        "id": 114549,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 190
-    },
-    {
-        "id": 115580,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 191
-    },
-    {
-        "id": 130994,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 192
-    },
-    {
-        "id": 159824,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 193
-    },
-    {
-        "id": 203015,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 194
-    },
-    {
-        "id": 203171,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 195
-    },
-    {
-        "id": 204994,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 196
-    },
-    {
-        "id": 207645,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 197
-    },
-    {
-        "id": 229198,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 198
-    },
-    {
-        "id": 232266,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 199
-    },
-    {
-        "id": 246394,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 200
-    },
-    {
-        "id": 261314,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 201
-    },
-    {
-        "id": 265202,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 202
-    },
-    {
-        "id": 271451,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 203
-    },
-    {
-        "id": 274470,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 204
-    },
-    {
-        "id": 303226,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 205
-    },
-    {
-        "id": 305894,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 206
-    },
-    {
-        "id": 324920,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 207
-    },
-    {
-        "id": 328793,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 208
-    },
-    {
-        "id": 334579,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 209
-    },
-    {
-        "id": 344700,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 210
-    },
-    {
-        "id": 346361,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 211
-    },
-    {
-        "id": 353976,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 212
-    },
-    {
-        "id": 367581,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 213
-    },
-    {
-        "id": 372556,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 214
-    },
-    {
-        "id": 396209,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 215
-    },
-    {
-        "id": 407220,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 216
-    },
-    {
-        "id": 412226,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 217
-    },
-    {
-        "id": 416478,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 218
-    },
-    {
-        "id": 417710,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 219
-    },
-    {
-        "id": 419664,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 220
-    },
-    {
-        "id": 425465,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 221
-    },
-    {
-        "id": 431691,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 222
-    },
-    {
-        "id": 437024,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 223
-    },
-    {
-        "id": 437048,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 224
-    },
-    {
-        "id": 456519,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 225
-    },
-    {
-        "id": 472198,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 226
-    },
-    {
-        "id": 485477,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 227
-    },
-    {
-        "id": 489210,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 228
-    },
-    {
-        "id": 489949,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 229
-    },
-    {
-        "id": 495034,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 230
-    },
-    {
-        "id": 510975,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 231
-    },
-    {
-        "id": 521536,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 232
-    },
-    {
-        "id": 534267,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 233
-    },
-    {
-        "id": 544056,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 234
-    },
-    {
-        "id": 545961,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 235
-    },
-    {
-        "id": 558791,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 236
-    },
-    {
-        "id": 566893,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 237
-    },
-    {
-        "id": 571590,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 238
-    },
-    {
-        "id": 576724,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 239
-    },
-    {
-        "id": 581402,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 240
-    },
-    {
-        "id": 590539,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 241
-    },
-    {
-        "id": 597996,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 242
-    },
-    {
-        "id": 605574,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 243
-    },
-    {
-        "id": 608006,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 244
-    },
-    {
-        "id": 613171,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 245
-    },
-    {
-        "id": 615589,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 246
-    },
-    {
-        "id": 636698,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 247
-    },
-    {
-        "id": 654672,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 248
-    },
-    {
-        "id": 659546,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 249
-    },
-    {
-        "id": 659762,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 250
-    },
-    {
-        "id": 669004,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 251
-    },
-    {
-        "id": 669969,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 252
-    },
-    {
-        "id": 671907,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 253
-    },
-    {
-        "id": 683660,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 254
-    },
-    {
-        "id": 684229,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 255
-    },
-    {
-        "id": 699167,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 256
-    },
-    {
-        "id": 702385,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 257
-    },
-    {
-        "id": 714006,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 258
-    },
-    {
-        "id": 715362,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 259
-    },
-    {
-        "id": 736127,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 260
-    },
-    {
-        "id": 739789,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 261
-    },
-    {
-        "id": 751006,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 262
-    },
-    {
-        "id": 752754,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 263
-    },
-    {
-        "id": 756238,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 264
-    },
-    {
-        "id": 757524,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 265
-    },
-    {
-        "id": 763529,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 266
-    },
-    {
-        "id": 765801,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 267
-    },
-    {
-        "id": 770019,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 268
-    },
-    {
-        "id": 772012,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 269
-    },
-    {
-        "id": 778024,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 270
-    },
-    {
-        "id": 789617,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 271
-    },
-    {
-        "id": 795323,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 272
-    },
-    {
-        "id": 804306,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 273
-    },
-    {
-        "id": 814238,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 274
-    },
-    {
-        "id": 828293,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 275
-    },
-    {
-        "id": 828692,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 276
-    },
-    {
-        "id": 832934,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 277
-    },
-    {
-        "id": 854007,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 278
-    },
-    {
-        "id": 854296,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 279
-    },
-    {
-        "id": 861006,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 280
-    },
-    {
-        "id": 881398,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 281
-    },
-    {
-        "id": 892162,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 282
-    },
-    {
-        "id": 898148,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 283
-    },
-    {
-        "id": 916717,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 284
-    },
-    {
-        "id": 923550,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 285
-    },
-    {
-        "id": 924960,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 286
-    },
-    {
-        "id": 927090,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 287
-    },
-    {
-        "id": 928399,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 288
-    },
-    {
-        "id": 928899,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 289
-    },
-    {
-        "id": 933218,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 290
-    },
-    {
-        "id": 945216,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 291
-    },
-    {
-        "id": 947897,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 292
-    },
-    {
-        "id": 950603,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 293
-    },
-    {
-        "id": 956519,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 294
-    },
-    {
-        "id": 960931,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 295
-    },
-    {
-        "id": 965168,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 296
-    },
-    {
-        "id": 978847,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 297
-    },
-    {
-        "id": 981436,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 298
-    },
-    {
-        "id": 981898,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 299
-    },
-    {
-        "id": 998961,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 300
-    },
-    {
-        "id": 1002609,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 301
-    },
-    {
-        "id": 1026358,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 302
-    },
-    {
-        "id": 1048819,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 303
-    },
-    {
-        "id": 1056063,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 304
-    },
-    {
-        "id": 1062018,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 305
-    },
-    {
-        "id": 1062114,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 306
-    },
-    {
-        "id": 1073751,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 307
-    },
-    {
-        "id": 1095829,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 308
-    },
-    {
-        "id": 1142352,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 309
-    },
-    {
-        "id": 1166162,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 310
-    },
-    {
-        "id": 1166783,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 311
-    },
-    {
-        "id": 1175084,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 312
-    },
-    {
-        "id": 1181096,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 313
-    },
-    {
-        "id": 1182591,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 314
-    },
-    {
-        "id": 1204443,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 315
-    },
-    {
-        "id": 1207035,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 316
-    },
-    {
-        "id": 1218740,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 317
-    },
-    {
-        "id": 1219408,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 318
-    },
-    {
-        "id": 1220175,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 319
-    },
-    {
-        "id": 1258509,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 320
-    },
-    {
-        "id": 1285989,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 321
-    },
-    {
-        "id": 1292461,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 322
-    },
-    {
-        "id": 1310342,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 323
-    },
-    {
-        "id": 1320539,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 324
-    },
-    {
-        "id": 1326834,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 325
-    },
-    {
-        "id": 1328273,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 326
-    },
-    {
-        "id": 1329390,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 327
-    },
-    {
-        "id": 1333202,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 328
-    },
-    {
-        "id": 1345716,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 329
-    },
-    {
-        "id": 1348806,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 330
-    },
-    {
-        "id": 1350632,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 331
-    },
-    {
-        "id": 1351415,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 332
-    },
-    {
-        "id": 1352068,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 333
-    },
-    {
-        "id": 1361768,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 334
-    },
-    {
-        "id": 1362396,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 335
-    },
-    {
-        "id": 1365063,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 336
-    },
-    {
-        "id": 1367200,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 337
-    },
-    {
-        "id": 1373121,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 338
-    },
-    {
-        "id": 1380090,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 339
-    },
-    {
-        "id": 1389830,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 340
-    },
-    {
-        "id": 1405094,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 341
-    },
-    {
-        "id": 1412760,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 342
-    },
-    {
-        "id": 1412855,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 343
-    },
-    {
-        "id": 1414602,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 344
-    },
-    {
-        "id": 1415798,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 345
-    },
-    {
-        "id": 1415816,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 346
-    },
-    {
-        "id": 1419844,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 347
-    },
-    {
-        "id": 1420063,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 348
-    },
-    {
-        "id": 1420669,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 349
-    },
-    {
-        "id": 1425538,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 350
-    },
-    {
-        "id": 1427245,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 351
-    },
-    {
-        "id": 1429606,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 352
-    },
-    {
-        "id": 1431612,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 353
-    },
-    {
-        "id": 1433918,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 354
-    },
-    {
-        "id": 1435636,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 355
-    },
-    {
-        "id": 1440771,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 356
-    },
-    {
-        "id": 1440787,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 357
-    },
-    {
-        "id": 1444612,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 358
-    },
-    {
-        "id": 1450767,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 359
-    },
-    {
-        "id": 1451321,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 360
-    },
-    {
-        "id": 1453014,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 361
-    },
-    {
-        "id": 1453732,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 362
-    },
-    {
-        "id": 1457626,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 363
-    },
-    {
-        "id": 1458522,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 364
-    },
-    {
-        "id": 1487320,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 365
-    },
-    {
-        "id": 1504552,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 366
-    },
-    {
-        "id": 1505382,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 367
-    },
-    {
-        "id": 1505816,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 368
-    },
-    {
-        "id": 1506865,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 369
-    },
-    {
-        "id": 1506994,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 370
-    },
-    {
-        "id": 1507307,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 371
-    },
-    {
-        "id": 1519272,
-        "somaOdds": 0,
-        "totalStake": 0,
-        "updatedAt": "2024-10-26T12:32:50.546Z",
-        "classificacao": 372
+      "classificacao": "12",
+      "nome": "Ocrair de Souza Moura Nunes",
+      "id": 775878,
+      "pontos": 1,
+      "totalApostado": 10,
+      "somaOdds": 98.51,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "13",
+      "nome": "Dobson",
+      "id": 636108,
+      "pontos": 20,
+      "totalApostado": 667.77,
+      "somaOdds": 90.89,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "14",
+      "nome": "Fabiano",
+      "id": 735920,
+      "pontos": 16,
+      "totalApostado": 930,
+      "somaOdds": 89.31,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "15",
+      "nome": "luan",
+      "id": 734512,
+      "pontos": 9,
+      "totalApostado": 185.45,
+      "somaOdds": 82.64,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "16",
+      "nome": "IVAN VITOR",
+      "id": 834163,
+      "pontos": 33,
+      "totalApostado": 173.19,
+      "somaOdds": 80.9,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "17",
+      "nome": "Fabio",
+      "id": 687311,
+      "pontos": 13,
+      "totalApostado": 448,
+      "somaOdds": 77.22,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "18",
+      "nome": "Joao",
+      "id": 1367567,
+      "pontos": 20,
+      "totalApostado": 155,
+      "somaOdds": 75.71,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "19",
+      "nome": "Gilson",
+      "id": 398022,
+      "pontos": 12,
+      "totalApostado": 547,
+      "somaOdds": 69.52,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "20",
+      "nome": "FABIANO",
+      "id": 693448,
+      "pontos": 2,
+      "totalApostado": 80,
+      "somaOdds": 66.2,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "21",
+      "nome": "Antonio Edson de Melo",
+      "id": 962227,
+      "pontos": 1,
+      "totalApostado": 5,
+      "somaOdds": 62.84,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "22",
+      "nome": "Lucca",
+      "id": 1514193,
+      "pontos": 18,
+      "totalApostado": 154,
+      "somaOdds": 62.34,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "23",
+      "nome": "Rozemar",
+      "id": 279825,
+      "pontos": 14,
+      "totalApostado": 1191.69,
+      "somaOdds": 60.31,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "24",
+      "nome": "Clodomir",
+      "id": 1178717,
+      "pontos": 13,
+      "totalApostado": 93.5,
+      "somaOdds": 58.34,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "25",
+      "nome": "Rafael Morais",
+      "id": 648743,
+      "pontos": 4,
+      "totalApostado": 260.86,
+      "somaOdds": 57.03,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "26",
+      "nome": "ANDRe LEMOS",
+      "id": 715448,
+      "pontos": 11,
+      "totalApostado": 55,
+      "somaOdds": 56.17,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "27",
+      "nome": "Marcos",
+      "id": 207407,
+      "pontos": 16,
+      "totalApostado": 264.9,
+      "somaOdds": 55.54,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "28",
+      "nome": "Leandro",
+      "id": 1187332,
+      "pontos": 2,
+      "totalApostado": 30,
+      "somaOdds": 54.02,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "29",
+      "nome": "eduardo",
+      "id": 1002665,
+      "pontos": 11,
+      "totalApostado": 871.06,
+      "somaOdds": 52.61,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "30",
+      "nome": "Ricardo",
+      "id": 415995,
+      "pontos": 22,
+      "totalApostado": 427.91,
+      "somaOdds": 52.56,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "31",
+      "nome": "Marcos Andre",
+      "id": 610121,
+      "pontos": 17,
+      "totalApostado": 115,
+      "somaOdds": 50.68,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "32",
+      "nome": "Marcos",
+      "id": 913096,
+      "pontos": 2,
+      "totalApostado": 25,
+      "somaOdds": 50.08,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "33",
+      "nome": "Jorgiel",
+      "id": 940612,
+      "pontos": 14,
+      "totalApostado": 95.83,
+      "somaOdds": 47.88,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "34",
+      "nome": "Sonildo",
+      "id": 1012299,
+      "pontos": 14,
+      "totalApostado": 401.18,
+      "somaOdds": 45.44,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "35",
+      "nome": "Francisco",
+      "id": 1016747,
+      "pontos": 2,
+      "totalApostado": 35,
+      "somaOdds": 41.51,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "36",
+      "nome": "edimar",
+      "id": 608658,
+      "pontos": 7,
+      "totalApostado": 622.45,
+      "somaOdds": 40.99,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "37",
+      "nome": "Adailton",
+      "id": 628468,
+      "pontos": 4,
+      "totalApostado": 20.76,
+      "somaOdds": 40.41,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "38",
+      "nome": "Leandro",
+      "id": 555340,
+      "pontos": 7,
+      "totalApostado": 100,
+      "somaOdds": 39.95,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "39",
+      "nome": "Carlos Alberto Alves da Silva",
+      "id": 775336,
+      "pontos": 2,
+      "totalApostado": 45,
+      "somaOdds": 38.13,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "40",
+      "nome": "Jose Fernando",
+      "id": 697731,
+      "pontos": 3,
+      "totalApostado": 48,
+      "somaOdds": 33.52,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "41",
+      "nome": "FRANCISCO",
+      "id": 1421112,
+      "pontos": 7,
+      "totalApostado": 83,
+      "somaOdds": 33.15,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "42",
+      "nome": "Illyan",
+      "id": 922143,
+      "pontos": 3,
+      "totalApostado": 100,
+      "somaOdds": 32.36,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "43",
+      "nome": "Carlos",
+      "id": 759258,
+      "pontos": 5,
+      "totalApostado": 254,
+      "somaOdds": 31.37,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "44",
+      "nome": "Marcos",
+      "id": 779528,
+      "pontos": 9,
+      "totalApostado": 336.42,
+      "somaOdds": 30.24,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "45",
+      "nome": "Bruno",
+      "id": 552033,
+      "pontos": 3,
+      "totalApostado": 15,
+      "somaOdds": 30.19,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "46",
+      "nome": "Alex",
+      "id": 590571,
+      "pontos": 5,
+      "totalApostado": 30.84,
+      "somaOdds": 29.98,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "47",
+      "nome": "Lenivaldo",
+      "id": 1383094,
+      "pontos": 14,
+      "totalApostado": 429,
+      "somaOdds": 29.9,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "48",
+      "nome": "Fabiano",
+      "id": 468384,
+      "pontos": 3,
+      "totalApostado": 15,
+      "somaOdds": 29.09,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "49",
+      "nome": "Matheus",
+      "id": 1390947,
+      "pontos": 11,
+      "totalApostado": 697,
+      "somaOdds": 28.67,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "50",
+      "nome": "Johny",
+      "id": 1453207,
+      "pontos": 12,
+      "totalApostado": 573,
+      "somaOdds": 28.34,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "51",
+      "nome": "Daniel",
+      "id": 651870,
+      "pontos": 4,
+      "totalApostado": 215,
+      "somaOdds": 28.07,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "52",
+      "nome": "Josue",
+      "id": 1317054,
+      "pontos": 3,
+      "totalApostado": 150,
+      "somaOdds": 27.17,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "53",
+      "nome": "Paulo",
+      "id": 729109,
+      "pontos": 7,
+      "totalApostado": 35,
+      "somaOdds": 26.98,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "54",
+      "nome": "Rodrigo",
+      "id": 679812,
+      "pontos": 1,
+      "totalApostado": 5,
+      "somaOdds": 26.93,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "55",
+      "nome": "Willian",
+      "id": 1487851,
+      "pontos": 11,
+      "totalApostado": 110,
+      "somaOdds": 25.91,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "56",
+      "nome": "Miguel",
+      "id": 562269,
+      "pontos": 7,
+      "totalApostado": 537.32,
+      "somaOdds": 24.95,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "57",
+      "nome": "Gilberto",
+      "id": 218027,
+      "pontos": 1,
+      "totalApostado": 7.5,
+      "somaOdds": 24.86,
+      "updatedAt": "2024-10-26T14:58:31.816Z"
+    },
+    {
+      "classificacao": "58",
+      "nome": "Adailson",
+      "id": 1211053,
+      "pontos": 8,
+      "totalApostado": 638.34,
+      "somaOdds": 24.56,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "59",
+      "nome": "Giovani",
+      "id": 575750,
+      "pontos": 4,
+      "totalApostado": 52,
+      "somaOdds": 24.35,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "60",
+      "nome": "Alberto Manuel",
+      "id": 1254586,
+      "pontos": 5,
+      "totalApostado": 25,
+      "somaOdds": 24.03,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "61",
+      "nome": "Magnum",
+      "id": 1421852,
+      "pontos": 1,
+      "totalApostado": 35,
+      "somaOdds": 23.89,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "62",
+      "nome": "Roberto",
+      "id": 861732,
+      "pontos": 2,
+      "totalApostado": 25,
+      "somaOdds": 23.7,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "63",
+      "nome": "Lucivaldo",
+      "id": 1016719,
+      "pontos": 5,
+      "totalApostado": 66.66,
+      "somaOdds": 23.59,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "64",
+      "nome": "Elindonvan",
+      "id": 596440,
+      "pontos": 1,
+      "totalApostado": 26,
+      "somaOdds": 22.25,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "65",
+      "nome": "Ademir",
+      "id": 990108,
+      "pontos": 4,
+      "totalApostado": 330.37,
+      "somaOdds": 22.13,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "66",
+      "nome": "Rafael",
+      "id": 1381409,
+      "pontos": 4,
+      "totalApostado": 260,
+      "somaOdds": 21.57,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "67",
+      "nome": "Jailson",
+      "id": 778668,
+      "pontos": 6,
+      "totalApostado": 108.28,
+      "somaOdds": 21.57,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "68",
+      "nome": "Manuel",
+      "id": 654511,
+      "pontos": 5,
+      "totalApostado": 431.65,
+      "somaOdds": 21.35,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "69",
+      "nome": "Marcio",
+      "id": 1203245,
+      "pontos": 2,
+      "totalApostado": 589,
+      "somaOdds": 20.97,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "70",
+      "nome": "Jane",
+      "id": 666650,
+      "pontos": 8,
+      "totalApostado": 373.31,
+      "somaOdds": 20.68,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "71",
+      "nome": "luiz andre",
+      "id": 956181,
+      "pontos": 5,
+      "totalApostado": 50,
+      "somaOdds": 19.63,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "72",
+      "nome": "Janilson",
+      "id": 626829,
+      "pontos": 6,
+      "totalApostado": 245,
+      "somaOdds": 19.33,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "73",
+      "nome": "FRANCISCO",
+      "id": 1459205,
+      "pontos": 7,
+      "totalApostado": 265.92,
+      "somaOdds": 18.53,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "74",
+      "nome": "ANTONIO",
+      "id": 862380,
+      "pontos": 2,
+      "totalApostado": 103,
+      "somaOdds": 16.68,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "75",
+      "nome": "Filipe",
+      "id": 1385213,
+      "pontos": 5,
+      "totalApostado": 211.85,
+      "somaOdds": 16.41,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "76",
+      "nome": "Marcia Luiza",
+      "id": 645793,
+      "pontos": 7,
+      "totalApostado": 65,
+      "somaOdds": 16.25,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "77",
+      "nome": "Mauro",
+      "id": 588212,
+      "pontos": 2,
+      "totalApostado": 20,
+      "somaOdds": 16.18,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "78",
+      "nome": "William",
+      "id": 433119,
+      "pontos": 7,
+      "totalApostado": 99.26,
+      "somaOdds": 16.09,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "79",
+      "nome": "Rafael",
+      "id": 752401,
+      "pontos": 6,
+      "totalApostado": 173.32,
+      "somaOdds": 16.05,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "80",
+      "nome": "Gabriel",
+      "id": 1454173,
+      "pontos": 3,
+      "totalApostado": 40,
+      "somaOdds": 15.98,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "81",
+      "nome": "CARLOS",
+      "id": 734495,
+      "pontos": 2,
+      "totalApostado": 38.73,
+      "somaOdds": 15.92,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "82",
+      "nome": "felipe",
+      "id": 227838,
+      "pontos": 1,
+      "totalApostado": 15,
+      "somaOdds": 15.23,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "83",
+      "nome": "Carlos",
+      "id": 1166578,
+      "pontos": 6,
+      "totalApostado": 209,
+      "somaOdds": 14.53,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "84",
+      "nome": "Junielson",
+      "id": 857912,
+      "pontos": 5,
+      "totalApostado": 40,
+      "somaOdds": 14.47,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "85",
+      "nome": "Marcelo",
+      "id": 786170,
+      "pontos": 6,
+      "totalApostado": 41.95,
+      "somaOdds": 14.16,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "86",
+      "nome": "Claudio Miguel",
+      "id": 535675,
+      "pontos": 1,
+      "totalApostado": 10,
+      "somaOdds": 13.98,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "87",
+      "nome": "Everton",
+      "id": 1389297,
+      "pontos": 5,
+      "totalApostado": 25,
+      "somaOdds": 13.61,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "88",
+      "nome": "ROBERTO",
+      "id": 746407,
+      "pontos": 4,
+      "totalApostado": 60,
+      "somaOdds": 13.33,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "89",
+      "nome": "Ademir",
+      "id": 497784,
+      "pontos": 3,
+      "totalApostado": 700,
+      "somaOdds": 13.23,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "90",
+      "nome": "Marcelo",
+      "id": 394883,
+      "pontos": 5,
+      "totalApostado": 175,
+      "somaOdds": 13.22,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "91",
+      "nome": "Eric",
+      "id": 520904,
+      "pontos": 3,
+      "totalApostado": 21.78,
+      "somaOdds": 13.13,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "92",
+      "nome": "marcio teixeira dos ssntos",
+      "id": 896222,
+      "pontos": 2,
+      "totalApostado": 20,
+      "somaOdds": 12.99,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "93",
+      "nome": "Emerson",
+      "id": 1469326,
+      "pontos": 4,
+      "totalApostado": 40,
+      "somaOdds": 12.91,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "94",
+      "nome": "Ricardo",
+      "id": 477267,
+      "pontos": 3,
+      "totalApostado": 110,
+      "somaOdds": 12.49,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "95",
+      "nome": "robert",
+      "id": 1002172,
+      "pontos": 5,
+      "totalApostado": 76.97,
+      "somaOdds": 12.33,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "96",
+      "nome": "jose Laercio",
+      "id": 616022,
+      "pontos": 4,
+      "totalApostado": 40,
+      "somaOdds": 12.12,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "97",
+      "nome": "Andre",
+      "id": 1443805,
+      "pontos": 4,
+      "totalApostado": 78,
+      "somaOdds": 11.06,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "98",
+      "nome": "Canuto",
+      "id": 661271,
+      "pontos": 3,
+      "totalApostado": 125.75,
+      "somaOdds": 10.95,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "99",
+      "nome": "Cristian",
+      "id": 748595,
+      "pontos": 2,
+      "totalApostado": 15,
+      "somaOdds": 10.87,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "100",
+      "nome": "EDILSON",
+      "id": 1467615,
+      "pontos": 4,
+      "totalApostado": 410,
+      "somaOdds": 10.81,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "101",
+      "nome": "Carlos Luiz",
+      "id": 1142331,
+      "pontos": 4,
+      "totalApostado": 20,
+      "somaOdds": 10.79,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "102",
+      "nome": "Francisco Benedito de",
+      "id": 650151,
+      "pontos": 3,
+      "totalApostado": 294.78,
+      "somaOdds": 10.63,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "103",
+      "nome": "Edvaldo",
+      "id": 1179426,
+      "pontos": 1,
+      "totalApostado": 5,
+      "somaOdds": 10.06,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "104",
+      "nome": "Jose",
+      "id": 663274,
+      "pontos": 1,
+      "totalApostado": 55,
+      "somaOdds": 9.69,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "105",
+      "nome": "Jose galdino",
+      "id": 1272512,
+      "pontos": 1,
+      "totalApostado": 10,
+      "somaOdds": 9.45,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "106",
+      "nome": "Kaique",
+      "id": 1337002,
+      "pontos": 3,
+      "totalApostado": 20,
+      "somaOdds": 9.16,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "107",
+      "nome": "Maria",
+      "id": 1287849,
+      "pontos": 3,
+      "totalApostado": 59.85,
+      "somaOdds": 9.12,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "108",
+      "nome": "Paulo",
+      "id": 1401451,
+      "pontos": 3,
+      "totalApostado": 75,
+      "somaOdds": 8.95,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "109",
+      "nome": "Claudirrone",
+      "id": 1505404,
+      "pontos": 2,
+      "totalApostado": 60,
+      "somaOdds": 8.84,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "110",
+      "nome": "Camilo",
+      "id": 671324,
+      "pontos": 3,
+      "totalApostado": 224.45,
+      "somaOdds": 8.66,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "111",
+      "nome": "LUIZ",
+      "id": 940184,
+      "pontos": 3,
+      "totalApostado": 30,
+      "somaOdds": 8.63,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "112",
+      "nome": "Erik",
+      "id": 661419,
+      "pontos": 2,
+      "totalApostado": 20,
+      "somaOdds": 8.5,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "113",
+      "nome": "Antonio",
+      "id": 486328,
+      "pontos": 3,
+      "totalApostado": 50,
+      "somaOdds": 8.47,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "114",
+      "nome": "Edivaldo",
+      "id": 670447,
+      "pontos": 3,
+      "totalApostado": 29,
+      "somaOdds": 8.34,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "115",
+      "nome": "Antonio Jorge",
+      "id": 1407623,
+      "pontos": 2,
+      "totalApostado": 10,
+      "somaOdds": 8.25,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "116",
+      "nome": "Matheus",
+      "id": 1436369,
+      "pontos": 2,
+      "totalApostado": 40,
+      "somaOdds": 8.19,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "117",
+      "nome": "Cristiano",
+      "id": 229907,
+      "pontos": 2,
+      "totalApostado": 27,
+      "somaOdds": 8.15,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "118",
+      "nome": "Thiago",
+      "id": 499644,
+      "pontos": 3,
+      "totalApostado": 300,
+      "somaOdds": 8,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "119",
+      "nome": "Antonio",
+      "id": 862021,
+      "pontos": 2,
+      "totalApostado": 116.64,
+      "somaOdds": 7.99,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "120",
+      "nome": "jose rodrigo",
+      "id": 198878,
+      "pontos": 1,
+      "totalApostado": 5.49,
+      "somaOdds": 7.79,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "121",
+      "nome": "Leandro",
+      "id": 872551,
+      "pontos": 3,
+      "totalApostado": 90.5,
+      "somaOdds": 7.04,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "122",
+      "nome": "Aurilio",
+      "id": 1423916,
+      "pontos": 3,
+      "totalApostado": 170,
+      "somaOdds": 7.03,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "123",
+      "nome": "Francisco",
+      "id": 824034,
+      "pontos": 1,
+      "totalApostado": 23,
+      "somaOdds": 6.9,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "124",
+      "nome": "Gilvani",
+      "id": 217681,
+      "pontos": 3,
+      "totalApostado": 130.66,
+      "somaOdds": 6.9,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "125",
+      "nome": "Elieser",
+      "id": 683645,
+      "pontos": 2,
+      "totalApostado": 15,
+      "somaOdds": 6.7,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "126",
+      "nome": "MARCELO",
+      "id": 405532,
+      "pontos": 2,
+      "totalApostado": 70.06,
+      "somaOdds": 6.61,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "127",
+      "nome": "erilio",
+      "id": 750127,
+      "pontos": 2,
+      "totalApostado": 17.19,
+      "somaOdds": 6.3,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "128",
+      "nome": "Gildael",
+      "id": 1469129,
+      "pontos": 2,
+      "totalApostado": 10,
+      "somaOdds": 6.14,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "129",
+      "nome": "Reinaldo",
+      "id": 1513735,
+      "pontos": 1,
+      "totalApostado": 50,
+      "somaOdds": 6.05,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "130",
+      "nome": "Veronica",
+      "id": 682127,
+      "pontos": 2,
+      "totalApostado": 10,
+      "somaOdds": 5.95,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "131",
+      "nome": "Thales",
+      "id": 411107,
+      "pontos": 1,
+      "totalApostado": 5,
+      "somaOdds": 5.89,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "132",
+      "nome": "ADEEL",
+      "id": 1401294,
+      "pontos": 2,
+      "totalApostado": 80,
+      "somaOdds": 5.74,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "133",
+      "nome": "Dirceu",
+      "id": 1024147,
+      "pontos": 2,
+      "totalApostado": 20,
+      "somaOdds": 5.74,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "134",
+      "nome": "Leandro",
+      "id": 994961,
+      "pontos": 1,
+      "totalApostado": 10,
+      "somaOdds": 5.72,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "135",
+      "nome": "Luiz Marcio Santana Silva Nascimento",
+      "id": 915409,
+      "pontos": 2,
+      "totalApostado": 34.02,
+      "somaOdds": 5.62,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "136",
+      "nome": "Fabio",
+      "id": 586961,
+      "pontos": 2,
+      "totalApostado": 172,
+      "somaOdds": 5.61,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "137",
+      "nome": "Luciano Alexandre",
+      "id": 231735,
+      "pontos": 2,
+      "totalApostado": 10,
+      "somaOdds": 5.59,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "138",
+      "nome": "Gilvan",
+      "id": 869863,
+      "pontos": 1,
+      "totalApostado": 20,
+      "somaOdds": 5.53,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "139",
+      "nome": "Leandro",
+      "id": 683859,
+      "pontos": 2,
+      "totalApostado": 15,
+      "somaOdds": 5.53,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "140",
+      "nome": "Diego",
+      "id": 199453,
+      "pontos": 1,
+      "totalApostado": 10,
+      "somaOdds": 5.5,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "141",
+      "nome": "CRISTIANO",
+      "id": 441029,
+      "pontos": 1,
+      "totalApostado": 5,
+      "somaOdds": 5.35,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "142",
+      "nome": "Cristiano",
+      "id": 1435062,
+      "pontos": 1,
+      "totalApostado": 100,
+      "somaOdds": 5.27,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "143",
+      "nome": "rafael",
+      "id": 981551,
+      "pontos": 2,
+      "totalApostado": 120.06,
+      "somaOdds": 5.23,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "144",
+      "nome": "Joao",
+      "id": 315950,
+      "pontos": 2,
+      "totalApostado": 14,
+      "somaOdds": 5.2,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "145",
+      "nome": "Edevaldo",
+      "id": 791594,
+      "pontos": 2,
+      "totalApostado": 13,
+      "somaOdds": 5.13,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "146",
+      "nome": "Marcelo",
+      "id": 1371752,
+      "pontos": 2,
+      "totalApostado": 40,
+      "somaOdds": 4.94,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "147",
+      "nome": "CARLOS",
+      "id": 1366154,
+      "pontos": 2,
+      "totalApostado": 15,
+      "somaOdds": 4.82,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "148",
+      "nome": "Roberto",
+      "id": 815745,
+      "pontos": 2,
+      "totalApostado": 230,
+      "somaOdds": 4.7,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "149",
+      "nome": "Elio",
+      "id": 1302620,
+      "pontos": 2,
+      "totalApostado": 15,
+      "somaOdds": 4.53,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "150",
+      "nome": "Jonathan",
+      "id": 1417744,
+      "pontos": 2,
+      "totalApostado": 21,
+      "somaOdds": 4.3,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "151",
+      "nome": "Leonardo",
+      "id": 1263045,
+      "pontos": 2,
+      "totalApostado": 1200,
+      "somaOdds": 4.26,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "152",
+      "nome": "Leandro Alcantara",
+      "id": 559092,
+      "pontos": 2,
+      "totalApostado": 42.33,
+      "somaOdds": 4.24,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "153",
+      "nome": "Alexsandro",
+      "id": 1444499,
+      "pontos": 2,
+      "totalApostado": 24,
+      "somaOdds": 4.17,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "154",
+      "nome": "Jonathan",
+      "id": 280830,
+      "pontos": 1,
+      "totalApostado": 20,
+      "somaOdds": 4.15,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "155",
+      "nome": "Benjamim",
+      "id": 1284732,
+      "pontos": 2,
+      "totalApostado": 20,
+      "somaOdds": 4.06,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "156",
+      "nome": "Daniel",
+      "id": 1255900,
+      "pontos": 2,
+      "totalApostado": 20.7,
+      "somaOdds": 4.05,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "157",
+      "nome": "Mateus",
+      "id": 1454179,
+      "pontos": 2,
+      "totalApostado": 187.99,
+      "somaOdds": 4.02,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "158",
+      "nome": "Jean",
+      "id": 1427245,
+      "pontos": 1,
+      "totalApostado": 25,
+      "somaOdds": 3.83,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "159",
+      "nome": "Keila",
+      "id": 1427070,
+      "pontos": 1,
+      "totalApostado": 10,
+      "somaOdds": 3.8,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "160",
+      "nome": "Sergio",
+      "id": 1509677,
+      "pontos": 1,
+      "totalApostado": 10,
+      "somaOdds": 3.75,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "161",
+      "nome": "Gilberto",
+      "id": 216447,
+      "pontos": 1,
+      "totalApostado": 6,
+      "somaOdds": 3.65,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "162",
+      "nome": "italo",
+      "id": 424648,
+      "pontos": 1,
+      "totalApostado": 20,
+      "somaOdds": 3.53,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "163",
+      "nome": "Heloisa",
+      "id": 586049,
+      "pontos": 1,
+      "totalApostado": 10,
+      "somaOdds": 3.33,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "164",
+      "nome": "Cristiano",
+      "id": 749794,
+      "pontos": 1,
+      "totalApostado": 40,
+      "somaOdds": 3.29,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "165",
+      "nome": "Elienilson",
+      "id": 971658,
+      "pontos": 1,
+      "totalApostado": 100,
+      "somaOdds": 3.28,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "166",
+      "nome": "Jeferson",
+      "id": 393650,
+      "pontos": 1,
+      "totalApostado": 35,
+      "somaOdds": 3.28,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "167",
+      "nome": "Alex",
+      "id": 830420,
+      "pontos": 1,
+      "totalApostado": 6.63,
+      "somaOdds": 3.25,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "168",
+      "nome": "Elcio Donizetti da Silva",
+      "id": 664287,
+      "pontos": 1,
+      "totalApostado": 25,
+      "somaOdds": 3.15,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "169",
+      "nome": "NELSON",
+      "id": 659779,
+      "pontos": 1,
+      "totalApostado": 5,
+      "somaOdds": 3.11,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "170",
+      "nome": "Tamille",
+      "id": 597839,
+      "pontos": 1,
+      "totalApostado": 5,
+      "somaOdds": 3.11,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "171",
+      "nome": "renan",
+      "id": 1390926,
+      "pontos": 1,
+      "totalApostado": 50,
+      "somaOdds": 3,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "172",
+      "nome": "Carlos Roberto",
+      "id": 827732,
+      "pontos": 1,
+      "totalApostado": 5,
+      "somaOdds": 2.7,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "173",
+      "nome": "Jose Lima Coutinho",
+      "id": 708416,
+      "pontos": 1,
+      "totalApostado": 5,
+      "somaOdds": 2.7,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "174",
+      "nome": "Francisco",
+      "id": 286955,
+      "pontos": 1,
+      "totalApostado": 5,
+      "somaOdds": 2.69,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "175",
+      "nome": "Sergio",
+      "id": 1368091,
+      "pontos": 1,
+      "totalApostado": 20,
+      "somaOdds": 2.5,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "176",
+      "nome": "Cristiano",
+      "id": 1255815,
+      "pontos": 1,
+      "totalApostado": 10,
+      "somaOdds": 2.46,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "177",
+      "nome": "Gabriel",
+      "id": 159824,
+      "pontos": 1,
+      "totalApostado": 10,
+      "somaOdds": 2.38,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "178",
+      "nome": "JOSE EDSON",
+      "id": 1452625,
+      "pontos": 1,
+      "totalApostado": 40,
+      "somaOdds": 2.32,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "179",
+      "nome": "Arthur",
+      "id": 824365,
+      "pontos": 1,
+      "totalApostado": 10,
+      "somaOdds": 2.32,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "180",
+      "nome": "ERICSON",
+      "id": 205469,
+      "pontos": 1,
+      "totalApostado": 40,
+      "somaOdds": 2.31,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "181",
+      "nome": "Cristhiam",
+      "id": 253341,
+      "pontos": 1,
+      "totalApostado": 20,
+      "somaOdds": 2.3,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "182",
+      "nome": "Claudio",
+      "id": 660444,
+      "pontos": 1,
+      "totalApostado": 20,
+      "somaOdds": 2.26,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "183",
+      "nome": "Daniel",
+      "id": 446374,
+      "pontos": 1,
+      "totalApostado": 10,
+      "somaOdds": 2.26,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "184",
+      "nome": "Claudius",
+      "id": 624850,
+      "pontos": 1,
+      "totalApostado": 25,
+      "somaOdds": 2.23,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "185",
+      "nome": "LUCAS DE ANTONIO",
+      "id": 1509611,
+      "pontos": 1,
+      "totalApostado": 20,
+      "somaOdds": 2.2,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "186",
+      "nome": "Adelio",
+      "id": 757028,
+      "pontos": 1,
+      "totalApostado": 155,
+      "somaOdds": 2.16,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "187",
+      "nome": "Claudia",
+      "id": 1295514,
+      "pontos": 1,
+      "totalApostado": 10,
+      "somaOdds": 2.13,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "188",
+      "nome": "Genilson",
+      "id": 1404986,
+      "pontos": 1,
+      "totalApostado": 36,
+      "somaOdds": 2.12,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "189",
+      "nome": "Renan",
+      "id": 1428714,
+      "pontos": 1,
+      "totalApostado": 10,
+      "somaOdds": 2.1,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "190",
+      "nome": "Eremilson",
+      "id": 1407072,
+      "pontos": 1,
+      "totalApostado": 26,
+      "somaOdds": 2.1,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Arland",
+      "id": 11690,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Vedovotto Antonio Claudio",
+      "id": 16713,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Rhayra",
+      "id": 104584,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "LUIZ CLAUDIO",
+      "id": 105651,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Lucas",
+      "id": 114549,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Tacio",
+      "id": 115580,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Edvaldo Pereira",
+      "id": 122568,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Bruno",
+      "id": 130994,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Carlos Eduardo",
+      "id": 203015,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Domingos",
+      "id": 203171,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Vinicius",
+      "id": 204994,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Rudney",
+      "id": 206867,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "CLAUDINEI",
+      "id": 207645,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Leandro",
+      "id": 209563,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Kaique",
+      "id": 229198,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Ricardo",
+      "id": 232266,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Samanta",
+      "id": 239346,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Rodrigo",
+      "id": 246394,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Leonardo",
+      "id": 253150,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "RICARDO",
+      "id": 261314,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "marco",
+      "id": 265202,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Paulo Cesar",
+      "id": 271451,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "vandilson",
+      "id": 274470,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Adailton",
+      "id": 303226,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Rogerio",
+      "id": 304106,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Mateus dos",
+      "id": 305894,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Celio",
+      "id": 308295,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Rodrigo",
+      "id": 324920,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Joao",
+      "id": 328793,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Joao",
+      "id": 329738,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Cassio",
+      "id": 334579,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "LINVAL",
+      "id": 344700,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Glaydson",
+      "id": 346361,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Leandro",
+      "id": 353976,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "MARCELO",
+      "id": 360087,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Jonnatha",
+      "id": 367581,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Valdemir",
+      "id": 372556,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Daniel Augusto Farias Junior",
+      "id": 396209,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "DANIEL DE",
+      "id": 405900,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Jose Antonio Nunes",
+      "id": 407220,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Edivanio",
+      "id": 412226,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Gilson Dantas da Silva",
+      "id": 416478,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Albeniz",
+      "id": 417710,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "marcio",
+      "id": 419664,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "victor",
+      "id": 425465,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Carlos",
+      "id": 431691,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Jenario",
+      "id": 437024,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Renato",
+      "id": 437048,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Jose Paulo",
+      "id": 440287,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Oldair",
+      "id": 456519,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "tiago",
+      "id": 472198,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Eduardo",
+      "id": 485477,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Fabiano",
+      "id": 489210,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Gabriel",
+      "id": 489949,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "clecio",
+      "id": 495034,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Leidiane",
+      "id": 510868,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Jonas Oliveira de Santana",
+      "id": 510975,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "joel",
+      "id": 521536,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Malcionei",
+      "id": 534267,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "MARCIO",
+      "id": 537119,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "LAERCIO",
+      "id": 544056,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Edvard",
+      "id": 544609,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Tiago",
+      "id": 545961,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Ryan",
+      "id": 546586,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "maria",
+      "id": 557073,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Joao",
+      "id": 558791,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "LUIS FERNANDO",
+      "id": 562919,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Mauricio",
+      "id": 566893,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Ronaldo",
+      "id": 570612,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Douglas",
+      "id": 571590,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Aderval dos santos",
+      "id": 576724,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Marcelo",
+      "id": 577834,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Juliano",
+      "id": 578546,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Aderval",
+      "id": 581402,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Valdeson",
+      "id": 582608,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Renan",
+      "id": 585207,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Diogo",
+      "id": 590539,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Bruno",
+      "id": 593274,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Leonardo",
+      "id": 593539,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Fernando",
+      "id": 595285,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Douglas",
+      "id": 597996,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Adriano",
+      "id": 600975,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Aquila Silva dos Santos",
+      "id": 605574,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Geovane",
+      "id": 608006,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Rafael",
+      "id": 613171,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Carlos",
+      "id": 613180,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Ana",
+      "id": 613269,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Alexandre",
+      "id": 615589,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Rafael",
+      "id": 622647,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "ODIRLEI",
+      "id": 632926,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "cleber",
+      "id": 636698,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Hamilton",
+      "id": 642474,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "ODAIR GOMES",
+      "id": 654325,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Jonas Aparecido Pinheiro Paes",
+      "id": 654672,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Thiago",
+      "id": 659546,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Welington",
+      "id": 659762,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Lucas",
+      "id": 665551,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Sammy",
+      "id": 667954,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "PEDRO",
+      "id": 668436,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Vagner",
+      "id": 669004,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "VINICIUS",
+      "id": 669969,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Antonio Olivio de Almeida Junior",
+      "id": 671907,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Ricardo",
+      "id": 674106,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "paulo",
+      "id": 678020,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Carlos",
+      "id": 683660,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Diego",
+      "id": 684229,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "vitor",
+      "id": 689733,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Mayse",
+      "id": 690170,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Carlos",
+      "id": 691831,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "MICHELLE",
+      "id": 692142,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Sidemar",
+      "id": 699167,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Rafael",
+      "id": 699721,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Jose Wellington",
+      "id": 702385,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Anderson",
+      "id": 707887,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Rangel",
+      "id": 713983,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Lucas",
+      "id": 714006,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Carlos Germano",
+      "id": 715362,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "lucas",
+      "id": 730115,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Fabio",
+      "id": 736127,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Roberto",
+      "id": 739789,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Bruno Rafael",
+      "id": 747559,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Josefa",
+      "id": 749071,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Rafael",
+      "id": 750479,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Welliton",
+      "id": 751006,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Milton",
+      "id": 752754,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "ney",
+      "id": 756238,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Alisson",
+      "id": 757524,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Felipe Santos",
+      "id": 761397,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Joao Humberto",
+      "id": 763529,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Maria Luiza",
+      "id": 764462,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Pedro Henrique Da Silva",
+      "id": 765801,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Mateus",
+      "id": 767694,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "vando",
+      "id": 770019,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Sergio",
+      "id": 770158,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "cristielton",
+      "id": 770439,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Elias",
+      "id": 772012,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "emerson",
+      "id": 773836,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Cleidison",
+      "id": 778024,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Luciano",
+      "id": 780841,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Gean",
+      "id": 787698,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "ALMIR",
+      "id": 789617,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Jefferson",
+      "id": 794710,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "LUIZ",
+      "id": 795323,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Daniel",
+      "id": 796726,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "George",
+      "id": 796828,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Ricardo",
+      "id": 804306,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Eduardo Luiz c",
+      "id": 806373,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Jose",
+      "id": 814238,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Mauricio",
+      "id": 819442,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Maria Cristina Roqueto",
+      "id": 820622,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Marcos",
+      "id": 828293,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Welington",
+      "id": 828692,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Elisangela",
+      "id": 830439,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Ligia",
+      "id": 831944,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Flavio",
+      "id": 832934,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Felix",
+      "id": 834224,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Rafael",
+      "id": 854007,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "genilson",
+      "id": 854296,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Francisco",
+      "id": 861006,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Paulo",
+      "id": 861740,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Marco",
+      "id": 864568,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Fernando Antonio",
+      "id": 881398,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "joanes",
+      "id": 892162,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "robertinho",
+      "id": 898148,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Zaqueu",
+      "id": 901372,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Matheus",
+      "id": 908768,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "LUIZ",
+      "id": 908963,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Jobenilson",
+      "id": 912502,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Dhone",
+      "id": 915267,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Matheus",
+      "id": 916628,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Tiago",
+      "id": 916717,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "wermeson",
+      "id": 923550,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "jose",
+      "id": 924960,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "antonio",
+      "id": 927090,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Marcio",
+      "id": 927632,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Rogerio",
+      "id": 928399,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Alefe",
+      "id": 928608,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Rodrigo",
+      "id": 928899,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "luis Paulo",
+      "id": 931368,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Marcus",
+      "id": 933218,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Murilo",
+      "id": 940845,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "diogo",
+      "id": 945216,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Vagner",
+      "id": 947897,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Gabriel",
+      "id": 950603,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Paulinho",
+      "id": 956519,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Vanessa",
+      "id": 960931,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Junio",
+      "id": 965168,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Mario",
+      "id": 967851,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Jose Victor",
+      "id": 973127,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Anderson",
+      "id": 978847,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Thiago",
+      "id": 979560,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Erick",
+      "id": 981436,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "jean",
+      "id": 981898,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Lucas Eduardo Oliveira da Silva",
+      "id": 998961,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Doglany",
+      "id": 1002609,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Joseval",
+      "id": 1005941,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Valdiney",
+      "id": 1008915,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "deise Cristina",
+      "id": 1017293,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Emili",
+      "id": 1020195,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Eduardo Diogo Sales",
+      "id": 1023362,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Mercia",
+      "id": 1025017,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Luciano",
+      "id": 1026358,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "maycom",
+      "id": 1037257,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Bianca",
+      "id": 1043754,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Jose",
+      "id": 1048819,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Thiago",
+      "id": 1056063,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "daniel",
+      "id": 1059418,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Raimundo",
+      "id": 1062018,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Marcia Valeria",
+      "id": 1062114,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Vitor",
+      "id": 1073751,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Pablo",
+      "id": 1082306,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Jailson",
+      "id": 1095829,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Joao Gabriel",
+      "id": 1100080,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Giovanna",
+      "id": 1103852,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Johnny",
+      "id": 1142352,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Mainara",
+      "id": 1150785,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Edivan",
+      "id": 1166162,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Claudio",
+      "id": 1166783,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Thiago",
+      "id": 1174409,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Paulo",
+      "id": 1175084,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Kevyn",
+      "id": 1176673,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Adso",
+      "id": 1180538,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Everton",
+      "id": 1181096,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Thiago",
+      "id": 1181465,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Jeordam",
+      "id": 1182591,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Joao",
+      "id": 1195016,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Wagnaldo",
+      "id": 1204443,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "JULIANO",
+      "id": 1207035,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Sonia",
+      "id": 1210807,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Geraldo",
+      "id": 1218740,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Cleber",
+      "id": 1219408,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Welber",
+      "id": 1220175,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Andre",
+      "id": 1243381,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Mateus",
+      "id": 1258509,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Daniel",
+      "id": 1269887,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Esveraldo",
+      "id": 1271691,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Luiz Eduardo",
+      "id": 1274041,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Wilian",
+      "id": 1278367,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Carlos Alexandre",
+      "id": 1278635,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Marcelo Vieira",
+      "id": 1285989,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Rodrigo",
+      "id": 1289946,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Vicente",
+      "id": 1292461,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Samira",
+      "id": 1300097,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "MARCOS",
+      "id": 1310342,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Pedro",
+      "id": 1311565,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "INGRYDH",
+      "id": 1316138,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Antonio",
+      "id": 1317115,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Robson",
+      "id": 1320539,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Joao",
+      "id": 1326834,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Marcelo",
+      "id": 1328273,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "ROSIMEIRE",
+      "id": 1328937,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Luciene",
+      "id": 1329390,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Valquiria",
+      "id": 1332741,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Sergio",
+      "id": 1333202,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "CHRISTIAN",
+      "id": 1336315,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Jose Eduardo",
+      "id": 1345716,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Lucas",
+      "id": 1348684,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "diogo",
+      "id": 1348806,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Rafael",
+      "id": 1348917,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Idael",
+      "id": 1349778,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Maria Veronica Carneiro de Souza",
+      "id": 1350632,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Reinaldo",
+      "id": 1351415,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Joaquim",
+      "id": 1352068,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Lazaro",
+      "id": 1352131,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Renner",
+      "id": 1354518,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Adriano",
+      "id": 1357083,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Marcos",
+      "id": 1361768,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Cleiton",
+      "id": 1362396,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Iany",
+      "id": 1362399,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "ADAILTON",
+      "id": 1365063,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "fabio",
+      "id": 1366374,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Gabriel",
+      "id": 1367200,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Gledson",
+      "id": 1368692,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Rafael",
+      "id": 1371649,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Rone",
+      "id": 1373121,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Antonio Gilberto",
+      "id": 1380090,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Rafael",
+      "id": 1382689,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Genival",
+      "id": 1383409,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "FRANCISCO FaBIO",
+      "id": 1389830,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Eurico",
+      "id": 1390201,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Helder",
+      "id": 1392569,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Mateus",
+      "id": 1395081,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Paulo",
+      "id": 1398112,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Vinicius",
+      "id": 1399422,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Ezequiel",
+      "id": 1405094,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Thais",
+      "id": 1410339,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Kamilla",
+      "id": 1412236,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Janine",
+      "id": 1412393,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Madson",
+      "id": 1412579,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Celio",
+      "id": 1412760,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Elizeu",
+      "id": 1412855,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Jeronimo",
+      "id": 1413946,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Marcos",
+      "id": 1414017,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "MARCIO",
+      "id": 1414602,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Antonio",
+      "id": 1415798,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Ricardo",
+      "id": 1415816,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Mariana",
+      "id": 1415852,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Bruna Leticia",
+      "id": 1415870,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "CLAUDINEI",
+      "id": 1417040,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Fabio",
+      "id": 1419844,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Mauricio",
+      "id": 1420063,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "RAFAEL",
+      "id": 1420669,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Carlos Alberto",
+      "id": 1421519,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "CLAUDIO",
+      "id": 1421761,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Jaymes",
+      "id": 1422800,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Lucineide",
+      "id": 1423113,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Antonio",
+      "id": 1425538,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Leonardo",
+      "id": 1426708,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Edison",
+      "id": 1427671,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Marcelo",
+      "id": 1428303,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Suzane",
+      "id": 1428811,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Glauber",
+      "id": 1429606,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Valdemar",
+      "id": 1431047,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Cairon",
+      "id": 1431612,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Gabriel",
+      "id": 1433918,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "SAMUEL",
+      "id": 1435359,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "odevaldo",
+      "id": 1435636,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Fefux",
+      "id": 1436313,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Renan",
+      "id": 1436319,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Laercio Bento",
+      "id": 1440771,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Clayton",
+      "id": 1440787,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Marcello",
+      "id": 1442244,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "MANOEL",
+      "id": 1444612,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Luiz Felipe",
+      "id": 1450767,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Daniel",
+      "id": 1451321,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Ederson",
+      "id": 1452157,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Marcio",
+      "id": 1453014,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Evandro",
+      "id": 1453193,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Moises",
+      "id": 1453732,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "ELTON LIMA",
+      "id": 1454306,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Marcos",
+      "id": 1457626,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Rafael",
+      "id": 1458522,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Samuel",
+      "id": 1458680,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Pedro",
+      "id": 1459677,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Edmilson",
+      "id": 1461187,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Sergio",
+      "id": 1469593,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "RITA DE CASSIA PEREIRA DA",
+      "id": 1473854,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "ANTONIO",
+      "id": 1487320,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Thiago",
+      "id": 1487838,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Edson",
+      "id": 1488054,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Kainara",
+      "id": 1488734,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "SEBASTIAO",
+      "id": 1491032,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "andreia",
+      "id": 1493130,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "JONATHAN",
+      "id": 1500508,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Roberto",
+      "id": 1504552,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Jhonatas",
+      "id": 1505382,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Anderson",
+      "id": 1505701,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Marcelo",
+      "id": 1505816,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Catarina",
+      "id": 1505938,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Adriano",
+      "id": 1505986,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.817Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Joaquim Leoncio",
+      "id": 1506342,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.818Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "roberto seiji",
+      "id": 1506565,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.818Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Josenilson",
+      "id": 1506752,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.818Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Ricardo",
+      "id": 1506865,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.818Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Alcivania",
+      "id": 1506947,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.818Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "RENATO",
+      "id": 1506994,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.818Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Geraldo",
+      "id": 1507074,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.818Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Leonardo",
+      "id": 1507307,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.818Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Izabel",
+      "id": 1507340,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.818Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Valdson",
+      "id": 1507587,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.818Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "ALEXIS",
+      "id": 1507977,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.818Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Jeferson",
+      "id": 1509847,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.818Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Matheus",
+      "id": 1511870,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.818Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "FABIANO",
+      "id": 1513226,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.818Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "WELLINGTON CLEITON DE SOUZA",
+      "id": 1513261,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.818Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Paulo",
+      "id": 1513333,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.818Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "wanderley",
+      "id": 1513437,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.818Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Maicon",
+      "id": 1513643,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.818Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Arthur",
+      "id": 1514790,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.818Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Celso",
+      "id": 1515554,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.818Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "WAYDSON FELIPE DA",
+      "id": 1516364,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.818Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "81854562",
+      "id": 1517846,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.818Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Jose",
+      "id": 1518841,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.818Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Romualdo",
+      "id": 1519272,
+      "pontos": 0,
+      "totalApostado": 0,
+      "somaOdds": 0,
+      "updatedAt": "2024-10-26T14:58:31.818Z"
     }
-]
+  ]
+}
