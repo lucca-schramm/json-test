@@ -1,0 +1,5080 @@
+{
+  "ranking": [
+    {
+      "classificacao": "1",
+      "nome": "Anderson",
+      "id": 976878,
+      "pontos": 6,
+      "somaOdds": 579.2,
+      "totalApostado": "30,00",
+      "updatedAt": "2024-10-28T13:07:11.335Z"
+    },
+    {
+      "classificacao": "2",
+      "nome": "Ozano",
+      "id": 968121,
+      "pontos": 121,
+      "somaOdds": 541.32,
+      "totalApostado": "2.717,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "3",
+      "nome": "Raimundo Jose",
+      "id": 936476,
+      "pontos": 14,
+      "somaOdds": 281,
+      "totalApostado": "75,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "4",
+      "nome": "Paulo",
+      "id": 214712,
+      "pontos": 56,
+      "somaOdds": 259.86,
+      "totalApostado": "1.388,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "5",
+      "nome": "Joao Santos",
+      "id": 729341,
+      "pontos": 59,
+      "somaOdds": 245.61,
+      "totalApostado": "5.909,26",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "6",
+      "nome": "Jose Jucivaldo da",
+      "id": 364607,
+      "pontos": 85,
+      "somaOdds": 241.9,
+      "totalApostado": "2.166,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "7",
+      "nome": "antonio",
+      "id": 927090,
+      "pontos": 1,
+      "somaOdds": 238.82,
+      "totalApostado": "20,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "8",
+      "nome": "Jonnatha",
+      "id": 367581,
+      "pontos": 9,
+      "somaOdds": 212.69,
+      "totalApostado": "115,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "9",
+      "nome": "ALVARO",
+      "id": 1219516,
+      "pontos": 36,
+      "somaOdds": 172.99,
+      "totalApostado": "516,23",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "10",
+      "nome": "reginaldo",
+      "id": 678776,
+      "pontos": 37,
+      "somaOdds": 156.45,
+      "totalApostado": "1.185,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "11",
+      "nome": "Osvaldo Ferreira da",
+      "id": 338299,
+      "pontos": 8,
+      "somaOdds": 152.22,
+      "totalApostado": "640,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "12",
+      "nome": "Nilson",
+      "id": 525092,
+      "pontos": 1,
+      "somaOdds": 122.72,
+      "totalApostado": "5,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "13",
+      "nome": "Dobson",
+      "id": 636108,
+      "pontos": 30,
+      "somaOdds": 122.61,
+      "totalApostado": "781,77",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "14",
+      "nome": "Herivelton",
+      "id": 808733,
+      "pontos": 14,
+      "somaOdds": 112.09,
+      "totalApostado": "504,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "15",
+      "nome": "Fabiano",
+      "id": 735920,
+      "pontos": 18,
+      "somaOdds": 109.69,
+      "totalApostado": "1.000,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "16",
+      "nome": "Marcos",
+      "id": 207407,
+      "pontos": 28,
+      "somaOdds": 105.87,
+      "totalApostado": "439,89",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "17",
+      "nome": "Ocrair de Souza Moura Nunes",
+      "id": 775878,
+      "pontos": 1,
+      "somaOdds": 98.51,
+      "totalApostado": "10,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "18",
+      "nome": "Joao",
+      "id": 1367567,
+      "pontos": 23,
+      "somaOdds": 86.41,
+      "totalApostado": "215,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "19",
+      "nome": "ANDRe LEMOS",
+      "id": 715448,
+      "pontos": 16,
+      "somaOdds": 85.64,
+      "totalApostado": "82,27",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "20",
+      "nome": "luan",
+      "id": 734512,
+      "pontos": 9,
+      "somaOdds": 82.64,
+      "totalApostado": "185,45",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "21",
+      "nome": "IVAN VITOR",
+      "id": 834163,
+      "pontos": 33,
+      "somaOdds": 80.9,
+      "totalApostado": "173,19",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "22",
+      "nome": "Fabio",
+      "id": 687311,
+      "pontos": 14,
+      "somaOdds": 79.66,
+      "totalApostado": "456,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "23",
+      "nome": "Marcos Andre",
+      "id": 610121,
+      "pontos": 24,
+      "somaOdds": 72.87,
+      "totalApostado": "155,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "24",
+      "nome": "Gilson",
+      "id": 398022,
+      "pontos": 13,
+      "somaOdds": 71.91,
+      "totalApostado": "567,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "25",
+      "nome": "Rafael Morais",
+      "id": 648743,
+      "pontos": 6,
+      "somaOdds": 69.33,
+      "totalApostado": "760,86",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "26",
+      "nome": "Rozemar",
+      "id": 279825,
+      "pontos": 16,
+      "somaOdds": 67.72,
+      "totalApostado": "1.341,69",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "27",
+      "nome": "FABIANO",
+      "id": 693448,
+      "pontos": 2,
+      "somaOdds": 66.2,
+      "totalApostado": "80,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "28",
+      "nome": "Ricardo",
+      "id": 415995,
+      "pontos": 27,
+      "somaOdds": 65.26,
+      "totalApostado": "522,91",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "29",
+      "nome": "Sonildo",
+      "id": 1012299,
+      "pontos": 19,
+      "somaOdds": 63.54,
+      "totalApostado": "479,68",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "30",
+      "nome": "Antonio Edson de Melo",
+      "id": 962227,
+      "pontos": 1,
+      "somaOdds": 62.84,
+      "totalApostado": "5,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "31",
+      "nome": "Lucca",
+      "id": 1514193,
+      "pontos": 18,
+      "somaOdds": 62.34,
+      "totalApostado": "154,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "32",
+      "nome": "eduardo",
+      "id": 1002665,
+      "pontos": 15,
+      "somaOdds": 62.28,
+      "totalApostado": "1.211,06",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "33",
+      "nome": "Marcos",
+      "id": 913096,
+      "pontos": 4,
+      "somaOdds": 60.04,
+      "totalApostado": "82,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "34",
+      "nome": "Francisco",
+      "id": 1016747,
+      "pontos": 4,
+      "somaOdds": 59.66,
+      "totalApostado": "55,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "35",
+      "nome": "Clodomir",
+      "id": 1178717,
+      "pontos": 13,
+      "somaOdds": 58.34,
+      "totalApostado": "93,50",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "36",
+      "nome": "Leandro",
+      "id": 1187332,
+      "pontos": 2,
+      "somaOdds": 54.02,
+      "totalApostado": "30,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "37",
+      "nome": "Matheus",
+      "id": 1390947,
+      "pontos": 18,
+      "somaOdds": 49.1,
+      "totalApostado": "1.107,70",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "38",
+      "nome": "Jorgiel",
+      "id": 940612,
+      "pontos": 14,
+      "somaOdds": 47.88,
+      "totalApostado": "95,83",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "39",
+      "nome": "Marcos",
+      "id": 779528,
+      "pontos": 14,
+      "somaOdds": 46.43,
+      "totalApostado": "543,88",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "40",
+      "nome": "Daniel",
+      "id": 651870,
+      "pontos": 9,
+      "somaOdds": 44.63,
+      "totalApostado": "593,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "41",
+      "nome": "Johny",
+      "id": 1453207,
+      "pontos": 18,
+      "somaOdds": 43.77,
+      "totalApostado": "887,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "42",
+      "nome": "Erik",
+      "id": 661419,
+      "pontos": 3,
+      "somaOdds": 41.44,
+      "totalApostado": "30,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "43",
+      "nome": "edimar",
+      "id": 608658,
+      "pontos": 7,
+      "somaOdds": 40.99,
+      "totalApostado": "622,45",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "44",
+      "nome": "Adailton",
+      "id": 628468,
+      "pontos": 4,
+      "somaOdds": 40.41,
+      "totalApostado": "20,76",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "45",
+      "nome": "MARCELO",
+      "id": 405532,
+      "pontos": 6,
+      "somaOdds": 40.09,
+      "totalApostado": "183,16",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "46",
+      "nome": "Leandro",
+      "id": 555340,
+      "pontos": 7,
+      "somaOdds": 39.95,
+      "totalApostado": "100,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "47",
+      "nome": "Carlos",
+      "id": 759258,
+      "pontos": 7,
+      "somaOdds": 39.94,
+      "totalApostado": "324,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "48",
+      "nome": "Willian",
+      "id": 1487851,
+      "pontos": 16,
+      "somaOdds": 38.7,
+      "totalApostado": "165,31",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "49",
+      "nome": "Carlos Alberto Alves da Silva",
+      "id": 775336,
+      "pontos": 2,
+      "somaOdds": 38.13,
+      "totalApostado": "45,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "50",
+      "nome": "Giovani",
+      "id": 575750,
+      "pontos": 5,
+      "somaOdds": 37.92,
+      "totalApostado": "62,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "51",
+      "nome": "Miguel",
+      "id": 562269,
+      "pontos": 9,
+      "somaOdds": 34.63,
+      "totalApostado": "637,32",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "52",
+      "nome": "Jose Fernando",
+      "id": 697731,
+      "pontos": 3,
+      "somaOdds": 33.52,
+      "totalApostado": "48,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "53",
+      "nome": "FRANCISCO",
+      "id": 1421112,
+      "pontos": 7,
+      "somaOdds": 33.15,
+      "totalApostado": "83,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "54",
+      "nome": "Illyan",
+      "id": 922143,
+      "pontos": 3,
+      "somaOdds": 32.36,
+      "totalApostado": "100,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "55",
+      "nome": "Alberto Manuel",
+      "id": 1254586,
+      "pontos": 7,
+      "somaOdds": 31.48,
+      "totalApostado": "40,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "56",
+      "nome": "robert",
+      "id": 1002172,
+      "pontos": 9,
+      "somaOdds": 30.6,
+      "totalApostado": "107,82",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "57",
+      "nome": "Bruno",
+      "id": 552033,
+      "pontos": 3,
+      "somaOdds": 30.19,
+      "totalApostado": "15,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "58",
+      "nome": "Ademir",
+      "id": 497784,
+      "pontos": 9,
+      "somaOdds": 30.05,
+      "totalApostado": "1.614,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "59",
+      "nome": "Alex",
+      "id": 590571,
+      "pontos": 5,
+      "somaOdds": 29.98,
+      "totalApostado": "30,84",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "60",
+      "nome": "Lenivaldo",
+      "id": 1383094,
+      "pontos": 14,
+      "somaOdds": 29.9,
+      "totalApostado": "429,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "61",
+      "nome": "Fabiano",
+      "id": 468384,
+      "pontos": 3,
+      "somaOdds": 29.09,
+      "totalApostado": "15,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "62",
+      "nome": "Ricardo",
+      "id": 477267,
+      "pontos": 7,
+      "somaOdds": 28.54,
+      "totalApostado": "450,56",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "63",
+      "nome": "Lucivaldo",
+      "id": 1016719,
+      "pontos": 6,
+      "somaOdds": 28.43,
+      "totalApostado": "76,66",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "64",
+      "nome": "Ademir",
+      "id": 990108,
+      "pontos": 6,
+      "somaOdds": 27.96,
+      "totalApostado": "375,98",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "65",
+      "nome": "Josue",
+      "id": 1317054,
+      "pontos": 3,
+      "somaOdds": 27.17,
+      "totalApostado": "150,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "66",
+      "nome": "Paulo",
+      "id": 729109,
+      "pontos": 7,
+      "somaOdds": 26.98,
+      "totalApostado": "35,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "67",
+      "nome": "Rodrigo",
+      "id": 679812,
+      "pontos": 1,
+      "somaOdds": 26.93,
+      "totalApostado": "5,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "68",
+      "nome": "FRANCISCO",
+      "id": 1459205,
+      "pontos": 9,
+      "somaOdds": 26.58,
+      "totalApostado": "285,92",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "69",
+      "nome": "Marcia Luiza",
+      "id": 645793,
+      "pontos": 11,
+      "somaOdds": 26.38,
+      "totalApostado": "105,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "70",
+      "nome": "Gilberto",
+      "id": 218027,
+      "pontos": 1,
+      "somaOdds": 24.86,
+      "totalApostado": "7,50",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "71",
+      "nome": "Adailson",
+      "id": 1211053,
+      "pontos": 8,
+      "somaOdds": 24.56,
+      "totalApostado": "638,34",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "72",
+      "nome": "Filipe",
+      "id": 1385213,
+      "pontos": 8,
+      "somaOdds": 24.21,
+      "totalApostado": "304,85",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "73",
+      "nome": "Magnum",
+      "id": 1421852,
+      "pontos": 1,
+      "somaOdds": 23.89,
+      "totalApostado": "35,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "74",
+      "nome": "Roberto",
+      "id": 861732,
+      "pontos": 2,
+      "somaOdds": 23.7,
+      "totalApostado": "25,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "75",
+      "nome": "Rafael",
+      "id": 1381409,
+      "pontos": 5,
+      "somaOdds": 23.61,
+      "totalApostado": "410,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "76",
+      "nome": "Marcelo",
+      "id": 786170,
+      "pontos": 10,
+      "somaOdds": 23.05,
+      "totalApostado": "71,55",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "77",
+      "nome": "Marcelo",
+      "id": 394883,
+      "pontos": 8,
+      "somaOdds": 22.72,
+      "totalApostado": "215,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "78",
+      "nome": "Paulo",
+      "id": 1401451,
+      "pontos": 5,
+      "somaOdds": 22.54,
+      "totalApostado": "125,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "79",
+      "nome": "Carlos",
+      "id": 431691,
+      "pontos": 1,
+      "somaOdds": 22.5,
+      "totalApostado": "17,84",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "80",
+      "nome": "Elindonvan",
+      "id": 596440,
+      "pontos": 1,
+      "somaOdds": 22.25,
+      "totalApostado": "26,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "81",
+      "nome": "Eric",
+      "id": 520904,
+      "pontos": 4,
+      "somaOdds": 21.93,
+      "totalApostado": "31,78",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "82",
+      "nome": "Jailson",
+      "id": 778668,
+      "pontos": 6,
+      "somaOdds": 21.57,
+      "totalApostado": "108,28",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "83",
+      "nome": "Manuel",
+      "id": 654511,
+      "pontos": 5,
+      "somaOdds": 21.35,
+      "totalApostado": "431,65",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "84",
+      "nome": "marcio teixeira dos ssntos",
+      "id": 896222,
+      "pontos": 3,
+      "somaOdds": 21.18,
+      "totalApostado": "30,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "85",
+      "nome": "Marcio",
+      "id": 1203245,
+      "pontos": 2,
+      "somaOdds": 20.97,
+      "totalApostado": "589,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "86",
+      "nome": "Jane",
+      "id": 666650,
+      "pontos": 8,
+      "somaOdds": 20.68,
+      "totalApostado": "373,31",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "87",
+      "nome": "CARLOS",
+      "id": 734495,
+      "pontos": 3,
+      "somaOdds": 20.47,
+      "totalApostado": "88,73",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "88",
+      "nome": "ANTONIO",
+      "id": 862380,
+      "pontos": 3,
+      "somaOdds": 20.46,
+      "totalApostado": "153,00",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "89",
+      "nome": "Rafael",
+      "id": 752401,
+      "pontos": 8,
+      "somaOdds": 20.26,
+      "totalApostado": "283,32",
+      "updatedAt": "2024-10-28T13:07:11.336Z"
+    },
+    {
+      "classificacao": "90",
+      "nome": "Francisco",
+      "id": 824034,
+      "pontos": 2,
+      "somaOdds": 19.85,
+      "totalApostado": "43,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "91",
+      "nome": "Carlos",
+      "id": 1166578,
+      "pontos": 8,
+      "somaOdds": 19.78,
+      "totalApostado": "274,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "92",
+      "nome": "luiz andre",
+      "id": 956181,
+      "pontos": 5,
+      "somaOdds": 19.63,
+      "totalApostado": "50,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "93",
+      "nome": "Janilson",
+      "id": 626829,
+      "pontos": 6,
+      "somaOdds": 19.33,
+      "totalApostado": "245,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "94",
+      "nome": "EDILSON",
+      "id": 1467615,
+      "pontos": 6,
+      "somaOdds": 19.32,
+      "totalApostado": "535,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "95",
+      "nome": "Leandro",
+      "id": 994961,
+      "pontos": 4,
+      "somaOdds": 19.19,
+      "totalApostado": "25,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "96",
+      "nome": "Emerson",
+      "id": 1469326,
+      "pontos": 6,
+      "somaOdds": 19.15,
+      "totalApostado": "57,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "97",
+      "nome": "jose Laercio",
+      "id": 616022,
+      "pontos": 7,
+      "somaOdds": 19.06,
+      "totalApostado": "65,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "98",
+      "nome": "Mauro",
+      "id": 588212,
+      "pontos": 2,
+      "somaOdds": 16.18,
+      "totalApostado": "20,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "99",
+      "nome": "William",
+      "id": 433119,
+      "pontos": 7,
+      "somaOdds": 16.09,
+      "totalApostado": "99,26",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "100",
+      "nome": "Gabriel",
+      "id": 1454173,
+      "pontos": 3,
+      "somaOdds": 15.98,
+      "totalApostado": "40,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "101",
+      "nome": "Cristian",
+      "id": 748595,
+      "pontos": 3,
+      "somaOdds": 15.63,
+      "totalApostado": "20,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "102",
+      "nome": "Matheus",
+      "id": 1436369,
+      "pontos": 5,
+      "somaOdds": 15.47,
+      "totalApostado": "75,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "103",
+      "nome": "ROBERTO",
+      "id": 746407,
+      "pontos": 5,
+      "somaOdds": 15.39,
+      "totalApostado": "70,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "104",
+      "nome": "felipe",
+      "id": 227838,
+      "pontos": 1,
+      "somaOdds": 15.23,
+      "totalApostado": "15,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "105",
+      "nome": "Junielson",
+      "id": 857912,
+      "pontos": 5,
+      "somaOdds": 14.47,
+      "totalApostado": "40,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "106",
+      "nome": "Eremilson",
+      "id": 1407072,
+      "pontos": 5,
+      "somaOdds": 14.39,
+      "totalApostado": "86,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "107",
+      "nome": "Claudio Miguel",
+      "id": 535675,
+      "pontos": 1,
+      "somaOdds": 13.98,
+      "totalApostado": "10,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "108",
+      "nome": "Everton",
+      "id": 1389297,
+      "pontos": 5,
+      "somaOdds": 13.61,
+      "totalApostado": "25,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "109",
+      "nome": "CARLOS",
+      "id": 1366154,
+      "pontos": 5,
+      "somaOdds": 12.58,
+      "totalApostado": "35,25",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "110",
+      "nome": "Jonas Oliveira de Santana",
+      "id": 510975,
+      "pontos": 3,
+      "somaOdds": 12.57,
+      "totalApostado": "15,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "111",
+      "nome": "Aurilio",
+      "id": 1423916,
+      "pontos": 4,
+      "somaOdds": 11.49,
+      "totalApostado": "177,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "112",
+      "nome": "marcio",
+      "id": 419664,
+      "pontos": 4,
+      "somaOdds": 11.37,
+      "totalApostado": "35,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "113",
+      "nome": "Andre",
+      "id": 1443805,
+      "pontos": 4,
+      "somaOdds": 11.06,
+      "totalApostado": "78,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "114",
+      "nome": "Camilo",
+      "id": 671324,
+      "pontos": 4,
+      "somaOdds": 10.96,
+      "totalApostado": "368,95",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "115",
+      "nome": "Canuto",
+      "id": 661271,
+      "pontos": 3,
+      "somaOdds": 10.95,
+      "totalApostado": "125,75",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "116",
+      "nome": "Carlos Luiz",
+      "id": 1142331,
+      "pontos": 4,
+      "somaOdds": 10.79,
+      "totalApostado": "20,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "117",
+      "nome": "Daniel",
+      "id": 1255900,
+      "pontos": 4,
+      "somaOdds": 10.75,
+      "totalApostado": "30,70",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "118",
+      "nome": "Cristiano",
+      "id": 229907,
+      "pontos": 3,
+      "somaOdds": 10.74,
+      "totalApostado": "62,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "119",
+      "nome": "Francisco Benedito de",
+      "id": 650151,
+      "pontos": 3,
+      "somaOdds": 10.63,
+      "totalApostado": "294,78",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "120",
+      "nome": "Edvaldo",
+      "id": 1179426,
+      "pontos": 1,
+      "somaOdds": 10.06,
+      "totalApostado": "5,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "121",
+      "nome": "Antonio",
+      "id": 862021,
+      "pontos": 3,
+      "somaOdds": 10,
+      "totalApostado": "216,89",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "122",
+      "nome": "Leandro",
+      "id": 683859,
+      "pontos": 4,
+      "somaOdds": 9.92,
+      "totalApostado": "33,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "123",
+      "nome": "Elcio Donizetti da Silva",
+      "id": 664287,
+      "pontos": 4,
+      "somaOdds": 9.87,
+      "totalApostado": "40,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "124",
+      "nome": "Jose",
+      "id": 663274,
+      "pontos": 1,
+      "somaOdds": 9.69,
+      "totalApostado": "55,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "125",
+      "nome": "Mateus",
+      "id": 1454179,
+      "pontos": 4,
+      "somaOdds": 9.68,
+      "totalApostado": "587,99",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "126",
+      "nome": "italo",
+      "id": 424648,
+      "pontos": 3,
+      "somaOdds": 9.61,
+      "totalApostado": "70,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "127",
+      "nome": "Jose galdino",
+      "id": 1272512,
+      "pontos": 1,
+      "somaOdds": 9.45,
+      "totalApostado": "10,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "128",
+      "nome": "LUIS FERNANDO",
+      "id": 562919,
+      "pontos": 3,
+      "somaOdds": 9.36,
+      "totalApostado": "240,60",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "129",
+      "nome": "Thales",
+      "id": 411107,
+      "pontos": 2,
+      "somaOdds": 9.29,
+      "totalApostado": "14,44",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "130",
+      "nome": "Kaique",
+      "id": 1337002,
+      "pontos": 3,
+      "somaOdds": 9.16,
+      "totalApostado": "20,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "131",
+      "nome": "Maria",
+      "id": 1287849,
+      "pontos": 3,
+      "somaOdds": 9.12,
+      "totalApostado": "59,85",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "132",
+      "nome": "Leandro",
+      "id": 872551,
+      "pontos": 4,
+      "somaOdds": 9.09,
+      "totalApostado": "139,50",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "133",
+      "nome": "Joao",
+      "id": 328793,
+      "pontos": 1,
+      "somaOdds": 9,
+      "totalApostado": "5,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "134",
+      "nome": "Gilvani",
+      "id": 217681,
+      "pontos": 4,
+      "somaOdds": 9,
+      "totalApostado": "280,66",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "135",
+      "nome": "Claudirrone",
+      "id": 1505404,
+      "pontos": 2,
+      "somaOdds": 8.84,
+      "totalApostado": "60,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "136",
+      "nome": "LUIZ",
+      "id": 940184,
+      "pontos": 3,
+      "somaOdds": 8.63,
+      "totalApostado": "30,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "137",
+      "nome": "Antonio",
+      "id": 486328,
+      "pontos": 3,
+      "somaOdds": 8.47,
+      "totalApostado": "50,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "138",
+      "nome": "Edivaldo",
+      "id": 670447,
+      "pontos": 3,
+      "somaOdds": 8.34,
+      "totalApostado": "29,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "139",
+      "nome": "Laercio Bento",
+      "id": 1440771,
+      "pontos": 2,
+      "somaOdds": 8.29,
+      "totalApostado": "61,33",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "140",
+      "nome": "Antonio Jorge",
+      "id": 1407623,
+      "pontos": 2,
+      "somaOdds": 8.25,
+      "totalApostado": "10,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "141",
+      "nome": "Thiago",
+      "id": 499644,
+      "pontos": 3,
+      "somaOdds": 8,
+      "totalApostado": "300,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "142",
+      "nome": "jose rodrigo",
+      "id": 198878,
+      "pontos": 1,
+      "somaOdds": 7.79,
+      "totalApostado": "5,49",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "143",
+      "nome": "Luiz Marcio Santana Silva Nascimento",
+      "id": 915409,
+      "pontos": 3,
+      "somaOdds": 7.62,
+      "totalApostado": "44,02",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "144",
+      "nome": "Fabio",
+      "id": 586961,
+      "pontos": 3,
+      "somaOdds": 7.62,
+      "totalApostado": "346,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "145",
+      "nome": "Leonardo",
+      "id": 1263045,
+      "pontos": 3,
+      "somaOdds": 7.3,
+      "totalApostado": "2.200,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "146",
+      "nome": "Elio",
+      "id": 1302620,
+      "pontos": 3,
+      "somaOdds": 7.29,
+      "totalApostado": "20,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "147",
+      "nome": "Roberto",
+      "id": 815745,
+      "pontos": 3,
+      "somaOdds": 7.2,
+      "totalApostado": "330,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "148",
+      "nome": "Claudius",
+      "id": 624850,
+      "pontos": 3,
+      "somaOdds": 7.2,
+      "totalApostado": "45,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "149",
+      "nome": "Marcelo",
+      "id": 1371752,
+      "pontos": 3,
+      "somaOdds": 7.07,
+      "totalApostado": "70,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "150",
+      "nome": "Luciano",
+      "id": 1026358,
+      "pontos": 3,
+      "somaOdds": 6.76,
+      "totalApostado": "39,27",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "151",
+      "nome": "Leandro Alcantara",
+      "id": 559092,
+      "pontos": 3,
+      "somaOdds": 6.74,
+      "totalApostado": "92,33",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "152",
+      "nome": "Elieser",
+      "id": 683645,
+      "pontos": 2,
+      "somaOdds": 6.7,
+      "totalApostado": "15,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "153",
+      "nome": "Claudio",
+      "id": 660444,
+      "pontos": 3,
+      "somaOdds": 6.59,
+      "totalApostado": "45,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "154",
+      "nome": "Mateus",
+      "id": 767694,
+      "pontos": 2,
+      "somaOdds": 6.51,
+      "totalApostado": "18,69",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "155",
+      "nome": "Jonathan",
+      "id": 1417744,
+      "pontos": 3,
+      "somaOdds": 6.5,
+      "totalApostado": "36,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "156",
+      "nome": "erilio",
+      "id": 750127,
+      "pontos": 2,
+      "somaOdds": 6.3,
+      "totalApostado": "17,19",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "157",
+      "nome": "Gildael",
+      "id": 1469129,
+      "pontos": 2,
+      "somaOdds": 6.14,
+      "totalApostado": "10,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "158",
+      "nome": "Benjamim",
+      "id": 1284732,
+      "pontos": 3,
+      "somaOdds": 6.11,
+      "totalApostado": "30,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "159",
+      "nome": "Reinaldo",
+      "id": 1513735,
+      "pontos": 1,
+      "somaOdds": 6.05,
+      "totalApostado": "50,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "160",
+      "nome": "Veronica",
+      "id": 682127,
+      "pontos": 2,
+      "somaOdds": 5.95,
+      "totalApostado": "10,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "161",
+      "nome": "ADEEL",
+      "id": 1401294,
+      "pontos": 2,
+      "somaOdds": 5.74,
+      "totalApostado": "80,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "162",
+      "nome": "Dirceu",
+      "id": 1024147,
+      "pontos": 2,
+      "somaOdds": 5.74,
+      "totalApostado": "20,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "163",
+      "nome": "Luciano Alexandre",
+      "id": 231735,
+      "pontos": 2,
+      "somaOdds": 5.59,
+      "totalApostado": "10,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "164",
+      "nome": "Gilvan",
+      "id": 869863,
+      "pontos": 1,
+      "somaOdds": 5.53,
+      "totalApostado": "20,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "165",
+      "nome": "Daniel",
+      "id": 446374,
+      "pontos": 2,
+      "somaOdds": 5.51,
+      "totalApostado": "16,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "166",
+      "nome": "Diego",
+      "id": 199453,
+      "pontos": 1,
+      "somaOdds": 5.5,
+      "totalApostado": "10,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "167",
+      "nome": "CRISTIANO",
+      "id": 441029,
+      "pontos": 1,
+      "somaOdds": 5.35,
+      "totalApostado": "5,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "168",
+      "nome": "Cristiano",
+      "id": 1435062,
+      "pontos": 1,
+      "somaOdds": 5.27,
+      "totalApostado": "100,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "169",
+      "nome": "rafael",
+      "id": 981551,
+      "pontos": 2,
+      "somaOdds": 5.23,
+      "totalApostado": "120,06",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "170",
+      "nome": "Joao",
+      "id": 315950,
+      "pontos": 2,
+      "somaOdds": 5.2,
+      "totalApostado": "14,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "171",
+      "nome": "Edevaldo",
+      "id": 791594,
+      "pontos": 2,
+      "somaOdds": 5.13,
+      "totalApostado": "13,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "172",
+      "nome": "Cristiano",
+      "id": 1255815,
+      "pontos": 2,
+      "somaOdds": 4.86,
+      "totalApostado": "20,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "173",
+      "nome": "Sergio",
+      "id": 1333202,
+      "pontos": 2,
+      "somaOdds": 4.8,
+      "totalApostado": "20,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "174",
+      "nome": "Arthur",
+      "id": 824365,
+      "pontos": 2,
+      "somaOdds": 4.52,
+      "totalApostado": "30,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "175",
+      "nome": "Sergio",
+      "id": 1368091,
+      "pontos": 2,
+      "somaOdds": 4.5,
+      "totalApostado": "70,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "176",
+      "nome": "Alexsandro",
+      "id": 1444499,
+      "pontos": 2,
+      "somaOdds": 4.17,
+      "totalApostado": "24,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "177",
+      "nome": "Jonathan",
+      "id": 280830,
+      "pontos": 1,
+      "somaOdds": 4.15,
+      "totalApostado": "20,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "178",
+      "nome": "Jean",
+      "id": 1427245,
+      "pontos": 1,
+      "somaOdds": 3.83,
+      "totalApostado": "25,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "179",
+      "nome": "Keila",
+      "id": 1427070,
+      "pontos": 1,
+      "somaOdds": 3.8,
+      "totalApostado": "10,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "180",
+      "nome": "Sergio",
+      "id": 1509677,
+      "pontos": 1,
+      "somaOdds": 3.75,
+      "totalApostado": "10,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "181",
+      "nome": "Gilberto",
+      "id": 216447,
+      "pontos": 1,
+      "somaOdds": 3.65,
+      "totalApostado": "6,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "182",
+      "nome": "Antonio",
+      "id": 1415798,
+      "pontos": 1,
+      "somaOdds": 3.64,
+      "totalApostado": "20,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "183",
+      "nome": "Heloisa",
+      "id": 586049,
+      "pontos": 1,
+      "somaOdds": 3.33,
+      "totalApostado": "10,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "184",
+      "nome": "Cristiano",
+      "id": 749794,
+      "pontos": 1,
+      "somaOdds": 3.29,
+      "totalApostado": "40,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "185",
+      "nome": "Elienilson",
+      "id": 971658,
+      "pontos": 1,
+      "somaOdds": 3.28,
+      "totalApostado": "100,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "186",
+      "nome": "Jeferson",
+      "id": 393650,
+      "pontos": 1,
+      "somaOdds": 3.28,
+      "totalApostado": "35,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "187",
+      "nome": "Alex",
+      "id": 830420,
+      "pontos": 1,
+      "somaOdds": 3.25,
+      "totalApostado": "6,63",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "188",
+      "nome": "NELSON",
+      "id": 659779,
+      "pontos": 1,
+      "somaOdds": 3.11,
+      "totalApostado": "5,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "189",
+      "nome": "Tamille",
+      "id": 597839,
+      "pontos": 1,
+      "somaOdds": 3.11,
+      "totalApostado": "5,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "190",
+      "nome": "renan",
+      "id": 1390926,
+      "pontos": 1,
+      "somaOdds": 3,
+      "totalApostado": "50,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "191",
+      "nome": "Aderval dos santos",
+      "id": 576724,
+      "pontos": 1,
+      "somaOdds": 2.95,
+      "totalApostado": "5,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "192",
+      "nome": "Renato",
+      "id": 437048,
+      "pontos": 1,
+      "somaOdds": 2.82,
+      "totalApostado": "30,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "193",
+      "nome": "Carlos Roberto",
+      "id": 827732,
+      "pontos": 1,
+      "somaOdds": 2.7,
+      "totalApostado": "5,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "194",
+      "nome": "Jose Lima Coutinho",
+      "id": 708416,
+      "pontos": 1,
+      "somaOdds": 2.7,
+      "totalApostado": "5,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "195",
+      "nome": "Francisco",
+      "id": 286955,
+      "pontos": 1,
+      "somaOdds": 2.69,
+      "totalApostado": "5,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "196",
+      "nome": "Joao",
+      "id": 1326834,
+      "pontos": 1,
+      "somaOdds": 2.6,
+      "totalApostado": "13,40",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "197",
+      "nome": "Eduardo Luiz c",
+      "id": 806373,
+      "pontos": 1,
+      "somaOdds": 2.5,
+      "totalApostado": "23,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "198",
+      "nome": "Ricardo",
+      "id": 674106,
+      "pontos": 1,
+      "somaOdds": 2.4,
+      "totalApostado": "20,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "199",
+      "nome": "Gabriel",
+      "id": 159824,
+      "pontos": 1,
+      "somaOdds": 2.38,
+      "totalApostado": "10,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "200",
+      "nome": "JOSE EDSON",
+      "id": 1452625,
+      "pontos": 1,
+      "somaOdds": 2.32,
+      "totalApostado": "40,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "201",
+      "nome": "ERICSON",
+      "id": 205469,
+      "pontos": 1,
+      "somaOdds": 2.31,
+      "totalApostado": "40,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "202",
+      "nome": "Cristhiam",
+      "id": 253341,
+      "pontos": 1,
+      "somaOdds": 2.3,
+      "totalApostado": "20,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "203",
+      "nome": "LUCAS DE ANTONIO",
+      "id": 1509611,
+      "pontos": 1,
+      "somaOdds": 2.2,
+      "totalApostado": "20,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "204",
+      "nome": "Adelio",
+      "id": 757028,
+      "pontos": 1,
+      "somaOdds": 2.16,
+      "totalApostado": "155,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "205",
+      "nome": "Claudia",
+      "id": 1295514,
+      "pontos": 1,
+      "somaOdds": 2.13,
+      "totalApostado": "10,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "206",
+      "nome": "Genilson",
+      "id": 1404986,
+      "pontos": 1,
+      "somaOdds": 2.12,
+      "totalApostado": "36,00",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "207",
+      "nome": "Renan",
+      "id": 1428714,
+      "pontos": 1,
+      "somaOdds": 2.1,
+      "totalApostado": "10",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "208",
+      "nome": "Vicente",
+      "id": 1292461,
+      "pontos": 1,
+      "somaOdds": 2.1,
+      "totalApostado": "19,04",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "209",
+      "nome": "odevaldo",
+      "id": 1435636,
+      "pontos": 1,
+      "somaOdds": 2.09,
+      "totalApostado": "18",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Arland",
+      "id": 11690,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Vedovotto Antonio Claudio",
+      "id": 16713,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Rhayra",
+      "id": 104584,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "LUIZ CLAUDIO",
+      "id": 105651,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Lucas",
+      "id": 114549,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Tacio",
+      "id": 115580,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Edvaldo Pereira",
+      "id": 122568,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Bruno",
+      "id": 130994,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Carlos Eduardo",
+      "id": 203015,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Domingos",
+      "id": 203171,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Vinicius",
+      "id": 204994,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Rudney",
+      "id": 206867,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "CLAUDINEI",
+      "id": 207645,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Leandro",
+      "id": 209563,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Kaique",
+      "id": 229198,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Ricardo",
+      "id": 232266,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Samanta",
+      "id": 239346,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Rodrigo",
+      "id": 246394,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Leonardo",
+      "id": 253150,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "RICARDO",
+      "id": 261314,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "marco",
+      "id": 265202,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Paulo Cesar",
+      "id": 271451,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "vandilson",
+      "id": 274470,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Adailton",
+      "id": 303226,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Rogerio",
+      "id": 304106,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Mateus dos",
+      "id": 305894,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Celio",
+      "id": 308295,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Rodrigo",
+      "id": 324920,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Joao",
+      "id": 329738,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Cassio",
+      "id": 334579,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "LINVAL",
+      "id": 344700,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Glaydson",
+      "id": 346361,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Leandro",
+      "id": 353976,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "MARCELO",
+      "id": 360087,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Valdemir",
+      "id": 372556,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Daniel Augusto Farias Junior",
+      "id": 396209,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "DANIEL DE",
+      "id": 405900,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Jose Antonio Nunes",
+      "id": 407220,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Edivanio",
+      "id": 412226,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Gilson Dantas da Silva",
+      "id": 416478,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Albeniz",
+      "id": 417710,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "victor",
+      "id": 425465,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Jenario",
+      "id": 437024,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Jose Paulo",
+      "id": 440287,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Oldair",
+      "id": 456519,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "tiago",
+      "id": 472198,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Eduardo",
+      "id": 485477,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Fabiano",
+      "id": 489210,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Gabriel",
+      "id": 489949,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "clecio",
+      "id": 495034,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Leidiane",
+      "id": 510868,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "joel",
+      "id": 521536,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Malcionei",
+      "id": 534267,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "MARCIO",
+      "id": 537119,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "LAERCIO",
+      "id": 544056,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Edvard",
+      "id": 544609,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Tiago",
+      "id": 545961,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Ryan",
+      "id": 546586,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "maria",
+      "id": 557073,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Joao",
+      "id": 558791,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Mauricio",
+      "id": 566893,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Ronaldo",
+      "id": 570612,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Douglas",
+      "id": 571590,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Marcelo",
+      "id": 577834,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Juliano",
+      "id": 578546,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Aderval",
+      "id": 581402,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Valdeson",
+      "id": 582608,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Renan",
+      "id": 585207,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Diogo",
+      "id": 590539,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Bruno",
+      "id": 593274,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Leonardo",
+      "id": 593539,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Fernando",
+      "id": 595285,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Douglas",
+      "id": 597996,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Adriano",
+      "id": 600975,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Aquila Silva dos Santos",
+      "id": 605574,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Geovane",
+      "id": 608006,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Rafael",
+      "id": 613171,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Carlos",
+      "id": 613180,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Ana",
+      "id": 613269,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Alexandre",
+      "id": 615589,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Rafael",
+      "id": 622647,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "ODIRLEI",
+      "id": 632926,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "cleber",
+      "id": 636698,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Hamilton",
+      "id": 642474,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "ODAIR GOMES",
+      "id": 654325,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Jonas Aparecido Pinheiro Paes",
+      "id": 654672,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Thiago",
+      "id": 659546,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Welington",
+      "id": 659762,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Lucas",
+      "id": 665551,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Sammy",
+      "id": 667954,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "PEDRO",
+      "id": 668436,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Vagner",
+      "id": 669004,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "VINICIUS",
+      "id": 669969,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Antonio Ol�vio de Almeida Junior",
+      "id": 671907,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "paulo",
+      "id": 678020,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Carlos",
+      "id": 683660,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Diego",
+      "id": 684229,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "vitor",
+      "id": 689733,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Mayse",
+      "id": 690170,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Carlos",
+      "id": 691831,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "MICHELLE",
+      "id": 692142,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Sidemar",
+      "id": 699167,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Rafael",
+      "id": 699721,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Jose Wellington",
+      "id": 702385,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Anderson",
+      "id": 707887,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Rangel",
+      "id": 713983,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Lucas",
+      "id": 714006,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Carlos Germano",
+      "id": 715362,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "lucas",
+      "id": 730115,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Fabio",
+      "id": 736127,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Roberto",
+      "id": 739789,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Bruno Rafael",
+      "id": 747559,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Josefa",
+      "id": 749071,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Rafael",
+      "id": 750479,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Welliton",
+      "id": 751006,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Milton",
+      "id": 752754,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "ney",
+      "id": 756238,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Alisson",
+      "id": 757524,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Felipe Santos",
+      "id": 761397,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Joao Humberto",
+      "id": 763529,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Maria Luiza",
+      "id": 764462,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Pedro Henrique Da Silva",
+      "id": 765801,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "vando",
+      "id": 770019,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Sergio",
+      "id": 770158,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "cristielton",
+      "id": 770439,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Elias",
+      "id": 772012,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "emerson",
+      "id": 773836,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Cleidison",
+      "id": 778024,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Luciano",
+      "id": 780841,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Gean",
+      "id": 787698,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "ALMIR",
+      "id": 789617,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Jefferson",
+      "id": 794710,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "LUIZ",
+      "id": 795323,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Daniel",
+      "id": 796726,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "George",
+      "id": 796828,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Ricardo",
+      "id": 804306,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Jose",
+      "id": 814238,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Maur�cio",
+      "id": 819442,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Maria Cristina Roqueto",
+      "id": 820622,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Marcos",
+      "id": 828293,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Welington",
+      "id": 828692,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Elisangela",
+      "id": 830439,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Ligia",
+      "id": 831944,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Flavio",
+      "id": 832934,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Felix",
+      "id": 834224,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Rafael",
+      "id": 854007,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "genilson",
+      "id": 854296,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Francisco",
+      "id": 861006,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Paulo",
+      "id": 861740,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Marco",
+      "id": 864568,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Fernando Antonio",
+      "id": 881398,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "joanes",
+      "id": 892162,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "robertinho",
+      "id": 898148,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Zaqueu",
+      "id": 901372,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Matheus",
+      "id": 908768,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "LUIZ",
+      "id": 908963,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Jobenilson",
+      "id": 912502,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Dhone",
+      "id": 915267,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Matheus",
+      "id": 916628,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Tiago",
+      "id": 916717,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "wermeson",
+      "id": 923550,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "jose",
+      "id": 924960,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Marcio",
+      "id": 927632,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Rogerio",
+      "id": 928399,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Alefe",
+      "id": 928608,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Rodrigo",
+      "id": 928899,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "luis Paulo",
+      "id": 931368,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Marcus",
+      "id": 933218,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Murilo",
+      "id": 940845,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "diogo",
+      "id": 945216,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Vagner",
+      "id": 947897,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Gabriel",
+      "id": 950603,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Paulinho",
+      "id": 956519,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Vanessa",
+      "id": 960931,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Junio",
+      "id": 965168,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Mario",
+      "id": 967851,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Jose Victor",
+      "id": 973127,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Anderson",
+      "id": 978847,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Thiago",
+      "id": 979560,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Erick",
+      "id": 981436,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "jean",
+      "id": 981898,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Lucas Eduardo Oliveira da Silva",
+      "id": 998961,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Doglany",
+      "id": 1002609,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Joseval",
+      "id": 1005941,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Valdiney",
+      "id": 1008915,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "deise Cristina",
+      "id": 1017293,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Emili",
+      "id": 1020195,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Eduardo Diogo Sales",
+      "id": 1023362,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Mercia",
+      "id": 1025017,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "maycom",
+      "id": 1037257,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Bianca",
+      "id": 1043754,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Jose",
+      "id": 1048819,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Thiago",
+      "id": 1056063,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "daniel",
+      "id": 1059418,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Raimundo",
+      "id": 1062018,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Marcia Valeria",
+      "id": 1062114,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Vitor",
+      "id": 1073751,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Pablo",
+      "id": 1082306,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Jailson",
+      "id": 1095829,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Joao Gabriel",
+      "id": 1100080,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Giovanna",
+      "id": 1103852,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Johnny",
+      "id": 1142352,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Mainara",
+      "id": 1150785,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Edivan",
+      "id": 1166162,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Claudio",
+      "id": 1166783,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Thiago",
+      "id": 1174409,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Paulo",
+      "id": 1175084,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Kevyn",
+      "id": 1176673,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Adso",
+      "id": 1180538,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Everton",
+      "id": 1181096,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Thiago",
+      "id": 1181465,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Jeordam",
+      "id": 1182591,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Joao",
+      "id": 1195016,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Wagnaldo",
+      "id": 1204443,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "JULIANO",
+      "id": 1207035,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Sonia",
+      "id": 1210807,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Geraldo",
+      "id": 1218740,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Cleber",
+      "id": 1219408,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Welber",
+      "id": 1220175,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Andre",
+      "id": 1243381,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Mateus",
+      "id": 1258509,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Daniel",
+      "id": 1269887,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Esveraldo",
+      "id": 1271691,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Luiz Eduardo",
+      "id": 1274041,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Wilian",
+      "id": 1278367,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Carlos Alexandre",
+      "id": 1278635,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Marcelo Vieira",
+      "id": 1285989,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Rodrigo",
+      "id": 1289946,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Samira",
+      "id": 1300097,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "MARCOS",
+      "id": 1310342,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Pedro",
+      "id": 1311565,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "INGRYDH",
+      "id": 1316138,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Antonio",
+      "id": 1317115,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Robson",
+      "id": 1320539,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Marcelo",
+      "id": 1328273,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "ROSIMEIRE",
+      "id": 1328937,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Luciene",
+      "id": 1329390,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Valqu�ria",
+      "id": 1332741,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "CHRISTIAN",
+      "id": 1336315,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Jose Eduardo",
+      "id": 1345716,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Lucas",
+      "id": 1348684,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "diogo",
+      "id": 1348806,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Rafael",
+      "id": 1348917,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Idael",
+      "id": 1349778,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Maria Veronica Carneiro de Souza",
+      "id": 1350632,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Reinaldo",
+      "id": 1351415,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Joaquim",
+      "id": 1352068,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Lazaro",
+      "id": 1352131,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Renner",
+      "id": 1354518,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Adriano",
+      "id": 1357083,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Marcos",
+      "id": 1361768,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Cleiton",
+      "id": 1362396,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Iany",
+      "id": 1362399,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "ADAILTON",
+      "id": 1365063,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "fabio",
+      "id": 1366374,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Gabriel",
+      "id": 1367200,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Gledson",
+      "id": 1368692,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Rafael",
+      "id": 1371649,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Rone",
+      "id": 1373121,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Antonio Gilberto",
+      "id": 1380090,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Rafael",
+      "id": 1382689,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Genival",
+      "id": 1383409,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "FRANCISCO FaBIO",
+      "id": 1389830,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Eurico",
+      "id": 1390201,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Helder",
+      "id": 1392569,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Mateus",
+      "id": 1395081,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Paulo",
+      "id": 1398112,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Vin�cius",
+      "id": 1399422,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Ezequiel",
+      "id": 1405094,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Thais",
+      "id": 1410339,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Kamilla",
+      "id": 1412236,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Janine",
+      "id": 1412393,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Madson",
+      "id": 1412579,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Celio",
+      "id": 1412760,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Elizeu",
+      "id": 1412855,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Jeronimo",
+      "id": 1413946,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Marcos",
+      "id": 1414017,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "MARCIO",
+      "id": 1414602,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Ricardo",
+      "id": 1415816,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Mariana",
+      "id": 1415852,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Bruna Leticia",
+      "id": 1415870,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "CLAUDINEI",
+      "id": 1417040,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Fabio",
+      "id": 1419844,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Mauricio",
+      "id": 1420063,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "RAFAEL",
+      "id": 1420669,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Carlos Alberto",
+      "id": 1421519,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "CLAUDIO",
+      "id": 1421761,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Jaymes",
+      "id": 1422800,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Lucineide",
+      "id": 1423113,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Antonio",
+      "id": 1425538,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Leonardo",
+      "id": 1426708,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Edison",
+      "id": 1427671,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Marcelo",
+      "id": 1428303,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Suzane",
+      "id": 1428811,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Glauber",
+      "id": 1429606,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Valdemar",
+      "id": 1431047,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Cairon",
+      "id": 1431612,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Gabriel",
+      "id": 1433918,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "SAMUEL",
+      "id": 1435359,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Fefux",
+      "id": 1436313,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Renan",
+      "id": 1436319,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Clayton",
+      "id": 1440787,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Marcello",
+      "id": 1442244,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "MANOEL",
+      "id": 1444612,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Luiz Felipe",
+      "id": 1450767,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Daniel",
+      "id": 1451321,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Ederson",
+      "id": 1452157,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Marcio",
+      "id": 1453014,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Evandro",
+      "id": 1453193,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Moises",
+      "id": 1453732,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "ELTON LIMA",
+      "id": 1454306,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Marcos",
+      "id": 1457626,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Rafael",
+      "id": 1458522,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Samuel",
+      "id": 1458680,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Pedro",
+      "id": 1459677,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Edmilson",
+      "id": 1461187,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Sergio",
+      "id": 1469593,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "RITA DE CASSIA PEREIRA DA",
+      "id": 1473854,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "ANTONIO",
+      "id": 1487320,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Thiago",
+      "id": 1487838,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Edson",
+      "id": 1488054,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Kainara",
+      "id": 1488734,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "SEBASTIAO",
+      "id": 1491032,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "andreia",
+      "id": 1493130,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "JONATHAN",
+      "id": 1500508,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Roberto",
+      "id": 1504552,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Jhonatas",
+      "id": 1505382,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Anderson",
+      "id": 1505701,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Marcelo",
+      "id": 1505816,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Catarina",
+      "id": 1505938,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Adriano",
+      "id": 1505986,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Joaquim Leoncio",
+      "id": 1506342,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "roberto seiji",
+      "id": 1506565,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Josenilson",
+      "id": 1506752,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Ricardo",
+      "id": 1506865,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Alcivania",
+      "id": 1506947,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "RENATO",
+      "id": 1506994,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Geraldo",
+      "id": 1507074,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Leonardo",
+      "id": 1507307,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Izabel",
+      "id": 1507340,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Valdson",
+      "id": 1507587,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "ALEXIS",
+      "id": 1507977,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Jeferson",
+      "id": 1509847,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Matheus",
+      "id": 1511870,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "FABIANO",
+      "id": 1513226,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "WELLINGTON CLEITON DE SOUZA",
+      "id": 1513261,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Paulo",
+      "id": 1513333,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "wanderley",
+      "id": 1513437,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Maicon",
+      "id": 1513643,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Arthur",
+      "id": 1514790,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Celso",
+      "id": 1515554,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "WAYDSON FELIPE DA",
+      "id": 1516364,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "81854562",
+      "id": 1517846,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Jose",
+      "id": 1518841,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    },
+    {
+      "classificacao": "210",
+      "nome": "Romualdo",
+      "id": 1519272,
+      "pontos": 0,
+      "somaOdds": 0,
+      "totalApostado": "0",
+      "updatedAt": "2024-10-28T13:07:11.337Z"
+    }
+  ]
+}
