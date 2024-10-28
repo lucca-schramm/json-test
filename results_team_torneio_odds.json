@@ -17,6 +17,15 @@
             "betCount": 0,
             "updatedAt": "2024-10-28T19:19:08.071Z",
             "classificacao": 2
+        },
+        {
+            "id": 1514193,
+            "nome": "Lucca",
+            "somaOdds": 0,
+            "totalStake": 0,
+            "betCount": 0,
+            "updatedAt": "2024-10-28T19:19:08.071Z",
+            "classificacao": 3
         }
     ]
 }
