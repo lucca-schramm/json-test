@@ -1,3 +1,22 @@
 {
-    "ranking": []
+    "ranking": [
+        {
+            "id": 159824,
+            "nome": "Gabriel",
+            "somaOdds": 0,
+            "totalStake": 0,
+            "betCount": 0,
+            "updatedAt": "2024-10-28T19:19:08.071Z",
+            "classificacao": 1
+        },
+        {
+            "id": 834163,
+            "nome": "Ivan",
+            "somaOdds": 0,
+            "totalStake": 0,
+            "betCount": 0,
+            "updatedAt": "2024-10-28T19:19:08.071Z",
+            "classificacao": 2
+        }
+    ]
 }
