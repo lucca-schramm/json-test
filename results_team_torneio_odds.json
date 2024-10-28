@@ -1,20 +1,3 @@
 {
-    "ranking": [
-        {
-            "id": 976878,
-            "somaOdds": 579.2031259999999,
-            "totalStake": 30,
-            "betCount": 6,
-            "updatedAt": "2024-10-28T15:27:24.505Z",
-            "classificacao": 1
-        },
-        {
-            "id": 968121,
-            "somaOdds": 557.9090299999999,
-            "totalStake": 2817,
-            "betCount": 125,
-            "updatedAt": "2024-10-28T15:27:24.505Z",
-            "classificacao": 2
-        }
-    ]
+    "ranking": []
 }
