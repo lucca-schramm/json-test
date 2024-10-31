@@ -3,10 +3,10 @@
         {
             "id": 592948,
             "nome": "Marcus",
-            "somaOdds": 146.91,
-            "totalStake": 2673.7,
-            "betCount": 63,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "somaOdds": 151.51,
+            "totalStake": 2693.7,
+            "betCount": 65,
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 1
         },
         {
@@ -15,7 +15,7 @@
             "somaOdds": 139.58011,
             "totalStake": 60,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 2
         },
         {
@@ -24,16 +24,16 @@
             "somaOdds": 138.23,
             "totalStake": 1212,
             "betCount": 47,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 3
         },
         {
             "id": 968121,
             "nome": "Ozano",
-            "somaOdds": 120.90608299999998,
-            "totalStake": 655,
-            "betCount": 30,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "somaOdds": 125.06608299999998,
+            "totalStake": 665,
+            "betCount": 31,
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 4
         },
         {
@@ -42,7 +42,7 @@
             "somaOdds": 107.332066,
             "totalStake": 20,
             "betCount": 4,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 5
         },
         {
@@ -51,7 +51,7 @@
             "somaOdds": 104.50996700000002,
             "totalStake": 153.85,
             "betCount": 20,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 6
         },
         {
@@ -60,7 +60,7 @@
             "somaOdds": 98.41958999999999,
             "totalStake": 369,
             "betCount": 14,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 7
         },
         {
@@ -69,7 +69,7 @@
             "somaOdds": 90.557255,
             "totalStake": 141.81,
             "betCount": 13,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 8
         },
         {
@@ -78,16 +78,16 @@
             "somaOdds": 83.81,
             "totalStake": 363,
             "betCount": 19,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 9
         },
         {
             "id": 205649,
             "nome": "DaNIEL",
-            "somaOdds": 79.60000000000001,
-            "totalStake": 140,
-            "betCount": 28,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "somaOdds": 81.95,
+            "totalStake": 145,
+            "betCount": 29,
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 10
         },
         {
@@ -96,7 +96,7 @@
             "somaOdds": 71.669405,
             "totalStake": 250,
             "betCount": 6,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 11
         },
         {
@@ -105,7 +105,7 @@
             "somaOdds": 70.398838,
             "totalStake": 102,
             "betCount": 11,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 12
         },
         {
@@ -114,7 +114,7 @@
             "somaOdds": 68.504597,
             "totalStake": 121.43,
             "betCount": 6,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 13
         },
         {
@@ -123,7 +123,7 @@
             "somaOdds": 65.92999999999999,
             "totalStake": 1013,
             "betCount": 10,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 14
         },
         {
@@ -132,8 +132,17 @@
             "somaOdds": 63.948239,
             "totalStake": 145,
             "betCount": 4,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 15
+        },
+        {
+            "id": 1415690,
+            "nome": "antonio",
+            "somaOdds": 60.53597599999999,
+            "totalStake": 116.27,
+            "betCount": 17,
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 16
         },
         {
             "id": 650503,
@@ -141,8 +150,8 @@
             "somaOdds": 58.580772,
             "totalStake": 62.4,
             "betCount": 6,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 16
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 17
         },
         {
             "id": 272182,
@@ -150,8 +159,8 @@
             "somaOdds": 54.88,
             "totalStake": 265.17,
             "betCount": 15,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 17
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 18
         },
         {
             "id": 615775,
@@ -159,8 +168,8 @@
             "somaOdds": 52.379113000000004,
             "totalStake": 40.129999999999995,
             "betCount": 5,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 18
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 19
         },
         {
             "id": 339567,
@@ -168,16 +177,7 @@
             "somaOdds": 51.841063,
             "totalStake": 390,
             "betCount": 15,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 19
-        },
-        {
-            "id": 1415690,
-            "nome": "antonio",
-            "somaOdds": 50.038135999999994,
-            "totalStake": 96.27,
-            "betCount": 13,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 20
         },
         {
@@ -186,7 +186,7 @@
             "somaOdds": 49.380162,
             "totalStake": 5,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 21
         },
         {
@@ -195,7 +195,7 @@
             "somaOdds": 48.113116000000005,
             "totalStake": 96.52,
             "betCount": 7,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 22
         },
         {
@@ -204,7 +204,7 @@
             "somaOdds": 47.529661999999995,
             "totalStake": 198,
             "betCount": 6,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 23
         },
         {
@@ -213,7 +213,7 @@
             "somaOdds": 46.618379999999995,
             "totalStake": 223,
             "betCount": 16,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 24
         },
         {
@@ -222,7 +222,7 @@
             "somaOdds": 46.135921,
             "totalStake": 33,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 25
         },
         {
@@ -231,7 +231,7 @@
             "somaOdds": 45.449999999999996,
             "totalStake": 557.96,
             "betCount": 8,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 26
         },
         {
@@ -240,7 +240,7 @@
             "somaOdds": 41.614886,
             "totalStake": 87.19,
             "betCount": 10,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 27
         },
         {
@@ -249,7 +249,7 @@
             "somaOdds": 40.4088,
             "totalStake": 155.31,
             "betCount": 7,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 28
         },
         {
@@ -258,7 +258,7 @@
             "somaOdds": 40.37536,
             "totalStake": 75,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 29
         },
         {
@@ -267,7 +267,7 @@
             "somaOdds": 39.827000000000005,
             "totalStake": 250,
             "betCount": 6,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 30
         },
         {
@@ -276,7 +276,7 @@
             "somaOdds": 38.253648,
             "totalStake": 121,
             "betCount": 5,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 31
         },
         {
@@ -285,7 +285,7 @@
             "somaOdds": 37.53,
             "totalStake": 390.1,
             "betCount": 10,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 32
         },
         {
@@ -294,7 +294,7 @@
             "somaOdds": 36.484,
             "totalStake": 94.57,
             "betCount": 10,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 33
         },
         {
@@ -303,7 +303,7 @@
             "somaOdds": 35.857336000000004,
             "totalStake": 106.58,
             "betCount": 11,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 34
         },
         {
@@ -312,7 +312,7 @@
             "somaOdds": 34.04,
             "totalStake": 131.74,
             "betCount": 9,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 35
         },
         {
@@ -321,7 +321,7 @@
             "somaOdds": 33.055613,
             "totalStake": 142,
             "betCount": 10,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 36
         },
         {
@@ -330,7 +330,7 @@
             "somaOdds": 32.943866,
             "totalStake": 216.18,
             "betCount": 6,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 37
         },
         {
@@ -339,7 +339,7 @@
             "somaOdds": 32.5465,
             "totalStake": 403,
             "betCount": 9,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 38
         },
         {
@@ -348,7 +348,7 @@
             "somaOdds": 32.498301999999995,
             "totalStake": 25,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 39
         },
         {
@@ -357,7 +357,7 @@
             "somaOdds": 31.655,
             "totalStake": 448.36,
             "betCount": 10,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 40
         },
         {
@@ -366,7 +366,7 @@
             "somaOdds": 31.102299999999996,
             "totalStake": 432.67,
             "betCount": 13,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 41
         },
         {
@@ -375,7 +375,7 @@
             "somaOdds": 30.895,
             "totalStake": 70,
             "betCount": 7,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 42
         },
         {
@@ -384,7 +384,7 @@
             "somaOdds": 30.14475,
             "totalStake": 204,
             "betCount": 11,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 43
         },
         {
@@ -393,7 +393,7 @@
             "somaOdds": 29.627499999999998,
             "totalStake": 196.23000000000002,
             "betCount": 8,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 44
         },
         {
@@ -402,7 +402,7 @@
             "somaOdds": 29.46,
             "totalStake": 848,
             "betCount": 7,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 45
         },
         {
@@ -411,7 +411,7 @@
             "somaOdds": 29.068400000000004,
             "totalStake": 70.97,
             "betCount": 7,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 46
         },
         {
@@ -420,7 +420,7 @@
             "somaOdds": 28.864689,
             "totalStake": 88,
             "betCount": 8,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 47
         },
         {
@@ -429,7 +429,7 @@
             "somaOdds": 28.830000000000002,
             "totalStake": 1535,
             "betCount": 11,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 48
         },
         {
@@ -438,7 +438,7 @@
             "somaOdds": 28.680000000000003,
             "totalStake": 192.3,
             "betCount": 10,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 49
         },
         {
@@ -447,7 +447,7 @@
             "somaOdds": 26.9146,
             "totalStake": 1600,
             "betCount": 11,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 50
         },
         {
@@ -456,7 +456,7 @@
             "somaOdds": 26.870369,
             "totalStake": 5,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 51
         },
         {
@@ -465,7 +465,7 @@
             "somaOdds": 26.7425,
             "totalStake": 283,
             "betCount": 9,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 52
         },
         {
@@ -474,7 +474,7 @@
             "somaOdds": 26.249200000000002,
             "totalStake": 374,
             "betCount": 10,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 53
         },
         {
@@ -483,7 +483,7 @@
             "somaOdds": 26.130275,
             "totalStake": 187.59,
             "betCount": 7,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 54
         },
         {
@@ -492,7 +492,7 @@
             "somaOdds": 26,
             "totalStake": 185,
             "betCount": 8,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 55
         },
         {
@@ -501,7 +501,7 @@
             "somaOdds": 25.996100000000002,
             "totalStake": 112,
             "betCount": 8,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 56
         },
         {
@@ -510,7 +510,7 @@
             "somaOdds": 25.800896,
             "totalStake": 99,
             "betCount": 9,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 57
         },
         {
@@ -519,7 +519,7 @@
             "somaOdds": 25.647909999999996,
             "totalStake": 359.48,
             "betCount": 10,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 58
         },
         {
@@ -528,7 +528,7 @@
             "somaOdds": 25.548364,
             "totalStake": 51,
             "betCount": 8,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 59
         },
         {
@@ -537,7 +537,7 @@
             "somaOdds": 25.3775,
             "totalStake": 97,
             "betCount": 9,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 60
         },
         {
@@ -546,7 +546,7 @@
             "somaOdds": 24.749999999999996,
             "totalStake": 225,
             "betCount": 8,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 61
         },
         {
@@ -555,7 +555,7 @@
             "somaOdds": 24.240634,
             "totalStake": 1205,
             "betCount": 9,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 62
         },
         {
@@ -564,7 +564,7 @@
             "somaOdds": 24.152645,
             "totalStake": 125.2,
             "betCount": 7,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 63
         },
         {
@@ -573,7 +573,7 @@
             "somaOdds": 23.622837999999998,
             "totalStake": 20,
             "betCount": 4,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 64
         },
         {
@@ -582,7 +582,7 @@
             "somaOdds": 23.38,
             "totalStake": 35,
             "betCount": 7,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 65
         },
         {
@@ -591,7 +591,7 @@
             "somaOdds": 23.266000000000002,
             "totalStake": 195,
             "betCount": 7,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 66
         },
         {
@@ -600,7 +600,7 @@
             "somaOdds": 23.03,
             "totalStake": 45,
             "betCount": 6,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 67
         },
         {
@@ -609,7 +609,7 @@
             "somaOdds": 22.7538,
             "totalStake": 35,
             "betCount": 5,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 68
         },
         {
@@ -618,7 +618,7 @@
             "somaOdds": 22.692515999999998,
             "totalStake": 25,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 69
         },
         {
@@ -627,7 +627,7 @@
             "somaOdds": 21.74736,
             "totalStake": 20,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 70
         },
         {
@@ -636,7 +636,7 @@
             "somaOdds": 21.245,
             "totalStake": 61.72,
             "betCount": 8,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 71
         },
         {
@@ -645,7 +645,7 @@
             "somaOdds": 20.985442,
             "totalStake": 98,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 72
         },
         {
@@ -654,7 +654,7 @@
             "somaOdds": 20.953936,
             "totalStake": 44,
             "betCount": 7,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 73
         },
         {
@@ -663,7 +663,7 @@
             "somaOdds": 20.587097,
             "totalStake": 20,
             "betCount": 4,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 74
         },
         {
@@ -672,7 +672,7 @@
             "somaOdds": 20.409999999999997,
             "totalStake": 79,
             "betCount": 8,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 75
         },
         {
@@ -681,7 +681,7 @@
             "somaOdds": 20.405548999999997,
             "totalStake": 20,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 76
         },
         {
@@ -690,7 +690,7 @@
             "somaOdds": 20.352,
             "totalStake": 5,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 77
         },
         {
@@ -699,7 +699,7 @@
             "somaOdds": 20.20375,
             "totalStake": 70,
             "betCount": 8,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 78
         },
         {
@@ -708,7 +708,7 @@
             "somaOdds": 19.86205,
             "totalStake": 58,
             "betCount": 6,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 79
         },
         {
@@ -717,7 +717,7 @@
             "somaOdds": 19.787241,
             "totalStake": 120,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 80
         },
         {
@@ -726,7 +726,7 @@
             "somaOdds": 19.63,
             "totalStake": 45,
             "betCount": 8,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 81
         },
         {
@@ -735,7 +735,7 @@
             "somaOdds": 19.415879,
             "totalStake": 1200,
             "betCount": 5,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 82
         },
         {
@@ -744,7 +744,7 @@
             "somaOdds": 19.4,
             "totalStake": 383,
             "betCount": 7,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 83
         },
         {
@@ -753,7 +753,7 @@
             "somaOdds": 19.0105,
             "totalStake": 162.83,
             "betCount": 7,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 84
         },
         {
@@ -762,7 +762,7 @@
             "somaOdds": 18.229211,
             "totalStake": 29.939999999999998,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 85
         },
         {
@@ -771,7 +771,7 @@
             "somaOdds": 17.74,
             "totalStake": 60,
             "betCount": 5,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 86
         },
         {
@@ -780,7 +780,7 @@
             "somaOdds": 17.505,
             "totalStake": 150,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 87
         },
         {
@@ -789,7 +789,7 @@
             "somaOdds": 17.488792,
             "totalStake": 35,
             "betCount": 5,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 88
         },
         {
@@ -798,7 +798,7 @@
             "somaOdds": 17.477800000000002,
             "totalStake": 34.63,
             "betCount": 6,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 89
         },
         {
@@ -807,7 +807,7 @@
             "somaOdds": 17.304512,
             "totalStake": 162.6,
             "betCount": 7,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 90
         },
         {
@@ -816,7 +816,7 @@
             "somaOdds": 17.004739999999998,
             "totalStake": 32,
             "betCount": 6,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 91
         },
         {
@@ -825,7 +825,7 @@
             "somaOdds": 16.585,
             "totalStake": 165.4,
             "betCount": 5,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 92
         },
         {
@@ -834,7 +834,7 @@
             "somaOdds": 16.52,
             "totalStake": 75,
             "betCount": 5,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 93
         },
         {
@@ -843,7 +843,7 @@
             "somaOdds": 15.5483,
             "totalStake": 40,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 94
         },
         {
@@ -852,7 +852,7 @@
             "somaOdds": 15.5,
             "totalStake": 710,
             "betCount": 6,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 95
         },
         {
@@ -861,7 +861,7 @@
             "somaOdds": 15.407650000000002,
             "totalStake": 211,
             "betCount": 6,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 96
         },
         {
@@ -870,7 +870,7 @@
             "somaOdds": 15.202,
             "totalStake": 60.06,
             "betCount": 5,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 97
         },
         {
@@ -879,7 +879,7 @@
             "somaOdds": 15.2,
             "totalStake": 135.92000000000002,
             "betCount": 4,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 98
         },
         {
@@ -888,7 +888,7 @@
             "somaOdds": 15.182002,
             "totalStake": 20,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 99
         },
         {
@@ -897,8 +897,17 @@
             "somaOdds": 15.13171,
             "totalStake": 15,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 100
+        },
+        {
+            "id": 1500774,
+            "nome": "VaLDIR",
+            "somaOdds": 14.764500000000002,
+            "totalStake": 65,
+            "betCount": 5,
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 101
         },
         {
             "id": 232035,
@@ -906,8 +915,8 @@
             "somaOdds": 14.741061,
             "totalStake": 5,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 101
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 102
         },
         {
             "id": 728201,
@@ -915,8 +924,8 @@
             "somaOdds": 14.677133,
             "totalStake": 15,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 102
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 103
         },
         {
             "id": 1334466,
@@ -924,8 +933,8 @@
             "somaOdds": 14.66205,
             "totalStake": 1056.88,
             "betCount": 6,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 103
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 104
         },
         {
             "id": 1023073,
@@ -933,8 +942,8 @@
             "somaOdds": 14.564066,
             "totalStake": 55,
             "betCount": 4,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 104
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 105
         },
         {
             "id": 823837,
@@ -942,8 +951,8 @@
             "somaOdds": 14.3041,
             "totalStake": 37.89,
             "betCount": 6,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 105
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 106
         },
         {
             "id": 1036523,
@@ -951,8 +960,8 @@
             "somaOdds": 14.25,
             "totalStake": 25,
             "betCount": 5,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 106
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 107
         },
         {
             "id": 470819,
@@ -960,8 +969,8 @@
             "somaOdds": 13.953000000000001,
             "totalStake": 213.07,
             "betCount": 5,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 107
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 108
         },
         {
             "id": 956245,
@@ -969,8 +978,8 @@
             "somaOdds": 13.9,
             "totalStake": 92.5,
             "betCount": 6,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 108
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 109
         },
         {
             "id": 304489,
@@ -978,8 +987,8 @@
             "somaOdds": 13.87425,
             "totalStake": 160,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 109
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 110
         },
         {
             "id": 577104,
@@ -987,8 +996,8 @@
             "somaOdds": 13.706602,
             "totalStake": 30,
             "betCount": 5,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 110
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 111
         },
         {
             "id": 315950,
@@ -996,8 +1005,8 @@
             "somaOdds": 13.649999999999999,
             "totalStake": 45,
             "betCount": 4,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 111
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 112
         },
         {
             "id": 1286626,
@@ -1005,8 +1014,8 @@
             "somaOdds": 13.5,
             "totalStake": 1800.75,
             "betCount": 6,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 112
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 113
         },
         {
             "id": 697731,
@@ -1014,8 +1023,8 @@
             "somaOdds": 13.45758,
             "totalStake": 37,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 113
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 114
         },
         {
             "id": 1514193,
@@ -1023,8 +1032,8 @@
             "somaOdds": 13.4171,
             "totalStake": 24,
             "betCount": 4,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 114
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 115
         },
         {
             "id": 1201875,
@@ -1032,8 +1041,8 @@
             "somaOdds": 13.370481,
             "totalStake": 15,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 115
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 116
         },
         {
             "id": 367581,
@@ -1041,8 +1050,8 @@
             "somaOdds": 13.277,
             "totalStake": 10,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 116
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 117
         },
         {
             "id": 1082695,
@@ -1050,8 +1059,8 @@
             "somaOdds": 13.055736,
             "totalStake": 30,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 117
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 118
         },
         {
             "id": 1458943,
@@ -1059,8 +1068,8 @@
             "somaOdds": 12.936,
             "totalStake": 125,
             "betCount": 6,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 118
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 119
         },
         {
             "id": 667699,
@@ -1068,8 +1077,8 @@
             "somaOdds": 12.916,
             "totalStake": 62.699999999999996,
             "betCount": 5,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 119
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 120
         },
         {
             "id": 1452922,
@@ -1077,8 +1086,8 @@
             "somaOdds": 12.88,
             "totalStake": 40,
             "betCount": 4,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 120
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 121
         },
         {
             "id": 984919,
@@ -1086,8 +1095,17 @@
             "somaOdds": 12.817668999999999,
             "totalStake": 110,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 121
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 122
+        },
+        {
+            "id": 112561,
+            "nome": "Fabio",
+            "somaOdds": 12.77,
+            "totalStake": 2200,
+            "betCount": 6,
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 123
         },
         {
             "id": 207407,
@@ -1095,8 +1113,8 @@
             "somaOdds": 12.751999999999999,
             "totalStake": 44.66,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 122
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 124
         },
         {
             "id": 426198,
@@ -1104,8 +1122,17 @@
             "somaOdds": 12.70063,
             "totalStake": 176.17000000000002,
             "betCount": 5,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 123
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 125
+        },
+        {
+            "id": 575167,
+            "nome": "Gustavo",
+            "somaOdds": 12.687999999999999,
+            "totalStake": 350,
+            "betCount": 5,
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 126
         },
         {
             "id": 729109,
@@ -1113,17 +1140,8 @@
             "somaOdds": 12.569999999999999,
             "totalStake": 20,
             "betCount": 4,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 124
-        },
-        {
-            "id": 1500774,
-            "nome": "VaLDIR",
-            "somaOdds": 12.492500000000001,
-            "totalStake": 45,
-            "betCount": 4,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 125
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 127
         },
         {
             "id": 591644,
@@ -1131,8 +1149,8 @@
             "somaOdds": 12.3408,
             "totalStake": 338.42,
             "betCount": 4,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 126
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 128
         },
         {
             "id": 1426598,
@@ -1140,8 +1158,8 @@
             "somaOdds": 12.16,
             "totalStake": 900,
             "betCount": 4,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 127
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 129
         },
         {
             "id": 1367567,
@@ -1149,8 +1167,8 @@
             "somaOdds": 11.66,
             "totalStake": 30,
             "betCount": 4,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 128
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 130
         },
         {
             "id": 452956,
@@ -1158,8 +1176,8 @@
             "somaOdds": 11.117192,
             "totalStake": 8,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 129
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 131
         },
         {
             "id": 783499,
@@ -1167,8 +1185,8 @@
             "somaOdds": 11.024999999999999,
             "totalStake": 46,
             "betCount": 4,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 130
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 132
         },
         {
             "id": 624850,
@@ -1176,8 +1194,8 @@
             "somaOdds": 10.817675000000001,
             "totalStake": 21,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 131
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 133
         },
         {
             "id": 1311030,
@@ -1185,8 +1203,8 @@
             "somaOdds": 10.8,
             "totalStake": 110.8,
             "betCount": 5,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 132
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 134
         },
         {
             "id": 952188,
@@ -1194,8 +1212,8 @@
             "somaOdds": 10.761986,
             "totalStake": 10,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 133
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 135
         },
         {
             "id": 1272512,
@@ -1203,17 +1221,8 @@
             "somaOdds": 10.500146,
             "totalStake": 5,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 134
-        },
-        {
-            "id": 575167,
-            "nome": "Gustavo",
-            "somaOdds": 10.35,
-            "totalStake": 250,
-            "betCount": 4,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 135
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 136
         },
         {
             "id": 1520746,
@@ -1221,8 +1230,8 @@
             "somaOdds": 10.056107,
             "totalStake": 20,
             "betCount": 4,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 136
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 137
         },
         {
             "id": 786111,
@@ -1230,8 +1239,8 @@
             "somaOdds": 10.004999999999999,
             "totalStake": 184,
             "betCount": 4,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 137
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 138
         },
         {
             "id": 921289,
@@ -1239,8 +1248,8 @@
             "somaOdds": 10,
             "totalStake": 70,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 138
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 139
         },
         {
             "id": 660186,
@@ -1248,8 +1257,8 @@
             "somaOdds": 9.989999999999998,
             "totalStake": 25,
             "betCount": 4,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 139
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 140
         },
         {
             "id": 222691,
@@ -1257,8 +1266,8 @@
             "somaOdds": 9.95823,
             "totalStake": 50,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 140
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 141
         },
         {
             "id": 1540668,
@@ -1266,8 +1275,8 @@
             "somaOdds": 9.722075,
             "totalStake": 10,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 141
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 142
         },
         {
             "id": 562269,
@@ -1275,8 +1284,8 @@
             "somaOdds": 9.7144,
             "totalStake": 85.97999999999999,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 142
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 143
         },
         {
             "id": 724684,
@@ -1284,8 +1293,8 @@
             "somaOdds": 9.493875000000001,
             "totalStake": 86.6,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 143
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 144
         },
         {
             "id": 477267,
@@ -1293,8 +1302,8 @@
             "somaOdds": 9.340149,
             "totalStake": 95,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 144
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 145
         },
         {
             "id": 678776,
@@ -1302,8 +1311,8 @@
             "somaOdds": 9.093148,
             "totalStake": 50,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 145
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 146
         },
         {
             "id": 1284552,
@@ -1311,8 +1320,8 @@
             "somaOdds": 9,
             "totalStake": 15,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 146
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 147
         },
         {
             "id": 1408946,
@@ -1320,8 +1329,8 @@
             "somaOdds": 8.9847,
             "totalStake": 15,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 147
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 148
         },
         {
             "id": 407630,
@@ -1329,8 +1338,8 @@
             "somaOdds": 8.98,
             "totalStake": 15,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 148
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 149
         },
         {
             "id": 888099,
@@ -1338,8 +1347,8 @@
             "somaOdds": 8.906409,
             "totalStake": 10,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 149
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 150
         },
         {
             "id": 653193,
@@ -1347,8 +1356,8 @@
             "somaOdds": 8.81,
             "totalStake": 16.1,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 150
+            "updatedAt": "2024-10-31T20:06:51.911Z",
+            "classificacao": 151
         },
         {
             "id": 648743,
@@ -1356,16 +1365,7 @@
             "somaOdds": 8.671034,
             "totalStake": 100,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
-            "classificacao": 151
-        },
-        {
-            "id": 112561,
-            "nome": "Fabio",
-            "somaOdds": 8.52,
-            "totalStake": 1950,
-            "betCount": 4,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 152
         },
         {
@@ -1374,7 +1374,7 @@
             "somaOdds": 8.25,
             "totalStake": 300,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 153
         },
         {
@@ -1383,7 +1383,7 @@
             "somaOdds": 8.04935,
             "totalStake": 40,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 154
         },
         {
@@ -1392,7 +1392,7 @@
             "somaOdds": 7.7004,
             "totalStake": 70,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 155
         },
         {
@@ -1401,7 +1401,7 @@
             "somaOdds": 7.594875,
             "totalStake": 5,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 156
         },
         {
@@ -1410,7 +1410,7 @@
             "somaOdds": 7.555603,
             "totalStake": 45,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 157
         },
         {
@@ -1419,7 +1419,7 @@
             "somaOdds": 7.428055,
             "totalStake": 39.04,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 158
         },
         {
@@ -1428,7 +1428,7 @@
             "somaOdds": 7.405,
             "totalStake": 780,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 159
         },
         {
@@ -1437,7 +1437,7 @@
             "somaOdds": 7.32,
             "totalStake": 54,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 160
         },
         {
@@ -1446,7 +1446,7 @@
             "somaOdds": 7.17,
             "totalStake": 41.3,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 161
         },
         {
@@ -1455,7 +1455,7 @@
             "somaOdds": 7,
             "totalStake": 173,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 162
         },
         {
@@ -1464,7 +1464,7 @@
             "somaOdds": 6.96,
             "totalStake": 34.69,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 163
         },
         {
@@ -1473,7 +1473,7 @@
             "somaOdds": 6.92,
             "totalStake": 11.4,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 164
         },
         {
@@ -1482,7 +1482,7 @@
             "somaOdds": 6.75,
             "totalStake": 18.5,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 165
         },
         {
@@ -1491,7 +1491,7 @@
             "somaOdds": 6.72,
             "totalStake": 106,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 166
         },
         {
@@ -1500,7 +1500,7 @@
             "somaOdds": 6.6,
             "totalStake": 40,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 167
         },
         {
@@ -1509,7 +1509,7 @@
             "somaOdds": 6.6,
             "totalStake": 10,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 168
         },
         {
@@ -1518,7 +1518,7 @@
             "somaOdds": 6.599,
             "totalStake": 100,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 169
         },
         {
@@ -1527,7 +1527,7 @@
             "somaOdds": 6.407424000000001,
             "totalStake": 50,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 170
         },
         {
@@ -1536,7 +1536,7 @@
             "somaOdds": 6.4,
             "totalStake": 55,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 171
         },
         {
@@ -1545,7 +1545,7 @@
             "somaOdds": 6.384356,
             "totalStake": 65,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 172
         },
         {
@@ -1554,7 +1554,7 @@
             "somaOdds": 6.340000000000001,
             "totalStake": 87.97,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 173
         },
         {
@@ -1563,7 +1563,7 @@
             "somaOdds": 6.2908,
             "totalStake": 35,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 174
         },
         {
@@ -1572,7 +1572,7 @@
             "somaOdds": 6.256,
             "totalStake": 15,
             "betCount": 3,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 175
         },
         {
@@ -1581,7 +1581,7 @@
             "somaOdds": 6.25,
             "totalStake": 15,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 176
         },
         {
@@ -1590,7 +1590,7 @@
             "somaOdds": 6.06,
             "totalStake": 20,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 177
         },
         {
@@ -1599,7 +1599,7 @@
             "somaOdds": 6,
             "totalStake": 10,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 178
         },
         {
@@ -1608,7 +1608,7 @@
             "somaOdds": 5.907299999999999,
             "totalStake": 50,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 179
         },
         {
@@ -1617,7 +1617,7 @@
             "somaOdds": 5.877495,
             "totalStake": 5,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 180
         },
         {
@@ -1626,7 +1626,7 @@
             "somaOdds": 5.78,
             "totalStake": 10,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 181
         },
         {
@@ -1635,7 +1635,7 @@
             "somaOdds": 5.7125,
             "totalStake": 2355,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 182
         },
         {
@@ -1644,7 +1644,7 @@
             "somaOdds": 5.6,
             "totalStake": 15,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 183
         },
         {
@@ -1653,7 +1653,7 @@
             "somaOdds": 5.48,
             "totalStake": 60,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 184
         },
         {
@@ -1662,7 +1662,7 @@
             "somaOdds": 5.419643,
             "totalStake": 10,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 185
         },
         {
@@ -1671,7 +1671,7 @@
             "somaOdds": 5.321622,
             "totalStake": 5,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 186
         },
         {
@@ -1680,7 +1680,7 @@
             "somaOdds": 5.2912,
             "totalStake": 150,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 187
         },
         {
@@ -1689,7 +1689,7 @@
             "somaOdds": 5.15,
             "totalStake": 10,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 188
         },
         {
@@ -1698,7 +1698,7 @@
             "somaOdds": 5.12,
             "totalStake": 75,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 189
         },
         {
@@ -1707,7 +1707,7 @@
             "somaOdds": 5.06314,
             "totalStake": 100,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 190
         },
         {
@@ -1716,7 +1716,7 @@
             "somaOdds": 5,
             "totalStake": 90,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 191
         },
         {
@@ -1725,7 +1725,7 @@
             "somaOdds": 4.896,
             "totalStake": 75,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 192
         },
         {
@@ -1734,7 +1734,7 @@
             "somaOdds": 4.890000000000001,
             "totalStake": 40.019999999999996,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 193
         },
         {
@@ -1743,7 +1743,7 @@
             "somaOdds": 4.800000000000001,
             "totalStake": 15,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 194
         },
         {
@@ -1752,7 +1752,7 @@
             "somaOdds": 4.74,
             "totalStake": 50,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 195
         },
         {
@@ -1761,7 +1761,7 @@
             "somaOdds": 4.71,
             "totalStake": 19,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 196
         },
         {
@@ -1770,7 +1770,7 @@
             "somaOdds": 4.6,
             "totalStake": 1281.72,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 197
         },
         {
@@ -1779,7 +1779,7 @@
             "somaOdds": 4.595,
             "totalStake": 1190,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 198
         },
         {
@@ -1788,7 +1788,7 @@
             "somaOdds": 4.5792,
             "totalStake": 50,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 199
         },
         {
@@ -1797,7 +1797,7 @@
             "somaOdds": 4.5792,
             "totalStake": 13,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 200
         },
         {
@@ -1806,7 +1806,7 @@
             "somaOdds": 4.550000000000001,
             "totalStake": 40.21,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 201
         },
         {
@@ -1815,7 +1815,7 @@
             "somaOdds": 4.54,
             "totalStake": 6,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 202
         },
         {
@@ -1824,7 +1824,7 @@
             "somaOdds": 4.5,
             "totalStake": 11,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 203
         },
         {
@@ -1833,7 +1833,7 @@
             "somaOdds": 4.46576,
             "totalStake": 15,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 204
         },
         {
@@ -1842,7 +1842,7 @@
             "somaOdds": 4.46352,
             "totalStake": 92,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 205
         },
         {
@@ -1851,7 +1851,7 @@
             "somaOdds": 4.42,
             "totalStake": 151.8,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 206
         },
         {
@@ -1860,7 +1860,7 @@
             "somaOdds": 4.38,
             "totalStake": 10,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 207
         },
         {
@@ -1869,7 +1869,7 @@
             "somaOdds": 4.35,
             "totalStake": 34.69,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 208
         },
         {
@@ -1878,7 +1878,7 @@
             "somaOdds": 4.28,
             "totalStake": 16,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 209
         },
         {
@@ -1887,7 +1887,7 @@
             "somaOdds": 4.28,
             "totalStake": 5,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 210
         },
         {
@@ -1896,7 +1896,7 @@
             "somaOdds": 4.1899999999999995,
             "totalStake": 300,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 211
         },
         {
@@ -1905,7 +1905,7 @@
             "somaOdds": 4.17,
             "totalStake": 20,
             "betCount": 2,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 212
         },
         {
@@ -1914,7 +1914,7 @@
             "somaOdds": 4.113504,
             "totalStake": 9.2,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 213
         },
         {
@@ -1923,7 +1923,7 @@
             "somaOdds": 4,
             "totalStake": 10,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 214
         },
         {
@@ -1932,7 +1932,7 @@
             "somaOdds": 3.99,
             "totalStake": 10,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 215
         },
         {
@@ -1941,7 +1941,7 @@
             "somaOdds": 3.76,
             "totalStake": 55,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 216
         },
         {
@@ -1950,7 +1950,7 @@
             "somaOdds": 3.576176,
             "totalStake": 50,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 217
         },
         {
@@ -1959,7 +1959,7 @@
             "somaOdds": 3.5,
             "totalStake": 10,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 218
         },
         {
@@ -1968,7 +1968,7 @@
             "somaOdds": 3.42,
             "totalStake": 10,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 219
         },
         {
@@ -1977,7 +1977,7 @@
             "somaOdds": 3.373488,
             "totalStake": 8,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 220
         },
         {
@@ -1986,7 +1986,7 @@
             "somaOdds": 3.25,
             "totalStake": 5.43,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 221
         },
         {
@@ -1995,7 +1995,7 @@
             "somaOdds": 2.9,
             "totalStake": 7.8,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 222
         },
         {
@@ -2004,7 +2004,7 @@
             "somaOdds": 2.86,
             "totalStake": 27.83,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 223
         },
         {
@@ -2013,7 +2013,7 @@
             "somaOdds": 2.85768,
             "totalStake": 6,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 224
         },
         {
@@ -2022,7 +2022,7 @@
             "somaOdds": 2.83,
             "totalStake": 100,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 225
         },
         {
@@ -2031,7 +2031,7 @@
             "somaOdds": 2.83,
             "totalStake": 20,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 226
         },
         {
@@ -2040,7 +2040,7 @@
             "somaOdds": 2.8275,
             "totalStake": 50,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 227
         },
         {
@@ -2049,7 +2049,7 @@
             "somaOdds": 2.818299,
             "totalStake": 100,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 228
         },
         {
@@ -2058,7 +2058,7 @@
             "somaOdds": 2.8,
             "totalStake": 162.5,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 229
         },
         {
@@ -2067,7 +2067,7 @@
             "somaOdds": 2.7342,
             "totalStake": 30,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 230
         },
         {
@@ -2076,7 +2076,7 @@
             "somaOdds": 2.73,
             "totalStake": 100,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 231
         },
         {
@@ -2085,7 +2085,7 @@
             "somaOdds": 2.7125,
             "totalStake": 10,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 232
         },
         {
@@ -2094,7 +2094,7 @@
             "somaOdds": 2.6,
             "totalStake": 5,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 233
         },
         {
@@ -2103,7 +2103,7 @@
             "somaOdds": 2.487507,
             "totalStake": 50,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 234
         },
         {
@@ -2112,7 +2112,7 @@
             "somaOdds": 2.44,
             "totalStake": 20,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 235
         },
         {
@@ -2121,7 +2121,7 @@
             "somaOdds": 2.42,
             "totalStake": 40,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 236
         },
         {
@@ -2130,7 +2130,7 @@
             "somaOdds": 2.42,
             "totalStake": 16.55,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 237
         },
         {
@@ -2139,7 +2139,7 @@
             "somaOdds": 2.42,
             "totalStake": 10,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 238
         },
         {
@@ -2148,7 +2148,7 @@
             "somaOdds": 2.4,
             "totalStake": 5,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 239
         },
         {
@@ -2157,7 +2157,7 @@
             "somaOdds": 2.3,
             "totalStake": 117,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 240
         },
         {
@@ -2166,7 +2166,7 @@
             "somaOdds": 2.2275,
             "totalStake": 50,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 241
         },
         {
@@ -2175,7 +2175,7 @@
             "somaOdds": 2.21,
             "totalStake": 43,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 242
         },
         {
@@ -2184,7 +2184,7 @@
             "somaOdds": 2.2,
             "totalStake": 6,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 243
         },
         {
@@ -2193,7 +2193,7 @@
             "somaOdds": 2.125,
             "totalStake": 53,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 244
         },
         {
@@ -2202,7 +2202,7 @@
             "somaOdds": 2.12,
             "totalStake": 20,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 245
         },
         {
@@ -2211,7 +2211,7 @@
             "somaOdds": 2.1,
             "totalStake": 5,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 246
         },
         {
@@ -2220,7 +2220,7 @@
             "somaOdds": 2.07,
             "totalStake": 5,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 247
         },
         {
@@ -2229,7 +2229,7 @@
             "somaOdds": 2.02,
             "totalStake": 10,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 248
         },
         {
@@ -2238,7 +2238,7 @@
             "somaOdds": 2,
             "totalStake": 10,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 249
         },
         {
@@ -2247,7 +2247,7 @@
             "somaOdds": 2,
             "totalStake": 5,
             "betCount": 1,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 250
         },
         {
@@ -2256,7 +2256,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 251
         },
         {
@@ -2265,7 +2265,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 252
         },
         {
@@ -2274,7 +2274,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 253
         },
         {
@@ -2283,7 +2283,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 254
         },
         {
@@ -2292,7 +2292,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 255
         },
         {
@@ -2301,7 +2301,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 256
         },
         {
@@ -2310,7 +2310,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 257
         },
         {
@@ -2319,7 +2319,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 258
         },
         {
@@ -2328,7 +2328,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 259
         },
         {
@@ -2337,7 +2337,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 260
         },
         {
@@ -2346,7 +2346,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 261
         },
         {
@@ -2355,7 +2355,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 262
         },
         {
@@ -2364,7 +2364,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 263
         },
         {
@@ -2373,7 +2373,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 264
         },
         {
@@ -2382,7 +2382,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 265
         },
         {
@@ -2391,7 +2391,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 266
         },
         {
@@ -2400,7 +2400,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 267
         },
         {
@@ -2409,7 +2409,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 268
         },
         {
@@ -2418,7 +2418,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 269
         },
         {
@@ -2427,7 +2427,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 270
         },
         {
@@ -2436,7 +2436,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 271
         },
         {
@@ -2445,7 +2445,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 272
         },
         {
@@ -2454,7 +2454,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 273
         },
         {
@@ -2463,7 +2463,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 274
         },
         {
@@ -2472,7 +2472,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 275
         },
         {
@@ -2481,7 +2481,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 276
         },
         {
@@ -2490,7 +2490,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 277
         },
         {
@@ -2499,7 +2499,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 278
         },
         {
@@ -2508,7 +2508,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 279
         },
         {
@@ -2517,7 +2517,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 280
         },
         {
@@ -2526,7 +2526,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 281
         },
         {
@@ -2535,7 +2535,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 282
         },
         {
@@ -2544,7 +2544,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 283
         },
         {
@@ -2553,7 +2553,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 284
         },
         {
@@ -2562,7 +2562,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 285
         },
         {
@@ -2571,7 +2571,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 286
         },
         {
@@ -2580,7 +2580,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 287
         },
         {
@@ -2589,7 +2589,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 288
         },
         {
@@ -2598,7 +2598,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 289
         },
         {
@@ -2607,7 +2607,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 290
         },
         {
@@ -2616,7 +2616,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 291
         },
         {
@@ -2625,7 +2625,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 292
         },
         {
@@ -2634,7 +2634,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 293
         },
         {
@@ -2643,7 +2643,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 294
         },
         {
@@ -2652,7 +2652,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 295
         },
         {
@@ -2661,7 +2661,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 296
         },
         {
@@ -2670,7 +2670,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 297
         },
         {
@@ -2679,7 +2679,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 298
         },
         {
@@ -2688,7 +2688,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 299
         },
         {
@@ -2697,7 +2697,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 300
         },
         {
@@ -2706,7 +2706,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 301
         },
         {
@@ -2715,7 +2715,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 302
         },
         {
@@ -2724,7 +2724,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 303
         },
         {
@@ -2733,7 +2733,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 304
         },
         {
@@ -2742,7 +2742,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 305
         },
         {
@@ -2751,7 +2751,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 306
         },
         {
@@ -2760,7 +2760,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 307
         },
         {
@@ -2769,7 +2769,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 308
         },
         {
@@ -2778,7 +2778,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 309
         },
         {
@@ -2787,7 +2787,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 310
         },
         {
@@ -2796,7 +2796,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 311
         },
         {
@@ -2805,7 +2805,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 312
         },
         {
@@ -2814,7 +2814,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 313
         },
         {
@@ -2823,7 +2823,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 314
         },
         {
@@ -2832,7 +2832,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 315
         },
         {
@@ -2841,7 +2841,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 316
         },
         {
@@ -2850,7 +2850,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 317
         },
         {
@@ -2859,7 +2859,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 318
         },
         {
@@ -2868,7 +2868,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 319
         },
         {
@@ -2877,7 +2877,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 320
         },
         {
@@ -2886,7 +2886,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 321
         },
         {
@@ -2895,7 +2895,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 322
         },
         {
@@ -2904,7 +2904,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 323
         },
         {
@@ -2913,7 +2913,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 324
         },
         {
@@ -2922,7 +2922,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 325
         },
         {
@@ -2931,7 +2931,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 326
         },
         {
@@ -2940,7 +2940,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 327
         },
         {
@@ -2949,7 +2949,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 328
         },
         {
@@ -2958,7 +2958,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 329
         },
         {
@@ -2967,7 +2967,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 330
         },
         {
@@ -2976,7 +2976,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 331
         },
         {
@@ -2985,7 +2985,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 332
         },
         {
@@ -2994,7 +2994,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 333
         },
         {
@@ -3003,7 +3003,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 334
         },
         {
@@ -3012,7 +3012,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 335
         },
         {
@@ -3021,7 +3021,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 336
         },
         {
@@ -3030,7 +3030,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 337
         },
         {
@@ -3039,7 +3039,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 338
         },
         {
@@ -3048,7 +3048,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 339
         },
         {
@@ -3057,7 +3057,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 340
         },
         {
@@ -3066,7 +3066,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 341
         },
         {
@@ -3075,7 +3075,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 342
         },
         {
@@ -3084,7 +3084,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 343
         },
         {
@@ -3093,7 +3093,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 344
         },
         {
@@ -3102,7 +3102,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 345
         },
         {
@@ -3111,7 +3111,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 346
         },
         {
@@ -3120,7 +3120,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 347
         },
         {
@@ -3129,7 +3129,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 348
         },
         {
@@ -3138,7 +3138,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 349
         },
         {
@@ -3147,7 +3147,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 350
         },
         {
@@ -3156,7 +3156,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 351
         },
         {
@@ -3165,7 +3165,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 352
         },
         {
@@ -3174,7 +3174,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 353
         },
         {
@@ -3183,7 +3183,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 354
         },
         {
@@ -3192,7 +3192,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 355
         },
         {
@@ -3201,7 +3201,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 356
         },
         {
@@ -3210,7 +3210,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 357
         },
         {
@@ -3219,7 +3219,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 358
         },
         {
@@ -3228,7 +3228,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 359
         },
         {
@@ -3237,7 +3237,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 360
         },
         {
@@ -3246,7 +3246,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 361
         },
         {
@@ -3255,7 +3255,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 362
         },
         {
@@ -3264,7 +3264,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 363
         },
         {
@@ -3273,7 +3273,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 364
         },
         {
@@ -3282,7 +3282,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 365
         },
         {
@@ -3291,7 +3291,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 366
         },
         {
@@ -3300,7 +3300,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 367
         },
         {
@@ -3309,7 +3309,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 368
         },
         {
@@ -3318,7 +3318,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 369
         },
         {
@@ -3327,7 +3327,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 370
         },
         {
@@ -3336,7 +3336,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 371
         },
         {
@@ -3345,7 +3345,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 372
         },
         {
@@ -3354,7 +3354,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 373
         },
         {
@@ -3363,7 +3363,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 374
         },
         {
@@ -3372,7 +3372,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 375
         },
         {
@@ -3381,7 +3381,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 376
         },
         {
@@ -3390,7 +3390,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 377
         },
         {
@@ -3399,7 +3399,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 378
         },
         {
@@ -3408,7 +3408,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 379
         },
         {
@@ -3417,7 +3417,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 380
         },
         {
@@ -3426,7 +3426,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 381
         },
         {
@@ -3435,7 +3435,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 382
         },
         {
@@ -3444,7 +3444,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 383
         },
         {
@@ -3453,7 +3453,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 384
         },
         {
@@ -3462,7 +3462,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 385
         },
         {
@@ -3471,7 +3471,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 386
         },
         {
@@ -3480,7 +3480,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 387
         },
         {
@@ -3489,7 +3489,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 388
         },
         {
@@ -3498,7 +3498,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 389
         },
         {
@@ -3507,7 +3507,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 390
         },
         {
@@ -3516,7 +3516,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 391
         },
         {
@@ -3525,7 +3525,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 392
         },
         {
@@ -3534,7 +3534,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 393
         },
         {
@@ -3543,7 +3543,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 394
         },
         {
@@ -3552,7 +3552,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 395
         },
         {
@@ -3561,7 +3561,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 396
         },
         {
@@ -3570,7 +3570,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 397
         },
         {
@@ -3579,7 +3579,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 398
         },
         {
@@ -3588,7 +3588,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 399
         },
         {
@@ -3597,7 +3597,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 400
         },
         {
@@ -3606,7 +3606,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 401
         },
         {
@@ -3615,7 +3615,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 402
         },
         {
@@ -3624,7 +3624,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 403
         },
         {
@@ -3633,7 +3633,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 404
         },
         {
@@ -3642,7 +3642,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 405
         },
         {
@@ -3651,7 +3651,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 406
         },
         {
@@ -3660,7 +3660,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 407
         },
         {
@@ -3669,7 +3669,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 408
         },
         {
@@ -3678,7 +3678,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 409
         },
         {
@@ -3687,7 +3687,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 410
         },
         {
@@ -3696,7 +3696,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 411
         },
         {
@@ -3705,7 +3705,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 412
         },
         {
@@ -3714,7 +3714,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 413
         },
         {
@@ -3723,7 +3723,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 414
         },
         {
@@ -3732,7 +3732,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 415
         },
         {
@@ -3741,7 +3741,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 416
         },
         {
@@ -3750,7 +3750,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 417
         },
         {
@@ -3759,7 +3759,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 418
         },
         {
@@ -3768,7 +3768,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 419
         },
         {
@@ -3777,7 +3777,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 420
         },
         {
@@ -3786,7 +3786,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 421
         },
         {
@@ -3795,7 +3795,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 422
         },
         {
@@ -3804,7 +3804,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 423
         },
         {
@@ -3813,7 +3813,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 424
         },
         {
@@ -3822,7 +3822,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 425
         },
         {
@@ -3831,7 +3831,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 426
         },
         {
@@ -3840,7 +3840,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 427
         },
         {
@@ -3849,7 +3849,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 428
         },
         {
@@ -3858,7 +3858,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 429
         },
         {
@@ -3867,7 +3867,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 430
         },
         {
@@ -3876,7 +3876,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 431
         },
         {
@@ -3885,7 +3885,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 432
         },
         {
@@ -3894,7 +3894,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 433
         },
         {
@@ -3903,7 +3903,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 434
         },
         {
@@ -3912,7 +3912,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 435
         },
         {
@@ -3921,7 +3921,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 436
         },
         {
@@ -3930,7 +3930,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 437
         },
         {
@@ -3939,7 +3939,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 438
         },
         {
@@ -3948,7 +3948,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 439
         },
         {
@@ -3957,7 +3957,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 440
         },
         {
@@ -3966,7 +3966,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 441
         },
         {
@@ -3975,7 +3975,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 442
         },
         {
@@ -3984,7 +3984,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 443
         },
         {
@@ -3993,7 +3993,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 444
         },
         {
@@ -4002,7 +4002,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 445
         },
         {
@@ -4011,7 +4011,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 446
         },
         {
@@ -4020,7 +4020,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 447
         },
         {
@@ -4029,7 +4029,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 448
         },
         {
@@ -4038,7 +4038,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 449
         },
         {
@@ -4047,7 +4047,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 450
         },
         {
@@ -4056,7 +4056,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 451
         },
         {
@@ -4065,7 +4065,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 452
         },
         {
@@ -4074,7 +4074,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 453
         },
         {
@@ -4083,7 +4083,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 454
         },
         {
@@ -4092,7 +4092,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 455
         },
         {
@@ -4101,7 +4101,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 456
         },
         {
@@ -4110,7 +4110,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 457
         },
         {
@@ -4119,7 +4119,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 458
         },
         {
@@ -4128,7 +4128,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 459
         },
         {
@@ -4137,7 +4137,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 460
         },
         {
@@ -4146,7 +4146,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 461
         },
         {
@@ -4155,7 +4155,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 462
         },
         {
@@ -4164,7 +4164,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 463
         },
         {
@@ -4173,7 +4173,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 464
         },
         {
@@ -4182,7 +4182,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 465
         },
         {
@@ -4191,7 +4191,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 466
         },
         {
@@ -4200,7 +4200,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 467
         },
         {
@@ -4209,7 +4209,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 468
         },
         {
@@ -4218,7 +4218,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 469
         },
         {
@@ -4227,7 +4227,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 470
         },
         {
@@ -4236,7 +4236,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 471
         },
         {
@@ -4245,7 +4245,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 472
         },
         {
@@ -4254,7 +4254,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 473
         },
         {
@@ -4263,7 +4263,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 474
         },
         {
@@ -4272,7 +4272,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 475
         },
         {
@@ -4281,7 +4281,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 476
         },
         {
@@ -4290,7 +4290,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 477
         },
         {
@@ -4299,7 +4299,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 478
         },
         {
@@ -4308,7 +4308,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 479
         },
         {
@@ -4317,7 +4317,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 480
         },
         {
@@ -4326,7 +4326,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 481
         },
         {
@@ -4335,7 +4335,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 482
         },
         {
@@ -4344,7 +4344,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 483
         },
         {
@@ -4353,7 +4353,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 484
         },
         {
@@ -4362,7 +4362,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 485
         },
         {
@@ -4371,7 +4371,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 486
         },
         {
@@ -4380,7 +4380,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 487
         },
         {
@@ -4389,7 +4389,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 488
         },
         {
@@ -4398,7 +4398,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 489
         },
         {
@@ -4407,7 +4407,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 490
         },
         {
@@ -4416,7 +4416,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 491
         },
         {
@@ -4425,7 +4425,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 492
         },
         {
@@ -4434,7 +4434,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 493
         },
         {
@@ -4443,7 +4443,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 494
         },
         {
@@ -4452,7 +4452,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 495
         },
         {
@@ -4461,7 +4461,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 496
         },
         {
@@ -4470,7 +4470,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 497
         },
         {
@@ -4479,7 +4479,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 498
         },
         {
@@ -4488,7 +4488,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 499
         },
         {
@@ -4497,7 +4497,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 500
         },
         {
@@ -4506,7 +4506,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 501
         },
         {
@@ -4515,7 +4515,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 502
         },
         {
@@ -4524,7 +4524,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 503
         },
         {
@@ -4533,7 +4533,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 504
         },
         {
@@ -4542,7 +4542,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 505
         },
         {
@@ -4551,7 +4551,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 506
         },
         {
@@ -4560,7 +4560,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 507
         },
         {
@@ -4569,7 +4569,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 508
         },
         {
@@ -4578,7 +4578,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 509
         },
         {
@@ -4587,7 +4587,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 510
         },
         {
@@ -4596,7 +4596,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 511
         },
         {
@@ -4605,7 +4605,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 512
         },
         {
@@ -4614,7 +4614,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 513
         },
         {
@@ -4623,7 +4623,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 514
         },
         {
@@ -4632,7 +4632,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 515
         },
         {
@@ -4641,7 +4641,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 516
         },
         {
@@ -4650,7 +4650,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 517
         },
         {
@@ -4659,7 +4659,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 518
         },
         {
@@ -4668,7 +4668,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 519
         },
         {
@@ -4677,7 +4677,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 520
         },
         {
@@ -4686,7 +4686,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 521
         },
         {
@@ -4695,7 +4695,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 522
         },
         {
@@ -4704,7 +4704,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 523
         },
         {
@@ -4713,7 +4713,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 524
         },
         {
@@ -4722,7 +4722,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 525
         },
         {
@@ -4731,7 +4731,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 526
         },
         {
@@ -4740,7 +4740,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 527
         },
         {
@@ -4749,7 +4749,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 528
         },
         {
@@ -4758,7 +4758,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 529
         },
         {
@@ -4767,7 +4767,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 530
         },
         {
@@ -4776,7 +4776,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 531
         },
         {
@@ -4785,7 +4785,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 532
         },
         {
@@ -4794,7 +4794,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 533
         },
         {
@@ -4803,7 +4803,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 534
         },
         {
@@ -4812,7 +4812,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 535
         },
         {
@@ -4821,7 +4821,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 536
         },
         {
@@ -4830,7 +4830,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 537
         },
         {
@@ -4839,7 +4839,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 538
         },
         {
@@ -4848,7 +4848,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 539
         },
         {
@@ -4857,7 +4857,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 540
         },
         {
@@ -4866,7 +4866,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 541
         },
         {
@@ -4875,7 +4875,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 542
         },
         {
@@ -4884,7 +4884,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 543
         },
         {
@@ -4893,7 +4893,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 544
         },
         {
@@ -4902,7 +4902,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 545
         },
         {
@@ -4911,7 +4911,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 546
         },
         {
@@ -4920,7 +4920,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 547
         },
         {
@@ -4929,7 +4929,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 548
         },
         {
@@ -4938,7 +4938,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 549
         },
         {
@@ -4947,7 +4947,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 550
         },
         {
@@ -4956,7 +4956,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 551
         },
         {
@@ -4965,7 +4965,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 552
         },
         {
@@ -4974,7 +4974,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 553
         },
         {
@@ -4983,7 +4983,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 554
         },
         {
@@ -4992,7 +4992,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 555
         },
         {
@@ -5001,7 +5001,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 556
         },
         {
@@ -5010,7 +5010,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 557
         },
         {
@@ -5019,7 +5019,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 558
         },
         {
@@ -5028,7 +5028,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 559
         },
         {
@@ -5037,7 +5037,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 560
         },
         {
@@ -5046,7 +5046,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 561
         },
         {
@@ -5055,7 +5055,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 562
         },
         {
@@ -5064,7 +5064,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 563
         },
         {
@@ -5073,7 +5073,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 564
         },
         {
@@ -5082,7 +5082,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 565
         },
         {
@@ -5091,7 +5091,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 566
         },
         {
@@ -5100,7 +5100,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 567
         },
         {
@@ -5109,7 +5109,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 568
         },
         {
@@ -5118,7 +5118,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 569
         },
         {
@@ -5127,7 +5127,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 570
         },
         {
@@ -5136,7 +5136,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 571
         },
         {
@@ -5145,7 +5145,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 572
         },
         {
@@ -5154,7 +5154,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 573
         },
         {
@@ -5163,7 +5163,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 574
         },
         {
@@ -5172,7 +5172,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 575
         },
         {
@@ -5181,7 +5181,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 576
         },
         {
@@ -5190,7 +5190,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 577
         },
         {
@@ -5199,7 +5199,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 578
         },
         {
@@ -5208,7 +5208,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 579
         },
         {
@@ -5217,7 +5217,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 580
         },
         {
@@ -5226,7 +5226,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 581
         },
         {
@@ -5235,7 +5235,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 582
         },
         {
@@ -5244,7 +5244,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 583
         },
         {
@@ -5253,7 +5253,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 584
         },
         {
@@ -5262,7 +5262,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 585
         },
         {
@@ -5271,7 +5271,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 586
         },
         {
@@ -5280,7 +5280,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 587
         },
         {
@@ -5289,7 +5289,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 588
         },
         {
@@ -5298,7 +5298,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 589
         },
         {
@@ -5307,7 +5307,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 590
         },
         {
@@ -5316,7 +5316,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 591
         },
         {
@@ -5325,7 +5325,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 592
         },
         {
@@ -5334,7 +5334,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 593
         },
         {
@@ -5343,7 +5343,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 594
         },
         {
@@ -5352,7 +5352,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 595
         },
         {
@@ -5361,7 +5361,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 596
         },
         {
@@ -5370,7 +5370,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 597
         },
         {
@@ -5379,7 +5379,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 598
         },
         {
@@ -5388,7 +5388,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 599
         },
         {
@@ -5397,7 +5397,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 600
         },
         {
@@ -5406,7 +5406,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 601
         },
         {
@@ -5415,7 +5415,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 602
         },
         {
@@ -5424,7 +5424,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 603
         },
         {
@@ -5433,7 +5433,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 604
         },
         {
@@ -5442,7 +5442,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 605
         },
         {
@@ -5451,7 +5451,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 606
         },
         {
@@ -5460,7 +5460,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 607
         },
         {
@@ -5469,7 +5469,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 608
         },
         {
@@ -5478,7 +5478,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 609
         },
         {
@@ -5487,7 +5487,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 610
         },
         {
@@ -5496,7 +5496,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 611
         },
         {
@@ -5505,7 +5505,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 612
         },
         {
@@ -5514,7 +5514,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 613
         },
         {
@@ -5523,7 +5523,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 614
         },
         {
@@ -5532,7 +5532,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 615
         },
         {
@@ -5541,7 +5541,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 616
         },
         {
@@ -5550,7 +5550,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 617
         },
         {
@@ -5559,7 +5559,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 618
         },
         {
@@ -5568,7 +5568,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 619
         },
         {
@@ -5577,7 +5577,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 620
         },
         {
@@ -5586,7 +5586,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 621
         },
         {
@@ -5595,7 +5595,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 622
         },
         {
@@ -5604,7 +5604,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 623
         },
         {
@@ -5613,7 +5613,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 624
         },
         {
@@ -5622,7 +5622,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 625
         },
         {
@@ -5631,7 +5631,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 626
         },
         {
@@ -5640,7 +5640,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 627
         },
         {
@@ -5649,7 +5649,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 628
         },
         {
@@ -5658,7 +5658,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 629
         },
         {
@@ -5667,7 +5667,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 630
         },
         {
@@ -5676,7 +5676,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 631
         },
         {
@@ -5685,7 +5685,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 632
         },
         {
@@ -5694,7 +5694,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 633
         },
         {
@@ -5703,7 +5703,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 634
         },
         {
@@ -5712,7 +5712,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 635
         },
         {
@@ -5721,7 +5721,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 636
         },
         {
@@ -5730,7 +5730,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 637
         },
         {
@@ -5739,7 +5739,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 638
         },
         {
@@ -5748,7 +5748,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 639
         },
         {
@@ -5757,7 +5757,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 640
         },
         {
@@ -5766,7 +5766,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 641
         },
         {
@@ -5775,7 +5775,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 642
         },
         {
@@ -5784,7 +5784,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 643
         },
         {
@@ -5793,7 +5793,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 644
         },
         {
@@ -5802,7 +5802,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 645
         },
         {
@@ -5811,7 +5811,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 646
         },
         {
@@ -5820,7 +5820,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 647
         },
         {
@@ -5829,7 +5829,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 648
         },
         {
@@ -5838,7 +5838,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 649
         },
         {
@@ -5847,7 +5847,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 650
         },
         {
@@ -5856,7 +5856,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 651
         },
         {
@@ -5865,7 +5865,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 652
         },
         {
@@ -5874,7 +5874,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 653
         },
         {
@@ -5883,7 +5883,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 654
         },
         {
@@ -5892,7 +5892,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 655
         },
         {
@@ -5901,7 +5901,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 656
         },
         {
@@ -5910,7 +5910,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 657
         },
         {
@@ -5919,7 +5919,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 658
         },
         {
@@ -5928,7 +5928,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 659
         },
         {
@@ -5937,7 +5937,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 660
         },
         {
@@ -5946,7 +5946,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 661
         },
         {
@@ -5955,7 +5955,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 662
         },
         {
@@ -5964,7 +5964,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 663
         },
         {
@@ -5973,7 +5973,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 664
         },
         {
@@ -5982,7 +5982,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 665
         },
         {
@@ -5991,7 +5991,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 666
         },
         {
@@ -6000,7 +6000,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 667
         },
         {
@@ -6009,7 +6009,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 668
         },
         {
@@ -6018,7 +6018,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 669
         },
         {
@@ -6027,7 +6027,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 670
         },
         {
@@ -6036,7 +6036,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 671
         },
         {
@@ -6045,7 +6045,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 672
         },
         {
@@ -6054,7 +6054,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 673
         },
         {
@@ -6063,7 +6063,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 674
         },
         {
@@ -6072,7 +6072,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 675
         },
         {
@@ -6081,7 +6081,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 676
         },
         {
@@ -6090,7 +6090,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 677
         },
         {
@@ -6099,7 +6099,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-10-31T19:29:36.055Z",
+            "updatedAt": "2024-10-31T20:06:51.911Z",
             "classificacao": 678
         }
     ]
