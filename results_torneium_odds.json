@@ -6,7 +6,7 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-11-05T14:57:58.432Z",
+            "updatedAt": "2024-11-06T11:42:19.581Z",
             "classificacao": 1
         },
         {
@@ -15,44 +15,8 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-11-05T14:57:58.432Z",
+            "updatedAt": "2024-11-06T11:42:19.581Z",
             "classificacao": 2
-        },
-        {
-            "id": 199453,
-            "nome": "Jimmy",
-            "somaOdds": 0,
-            "totalStake": 0,
-            "betCount": 0,
-            "updatedAt": "2024-11-05T14:57:58.432Z",
-            "classificacao": 3
-        },
-        {
-            "id": 296482,
-            "nome": "Adir",
-            "somaOdds": 0,
-            "totalStake": 0,
-            "betCount": 0,
-            "updatedAt": "2024-11-05T14:57:58.432Z",
-            "classificacao": 4
-        },
-        {
-            "id": 834163,
-            "nome": "Capivara",
-            "somaOdds": 0,
-            "totalStake": 0,
-            "betCount": 0,
-            "updatedAt": "2024-11-05T14:57:58.432Z",
-            "classificacao": 5
-        },
-        {
-            "id": 1514193,
-            "nome": "Lucca",
-            "somaOdds": 0,
-            "totalStake": 0,
-            "betCount": 0,
-            "updatedAt": "2024-11-05T14:57:58.432Z",
-            "classificacao": 6
         },
         {
             "id": 196474,
@@ -60,8 +24,62 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-11-05T14:57:58.432Z",
+            "updatedAt": "2024-11-06T11:42:19.581Z",
+            "classificacao": 3
+        },
+        {
+            "id": 199453,
+            "nome": "Jimmy",
+            "somaOdds": 0,
+            "totalStake": 0,
+            "betCount": 0,
+            "updatedAt": "2024-11-06T11:42:19.581Z",
+            "classificacao": 4
+        },
+        {
+            "id": 296482,
+            "nome": "Adir",
+            "somaOdds": 0,
+            "totalStake": 0,
+            "betCount": 0,
+            "updatedAt": "2024-11-06T11:42:19.581Z",
+            "classificacao": 5
+        },
+        {
+            "id": 396842,
+            "nome": "Borel",
+            "somaOdds": 0,
+            "totalStake": 0,
+            "betCount": 0,
+            "updatedAt": "2024-11-06T11:42:19.581Z",
+            "classificacao": 6
+        },
+        {
+            "id": 729109,
+            "nome": "Paulo",
+            "somaOdds": 0,
+            "totalStake": 0,
+            "betCount": 0,
+            "updatedAt": "2024-11-06T11:42:19.581Z",
             "classificacao": 7
+        },
+        {
+            "id": 834163,
+            "nome": "Capivara",
+            "somaOdds": 0,
+            "totalStake": 0,
+            "betCount": 0,
+            "updatedAt": "2024-11-06T11:42:19.581Z",
+            "classificacao": 8
+        },
+        {
+            "id": 864568,
+            "nome": "Marco",
+            "somaOdds": 0,
+            "totalStake": 0,
+            "betCount": 0,
+            "updatedAt": "2024-11-06T11:42:19.581Z",
+            "classificacao": 9
         },
         {
             "id": 875615,
@@ -69,8 +87,8 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-11-05T14:57:58.432Z",
-            "classificacao": 8
+            "updatedAt": "2024-11-06T11:42:19.581Z",
+            "classificacao": 10
         },
         {
             "id": 923745,
@@ -78,8 +96,8 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-11-05T14:57:58.432Z",
-            "classificacao": 9
+            "updatedAt": "2024-11-06T11:42:19.581Z",
+            "classificacao": 11
         },
         {
             "id": 1207336,
@@ -87,8 +105,8 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-11-05T14:57:58.432Z",
-            "classificacao": 10
+            "updatedAt": "2024-11-06T11:42:19.581Z",
+            "classificacao": 12
         },
         {
             "id": 1365064,
@@ -96,8 +114,8 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-11-05T14:57:58.432Z",
-            "classificacao": 11
+            "updatedAt": "2024-11-06T11:42:19.581Z",
+            "classificacao": 13
         },
         {
             "id": 1387344,
@@ -105,8 +123,17 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-11-05T14:57:58.432Z",
-            "classificacao": 12
+            "updatedAt": "2024-11-06T11:42:19.581Z",
+            "classificacao": 14
+        },
+        {
+            "id": 1514193,
+            "nome": "Lucca",
+            "somaOdds": 0,
+            "totalStake": 0,
+            "betCount": 0,
+            "updatedAt": "2024-11-06T11:42:19.581Z",
+            "classificacao": 15
         },
         {
             "id": 1523713,
@@ -114,8 +141,8 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-11-05T14:57:58.432Z",
-            "classificacao": 13
+            "updatedAt": "2024-11-06T11:42:19.581Z",
+            "classificacao": 16
         }
     ]
 }
