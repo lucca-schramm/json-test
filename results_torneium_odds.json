@@ -6,7 +6,8 @@
             "somaOdds": 11.34,
             "totalStake": 4,
             "betCount": 4,
-            "updatedAt": "2024-11-07T17:28:09.908Z",
+            "tirosDados": 16,
+            "updatedAt": "2024-11-07T17:47:56.655Z",
             "classificacao": 1
         },
         {
@@ -15,7 +16,8 @@
             "somaOdds": 9.25,
             "totalStake": 4,
             "betCount": 4,
-            "updatedAt": "2024-11-07T17:28:09.908Z",
+            "tirosDados": 15,
+            "updatedAt": "2024-11-07T17:47:56.655Z",
             "classificacao": 2
         },
         {
@@ -24,7 +26,8 @@
             "somaOdds": 6.8500000000000005,
             "totalStake": 3,
             "betCount": 3,
-            "updatedAt": "2024-11-07T17:28:09.908Z",
+            "tirosDados": 17,
+            "updatedAt": "2024-11-07T17:47:56.655Z",
             "classificacao": 3
         },
         {
@@ -33,7 +36,8 @@
             "somaOdds": 5.701104,
             "totalStake": 1,
             "betCount": 1,
-            "updatedAt": "2024-11-07T17:28:09.908Z",
+            "tirosDados": 7,
+            "updatedAt": "2024-11-07T17:47:56.655Z",
             "classificacao": 4
         },
         {
@@ -42,7 +46,8 @@
             "somaOdds": 5.5809,
             "totalStake": 2,
             "betCount": 2,
-            "updatedAt": "2024-11-07T17:28:09.908Z",
+            "tirosDados": 6,
+            "updatedAt": "2024-11-07T17:47:56.655Z",
             "classificacao": 5
         },
         {
@@ -51,7 +56,8 @@
             "somaOdds": 3.168,
             "totalStake": 1,
             "betCount": 1,
-            "updatedAt": "2024-11-07T17:28:09.908Z",
+            "tirosDados": 5,
+            "updatedAt": "2024-11-07T17:47:56.655Z",
             "classificacao": 6
         },
         {
@@ -60,7 +66,8 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-11-07T17:28:09.908Z",
+            "tirosDados": 0,
+            "updatedAt": "2024-11-07T17:47:56.655Z",
             "classificacao": 7
         },
         {
@@ -69,7 +76,8 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-11-07T17:28:09.908Z",
+            "tirosDados": 6,
+            "updatedAt": "2024-11-07T17:47:56.655Z",
             "classificacao": 8
         },
         {
@@ -78,7 +86,8 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-11-07T17:28:09.908Z",
+            "tirosDados": 0,
+            "updatedAt": "2024-11-07T17:47:56.655Z",
             "classificacao": 9
         },
         {
@@ -87,7 +96,8 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-11-07T17:28:09.908Z",
+            "tirosDados": 1,
+            "updatedAt": "2024-11-07T17:47:56.655Z",
             "classificacao": 10
         },
         {
@@ -96,7 +106,8 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-11-07T17:28:09.908Z",
+            "tirosDados": 11,
+            "updatedAt": "2024-11-07T17:47:56.655Z",
             "classificacao": 11
         },
         {
@@ -105,7 +116,8 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-11-07T17:28:09.908Z",
+            "tirosDados": 7,
+            "updatedAt": "2024-11-07T17:47:56.655Z",
             "classificacao": 12
         },
         {
@@ -114,7 +126,8 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-11-07T17:28:09.908Z",
+            "tirosDados": 13,
+            "updatedAt": "2024-11-07T17:47:56.655Z",
             "classificacao": 13
         },
         {
@@ -123,7 +136,8 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-11-07T17:28:09.908Z",
+            "tirosDados": 0,
+            "updatedAt": "2024-11-07T17:47:56.655Z",
             "classificacao": 14
         },
         {
@@ -132,7 +146,8 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
-            "updatedAt": "2024-11-07T17:28:09.908Z",
+            "tirosDados": 0,
+            "updatedAt": "2024-11-07T17:47:56.655Z",
             "classificacao": 15
         }
     ]
