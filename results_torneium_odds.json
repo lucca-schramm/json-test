@@ -5,9 +5,11 @@
             "totalStake": 4,
             "nome": "Lucca",
             "somaOdds": 11.34,
-            "betCount": 4,
-            "tirosDados": 15,
-            "updatedAt": "2024-11-07T17:58:16.933Z",
+            "betCount": 13,
+            "tirosAbertos": 9,
+            "tirosDados": 19,
+            "tirosPerdidos": 6,
+            "updatedAt": "2024-11-07T18:08:52.357Z",
             "classificacao": 1
         },
         {
@@ -15,9 +17,11 @@
             "totalStake": 4,
             "nome": "Luedy",
             "somaOdds": 9.25,
-            "betCount": 4,
-            "tirosDados": 10,
-            "updatedAt": "2024-11-07T17:58:16.933Z",
+            "betCount": 6,
+            "tirosAbertos": 2,
+            "tirosDados": 14,
+            "tirosPerdidos": 8,
+            "updatedAt": "2024-11-07T18:08:52.357Z",
             "classificacao": 2
         },
         {
@@ -25,9 +29,11 @@
             "totalStake": 3,
             "nome": "Everton",
             "somaOdds": 6.8500000000000005,
-            "betCount": 3,
-            "tirosDados": 17,
-            "updatedAt": "2024-11-07T17:58:16.933Z",
+            "betCount": 6,
+            "tirosAbertos": 3,
+            "tirosDados": 20,
+            "tirosPerdidos": 14,
+            "updatedAt": "2024-11-07T18:08:52.357Z",
             "classificacao": 3
         },
         {
@@ -35,9 +41,11 @@
             "totalStake": 1,
             "nome": "Fred",
             "somaOdds": 5.701104,
-            "betCount": 1,
-            "tirosDados": 6,
-            "updatedAt": "2024-11-07T17:58:16.933Z",
+            "betCount": 3,
+            "tirosAbertos": 2,
+            "tirosDados": 7,
+            "tirosPerdidos": 4,
+            "updatedAt": "2024-11-07T18:08:52.357Z",
             "classificacao": 4
         },
         {
@@ -45,9 +53,11 @@
             "totalStake": 2,
             "nome": "Capivara",
             "somaOdds": 5.5809,
-            "betCount": 2,
-            "tirosDados": 6,
-            "updatedAt": "2024-11-07T17:58:16.933Z",
+            "betCount": 4,
+            "tirosAbertos": 2,
+            "tirosDados": 9,
+            "tirosPerdidos": 5,
+            "updatedAt": "2024-11-07T18:08:52.357Z",
             "classificacao": 5
         },
         {
@@ -55,9 +65,11 @@
             "totalStake": 1,
             "nome": "Flávio",
             "somaOdds": 3.168,
-            "betCount": 1,
-            "tirosDados": 5,
-            "updatedAt": "2024-11-07T17:58:16.933Z",
+            "betCount": 4,
+            "tirosAbertos": 3,
+            "tirosDados": 6,
+            "tirosPerdidos": 2,
+            "updatedAt": "2024-11-07T18:08:52.357Z",
             "classificacao": 6
         },
         {
@@ -66,8 +78,10 @@
             "nome": "Afrohans",
             "somaOdds": 0,
             "betCount": 0,
+            "tirosAbertos": 0,
             "tirosDados": 0,
-            "updatedAt": "2024-11-07T17:58:16.933Z",
+            "tirosPerdidos": 0,
+            "updatedAt": "2024-11-07T18:08:52.357Z",
             "classificacao": 7
         },
         {
@@ -75,9 +89,11 @@
             "totalStake": 0,
             "nome": "Gabric",
             "somaOdds": 0,
-            "betCount": 0,
+            "betCount": 1,
+            "tirosAbertos": 1,
             "tirosDados": 4,
-            "updatedAt": "2024-11-07T17:58:16.933Z",
+            "tirosPerdidos": 3,
+            "updatedAt": "2024-11-07T18:08:52.357Z",
             "classificacao": 8
         },
         {
@@ -86,8 +102,10 @@
             "nome": "Jimmy",
             "somaOdds": 0,
             "betCount": 0,
+            "tirosAbertos": 0,
             "tirosDados": 0,
-            "updatedAt": "2024-11-07T17:58:16.933Z",
+            "tirosPerdidos": 0,
+            "updatedAt": "2024-11-07T18:08:52.357Z",
             "classificacao": 9
         },
         {
@@ -96,8 +114,10 @@
             "nome": "Paulo",
             "somaOdds": 0,
             "betCount": 0,
+            "tirosAbertos": 0,
             "tirosDados": 1,
-            "updatedAt": "2024-11-07T17:58:16.933Z",
+            "tirosPerdidos": 1,
+            "updatedAt": "2024-11-07T18:08:52.357Z",
             "classificacao": 10
         },
         {
@@ -105,9 +125,11 @@
             "totalStake": 0,
             "nome": "Marco",
             "somaOdds": 0,
-            "betCount": 0,
+            "betCount": 3,
+            "tirosAbertos": 3,
             "tirosDados": 10,
-            "updatedAt": "2024-11-07T17:58:16.933Z",
+            "tirosPerdidos": 7,
+            "updatedAt": "2024-11-07T18:08:52.357Z",
             "classificacao": 11
         },
         {
@@ -116,8 +138,10 @@
             "nome": "Ronilson",
             "somaOdds": 0,
             "betCount": 0,
+            "tirosAbertos": 0,
             "tirosDados": 5,
-            "updatedAt": "2024-11-07T17:58:16.933Z",
+            "tirosPerdidos": 5,
+            "updatedAt": "2024-11-07T18:08:52.357Z",
             "classificacao": 12
         },
         {
@@ -125,9 +149,11 @@
             "totalStake": 0,
             "nome": "Felipe",
             "somaOdds": 0,
-            "betCount": 0,
+            "betCount": 4,
+            "tirosAbertos": 4,
             "tirosDados": 10,
-            "updatedAt": "2024-11-07T17:58:16.933Z",
+            "tirosPerdidos": 6,
+            "updatedAt": "2024-11-07T18:08:52.357Z",
             "classificacao": 13
         },
         {
@@ -136,8 +162,10 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
+            "tirosAbertos": 0,
+            "tirosPerdidos": 0,
             "tirosDados": 0,
-            "updatedAt": "2024-11-07T17:58:16.933Z",
+            "updatedAt": "2024-11-07T18:08:52.357Z",
             "classificacao": 14
         },
         {
@@ -146,8 +174,10 @@
             "somaOdds": 0,
             "totalStake": 0,
             "betCount": 0,
+            "tirosAbertos": 0,
+            "tirosPerdidos": 0,
             "tirosDados": 0,
-            "updatedAt": "2024-11-07T17:58:16.933Z",
+            "updatedAt": "2024-11-07T18:08:52.357Z",
             "classificacao": 15
         }
     ]
