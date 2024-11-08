@@ -6,8 +6,9 @@
       "nome": "Luedy",
       "time": "Time C",
       "mediaOdds": 2.33,
+      "somaOdds": 11.65,
       "betCount": 5,
-      "updatedAt": "2024-11-08T16:02:32.719Z",
+      "updatedAt": "2024-11-08T18:14:25.762Z",
       "rank": 1
     },
     {
@@ -16,8 +17,9 @@
       "nome": "Capivara",
       "time": "Time C",
       "mediaOdds": 2.707725,
+      "somaOdds": 10.8309,
       "betCount": 4,
-      "updatedAt": "2024-11-08T16:02:32.719Z",
+      "updatedAt": "2024-11-08T18:14:25.762Z",
       "rank": 2
     },
     {
@@ -26,8 +28,9 @@
       "nome": "Lucca",
       "time": "Time B",
       "mediaOdds": 3.1666666666666665,
+      "somaOdds": 9.5,
       "betCount": 3,
-      "updatedAt": "2024-11-08T16:02:32.719Z",
+      "updatedAt": "2024-11-08T18:14:25.762Z",
       "rank": 3
     },
     {
@@ -36,8 +39,9 @@
       "nome": "Flávio",
       "time": "Time A",
       "mediaOdds": 2.871266666666667,
+      "somaOdds": 8.613800000000001,
       "betCount": 3,
-      "updatedAt": "2024-11-08T16:02:32.719Z",
+      "updatedAt": "2024-11-08T18:14:25.762Z",
       "rank": 4
     },
     {
@@ -46,8 +50,9 @@
       "nome": "Everton",
       "time": "Time B",
       "mediaOdds": 2.2833333333333337,
+      "somaOdds": 6.8500000000000005,
       "betCount": 3,
-      "updatedAt": "2024-11-08T16:02:32.719Z",
+      "updatedAt": "2024-11-08T18:14:25.762Z",
       "rank": 5
     },
     {
@@ -56,9 +61,21 @@
       "nome": "Gabric",
       "time": "Time A",
       "mediaOdds": 2.0625,
+      "somaOdds": 6.1875,
       "betCount": 3,
-      "updatedAt": "2024-11-08T16:02:32.719Z",
+      "updatedAt": "2024-11-08T18:14:25.762Z",
       "rank": 6
+    },
+    {
+      "id": 114549,
+      "totalStake": 2,
+      "nome": "Afrohans",
+      "time": "Time A",
+      "mediaOdds": 2.3499999999999996,
+      "somaOdds": 4.699999999999999,
+      "betCount": 2,
+      "updatedAt": "2024-11-08T18:14:25.762Z",
+      "rank": 7
     },
     {
       "id": 923745,
@@ -66,18 +83,9 @@
       "nome": "Fred",
       "time": "Time A",
       "mediaOdds": 5.701104,
+      "somaOdds": 5.701104,
       "betCount": 1,
-      "updatedAt": "2024-11-08T16:02:32.719Z",
-      "rank": 7
-    },
-    {
-      "id": 114549,
-      "totalStake": 1,
-      "nome": "Afrohans",
-      "time": "Time A",
-      "mediaOdds": 2.76,
-      "betCount": 1,
-      "updatedAt": "2024-11-08T16:02:32.719Z",
+      "updatedAt": "2024-11-08T18:14:25.762Z",
       "rank": 8
     },
     {
@@ -86,8 +94,9 @@
       "nome": "Paulo",
       "time": "Time C",
       "mediaOdds": 2.4,
+      "somaOdds": 2.4,
       "betCount": 1,
-      "updatedAt": "2024-11-08T16:02:32.719Z",
+      "updatedAt": "2024-11-08T18:14:25.762Z",
       "rank": 9
     }
   ],
@@ -96,15 +105,17 @@
       "team": "Time C",
       "totalStake": 34.4,
       "mediaOdds": 8.293633333333334,
+      "somaOdds": 24.8809,
       "betCount": 10,
       "userCount": 3,
       "rank": 1
     },
     {
       "team": "Time A",
-      "totalStake": 8,
-      "mediaOdds": 5.815601000000001,
-      "betCount": 8,
+      "totalStake": 9,
+      "mediaOdds": 6.300601,
+      "somaOdds": 25.202404,
+      "betCount": 9,
       "userCount": 4,
       "rank": 2
     },
@@ -112,6 +123,7 @@
       "team": "Time B",
       "totalStake": 6,
       "mediaOdds": 8.175,
+      "somaOdds": 16.35,
       "betCount": 6,
       "userCount": 2,
       "rank": 3
