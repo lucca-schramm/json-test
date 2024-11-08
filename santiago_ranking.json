@@ -7,8 +7,18 @@
       "time": "Time C",
       "mediaOdds": 2.33,
       "betCount": 5,
-      "updatedAt": "2024-11-08T11:58:53.265Z",
+      "updatedAt": "2024-11-08T16:02:32.719Z",
       "rank": 1
+    },
+    {
+      "id": 834163,
+      "totalStake": 28.4,
+      "nome": "Capivara",
+      "time": "Time C",
+      "mediaOdds": 2.707725,
+      "betCount": 4,
+      "updatedAt": "2024-11-08T16:02:32.719Z",
+      "rank": 2
     },
     {
       "id": 1514193,
@@ -17,8 +27,8 @@
       "time": "Time B",
       "mediaOdds": 3.1666666666666665,
       "betCount": 3,
-      "updatedAt": "2024-11-08T11:58:53.265Z",
-      "rank": 2
+      "updatedAt": "2024-11-08T16:02:32.719Z",
+      "rank": 3
     },
     {
       "id": 196474,
@@ -27,17 +37,7 @@
       "time": "Time A",
       "mediaOdds": 2.871266666666667,
       "betCount": 3,
-      "updatedAt": "2024-11-08T11:58:53.265Z",
-      "rank": 3
-    },
-    {
-      "id": 834163,
-      "totalStake": 12,
-      "nome": "Capivara",
-      "time": "Time C",
-      "mediaOdds": 2.6603,
-      "betCount": 3,
-      "updatedAt": "2024-11-08T11:58:53.265Z",
+      "updatedAt": "2024-11-08T16:02:32.719Z",
       "rank": 4
     },
     {
@@ -47,7 +47,7 @@
       "time": "Time B",
       "mediaOdds": 2.2833333333333337,
       "betCount": 3,
-      "updatedAt": "2024-11-08T11:58:53.265Z",
+      "updatedAt": "2024-11-08T16:02:32.719Z",
       "rank": 5
     },
     {
@@ -57,7 +57,7 @@
       "time": "Time A",
       "mediaOdds": 2.0625,
       "betCount": 3,
-      "updatedAt": "2024-11-08T11:58:53.265Z",
+      "updatedAt": "2024-11-08T16:02:32.719Z",
       "rank": 6
     },
     {
@@ -67,7 +67,7 @@
       "time": "Time A",
       "mediaOdds": 5.701104,
       "betCount": 1,
-      "updatedAt": "2024-11-08T11:58:53.265Z",
+      "updatedAt": "2024-11-08T16:02:32.719Z",
       "rank": 7
     },
     {
@@ -77,7 +77,7 @@
       "time": "Time A",
       "mediaOdds": 2.76,
       "betCount": 1,
-      "updatedAt": "2024-11-08T11:58:53.265Z",
+      "updatedAt": "2024-11-08T16:02:32.719Z",
       "rank": 8
     },
     {
@@ -87,16 +87,17 @@
       "time": "Time C",
       "mediaOdds": 2.4,
       "betCount": 1,
-      "updatedAt": "2024-11-08T11:58:53.265Z",
+      "updatedAt": "2024-11-08T16:02:32.719Z",
       "rank": 9
     }
   ],
   "teamRankingArray": [
     {
       "team": "Time C",
-      "totalStake": 18,
-      "mediaOdds": 7.343633333333334,
-      "betCount": 9,
+      "totalStake": 34.4,
+      "mediaOdds": 8.293633333333334,
+      "betCount": 10,
+      "userCount": 3,
       "rank": 1
     },
     {
@@ -104,6 +105,7 @@
       "totalStake": 8,
       "mediaOdds": 5.815601000000001,
       "betCount": 8,
+      "userCount": 4,
       "rank": 2
     },
     {
@@ -111,6 +113,7 @@
       "totalStake": 6,
       "mediaOdds": 8.175,
       "betCount": 6,
+      "userCount": 2,
       "rank": 3
     }
   ]
