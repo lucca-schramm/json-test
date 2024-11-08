@@ -9,7 +9,7 @@
             "tirosAbertos": 6,
             "tirosDados": 19,
             "tirosPerdidos": 8,
-            "updatedAt": "2024-11-08T20:35:00.950Z",
+            "updatedAt": "2024-11-08T21:35:00.934Z",
             "classificacao": 1
         },
         {
@@ -21,8 +21,20 @@
             "tirosAbertos": 3,
             "tirosDados": 17,
             "tirosPerdidos": 9,
-            "updatedAt": "2024-11-08T20:35:00.950Z",
+            "updatedAt": "2024-11-08T21:35:00.934Z",
             "classificacao": 2
+        },
+        {
+            "id": 923745,
+            "totalStake": 3,
+            "nome": "Fred",
+            "somaOdds": 9.722124,
+            "betCount": 3,
+            "tirosAbertos": 2,
+            "tirosDados": 12,
+            "tirosPerdidos": 7,
+            "updatedAt": "2024-11-08T21:35:00.934Z",
+            "classificacao": 3
         },
         {
             "id": 196474,
@@ -30,22 +42,10 @@
             "nome": "Flávio",
             "somaOdds": 8.613800000000001,
             "betCount": 3,
-            "tirosAbertos": 2,
+            "tirosAbertos": 1,
             "tirosDados": 8,
-            "tirosPerdidos": 3,
-            "updatedAt": "2024-11-08T20:35:00.950Z",
-            "classificacao": 3
-        },
-        {
-            "id": 923745,
-            "totalStake": 2,
-            "nome": "Fred",
-            "somaOdds": 7.512124,
-            "betCount": 2,
-            "tirosAbertos": 3,
-            "tirosDados": 12,
-            "tirosPerdidos": 7,
-            "updatedAt": "2024-11-08T20:35:00.950Z",
+            "tirosPerdidos": 4,
+            "updatedAt": "2024-11-08T21:35:00.934Z",
             "classificacao": 4
         },
         {
@@ -57,7 +57,7 @@
             "tirosAbertos": 0,
             "tirosDados": 20,
             "tirosPerdidos": 17,
-            "updatedAt": "2024-11-08T20:35:00.950Z",
+            "updatedAt": "2024-11-08T21:35:00.934Z",
             "classificacao": 5
         },
         {
@@ -69,7 +69,7 @@
             "tirosAbertos": 7,
             "tirosDados": 15,
             "tirosPerdidos": 5,
-            "updatedAt": "2024-11-08T20:35:00.950Z",
+            "updatedAt": "2024-11-08T21:35:00.934Z",
             "classificacao": 6
         },
         {
@@ -81,7 +81,7 @@
             "tirosAbertos": 5,
             "tirosDados": 15,
             "tirosPerdidos": 8,
-            "updatedAt": "2024-11-08T20:35:00.950Z",
+            "updatedAt": "2024-11-08T21:35:00.934Z",
             "classificacao": 7
         },
         {
@@ -93,7 +93,7 @@
             "tirosAbertos": 2,
             "tirosDados": 13,
             "tirosPerdidos": 10,
-            "updatedAt": "2024-11-08T20:35:00.950Z",
+            "updatedAt": "2024-11-08T21:35:00.934Z",
             "classificacao": 8
         },
         {
@@ -102,10 +102,10 @@
             "nome": "Afrohans",
             "somaOdds": 0,
             "betCount": 0,
-            "tirosAbertos": 5,
+            "tirosAbertos": 4,
             "tirosDados": 5,
-            "tirosPerdidos": 0,
-            "updatedAt": "2024-11-08T20:35:00.950Z",
+            "tirosPerdidos": 1,
+            "updatedAt": "2024-11-08T21:35:00.934Z",
             "classificacao": 9
         },
         {
@@ -117,7 +117,7 @@
             "tirosAbertos": 2,
             "tirosDados": 3,
             "tirosPerdidos": 1,
-            "updatedAt": "2024-11-08T20:35:00.950Z",
+            "updatedAt": "2024-11-08T21:35:00.934Z",
             "classificacao": 10
         },
         {
@@ -129,7 +129,7 @@
             "tirosAbertos": 0,
             "tirosDados": 1,
             "tirosPerdidos": 1,
-            "updatedAt": "2024-11-08T20:35:00.950Z",
+            "updatedAt": "2024-11-08T21:35:00.934Z",
             "classificacao": 11
         },
         {
@@ -141,7 +141,7 @@
             "tirosAbertos": 0,
             "tirosDados": 6,
             "tirosPerdidos": 6,
-            "updatedAt": "2024-11-08T20:35:00.950Z",
+            "updatedAt": "2024-11-08T21:35:00.934Z",
             "classificacao": 12
         },
         {
@@ -153,7 +153,7 @@
             "tirosAbertos": 7,
             "tirosDados": 17,
             "tirosPerdidos": 10,
-            "updatedAt": "2024-11-08T20:35:00.950Z",
+            "updatedAt": "2024-11-08T21:35:00.934Z",
             "classificacao": 13
         },
         {
@@ -165,7 +165,7 @@
             "tirosAbertos": 0,
             "tirosPerdidos": 0,
             "tirosDados": 0,
-            "updatedAt": "2024-11-08T20:35:00.950Z",
+            "updatedAt": "2024-11-08T21:35:00.934Z",
             "classificacao": 14
         }
     ]
