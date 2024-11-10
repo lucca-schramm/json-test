@@ -2,15 +2,27 @@
     "ranking": [
         {
             "id": 1514193,
-            "totalStake": 6,
+            "totalStake": 7,
             "nome": "Lucca",
-            "somaOdds": 16.84,
-            "betCount": 6,
-            "tirosAbertos": 2,
+            "somaOdds": 18.84,
+            "betCount": 7,
+            "tirosAbertos": 1,
             "tirosDados": 19,
             "tirosPerdidos": 11,
-            "updatedAt": "2024-11-09T23:35:01.918Z",
+            "updatedAt": "2024-11-10T00:35:01.914Z",
             "classificacao": 1
+        },
+        {
+            "id": 1523713,
+            "totalStake": 7,
+            "nome": "Luedy",
+            "somaOdds": 16.9,
+            "betCount": 7,
+            "tirosAbertos": 2,
+            "tirosDados": 18,
+            "tirosPerdidos": 9,
+            "updatedAt": "2024-11-10T00:35:01.914Z",
+            "classificacao": 2
         },
         {
             "id": 196474,
@@ -18,22 +30,10 @@
             "nome": "Flávio",
             "somaOdds": 15.826584,
             "betCount": 6,
-            "tirosAbertos": 0,
-            "tirosDados": 14,
+            "tirosAbertos": 1,
+            "tirosDados": 15,
             "tirosPerdidos": 8,
-            "updatedAt": "2024-11-09T23:35:01.918Z",
-            "classificacao": 2
-        },
-        {
-            "id": 1523713,
-            "totalStake": 6,
-            "nome": "Luedy",
-            "somaOdds": 14.9,
-            "betCount": 6,
-            "tirosAbertos": 3,
-            "tirosDados": 18,
-            "tirosPerdidos": 9,
-            "updatedAt": "2024-11-09T23:35:01.918Z",
+            "updatedAt": "2024-11-10T00:35:01.914Z",
             "classificacao": 3
         },
         {
@@ -45,8 +45,20 @@
             "tirosAbertos": 0,
             "tirosDados": 16,
             "tirosPerdidos": 12,
-            "updatedAt": "2024-11-09T23:35:01.918Z",
+            "updatedAt": "2024-11-10T00:35:01.914Z",
             "classificacao": 4
+        },
+        {
+            "id": 159824,
+            "totalStake": 5,
+            "nome": "Gabric",
+            "somaOdds": 10.2175,
+            "betCount": 5,
+            "tirosAbertos": 3,
+            "tirosDados": 18,
+            "tirosPerdidos": 10,
+            "updatedAt": "2024-11-10T00:35:01.914Z",
+            "classificacao": 5
         },
         {
             "id": 834163,
@@ -57,8 +69,8 @@
             "tirosAbertos": 0,
             "tirosDados": 15,
             "tirosPerdidos": 11,
-            "updatedAt": "2024-11-09T23:35:01.918Z",
-            "classificacao": 5
+            "updatedAt": "2024-11-10T00:35:01.914Z",
+            "classificacao": 6
         },
         {
             "id": 864568,
@@ -69,19 +81,7 @@
             "tirosAbertos": 0,
             "tirosDados": 20,
             "tirosPerdidos": 18,
-            "updatedAt": "2024-11-09T23:35:01.918Z",
-            "classificacao": 6
-        },
-        {
-            "id": 159824,
-            "totalStake": 4,
-            "nome": "Gabric",
-            "somaOdds": 8.2175,
-            "betCount": 4,
-            "tirosAbertos": 4,
-            "tirosDados": 18,
-            "tirosPerdidos": 10,
-            "updatedAt": "2024-11-09T23:35:01.918Z",
+            "updatedAt": "2024-11-10T00:35:01.914Z",
             "classificacao": 7
         },
         {
@@ -93,7 +93,7 @@
             "tirosAbertos": 0,
             "tirosDados": 20,
             "tirosPerdidos": 17,
-            "updatedAt": "2024-11-09T23:35:01.918Z",
+            "updatedAt": "2024-11-10T00:35:01.914Z",
             "classificacao": 8
         },
         {
@@ -105,7 +105,7 @@
             "tirosAbertos": 1,
             "tirosDados": 20,
             "tirosPerdidos": 18,
-            "updatedAt": "2024-11-09T23:35:01.918Z",
+            "updatedAt": "2024-11-10T00:35:01.914Z",
             "classificacao": 9
         },
         {
@@ -114,10 +114,10 @@
             "nome": "Afrohans",
             "somaOdds": 2.16,
             "betCount": 1,
-            "tirosAbertos": 3,
+            "tirosAbertos": 2,
             "tirosDados": 7,
-            "tirosPerdidos": 3,
-            "updatedAt": "2024-11-09T23:35:01.918Z",
+            "tirosPerdidos": 4,
+            "updatedAt": "2024-11-10T00:35:01.914Z",
             "classificacao": 10
         },
         {
@@ -129,7 +129,7 @@
             "tirosAbertos": 0,
             "tirosDados": 3,
             "tirosPerdidos": 3,
-            "updatedAt": "2024-11-09T23:35:01.918Z",
+            "updatedAt": "2024-11-10T00:35:01.914Z",
             "classificacao": 11
         },
         {
@@ -141,7 +141,7 @@
             "tirosAbertos": 6,
             "tirosDados": 22,
             "tirosPerdidos": 15,
-            "updatedAt": "2024-11-09T23:35:01.918Z",
+            "updatedAt": "2024-11-10T00:35:01.914Z",
             "classificacao": 12
         },
         {
@@ -153,7 +153,7 @@
             "tirosAbertos": 1,
             "tirosDados": 13,
             "tirosPerdidos": 12,
-            "updatedAt": "2024-11-09T23:35:01.918Z",
+            "updatedAt": "2024-11-10T00:35:01.914Z",
             "classificacao": 13
         },
         {
@@ -165,7 +165,7 @@
             "tirosAbertos": 0,
             "tirosDados": 6,
             "tirosPerdidos": 6,
-            "updatedAt": "2024-11-09T23:35:01.918Z",
+            "updatedAt": "2024-11-10T00:35:01.914Z",
             "classificacao": 14
         }
     ]
