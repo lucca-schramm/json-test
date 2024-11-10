@@ -9,7 +9,7 @@
             "tirosAbertos": 1,
             "tirosDados": 19,
             "tirosPerdidos": 11,
-            "updatedAt": "2024-11-10T00:35:01.914Z",
+            "updatedAt": "2024-11-10T01:35:01.906Z",
             "classificacao": 1
         },
         {
@@ -21,7 +21,7 @@
             "tirosAbertos": 2,
             "tirosDados": 18,
             "tirosPerdidos": 9,
-            "updatedAt": "2024-11-10T00:35:01.914Z",
+            "updatedAt": "2024-11-10T01:35:01.906Z",
             "classificacao": 2
         },
         {
@@ -33,7 +33,7 @@
             "tirosAbertos": 1,
             "tirosDados": 15,
             "tirosPerdidos": 8,
-            "updatedAt": "2024-11-10T00:35:01.914Z",
+            "updatedAt": "2024-11-10T01:35:01.906Z",
             "classificacao": 3
         },
         {
@@ -45,7 +45,7 @@
             "tirosAbertos": 0,
             "tirosDados": 16,
             "tirosPerdidos": 12,
-            "updatedAt": "2024-11-10T00:35:01.914Z",
+            "updatedAt": "2024-11-10T01:35:01.906Z",
             "classificacao": 4
         },
         {
@@ -57,7 +57,7 @@
             "tirosAbertos": 3,
             "tirosDados": 18,
             "tirosPerdidos": 10,
-            "updatedAt": "2024-11-10T00:35:01.914Z",
+            "updatedAt": "2024-11-10T01:35:01.906Z",
             "classificacao": 5
         },
         {
@@ -69,7 +69,7 @@
             "tirosAbertos": 0,
             "tirosDados": 15,
             "tirosPerdidos": 11,
-            "updatedAt": "2024-11-10T00:35:01.914Z",
+            "updatedAt": "2024-11-10T01:35:01.906Z",
             "classificacao": 6
         },
         {
@@ -81,7 +81,7 @@
             "tirosAbertos": 0,
             "tirosDados": 20,
             "tirosPerdidos": 18,
-            "updatedAt": "2024-11-10T00:35:01.914Z",
+            "updatedAt": "2024-11-10T01:35:01.906Z",
             "classificacao": 7
         },
         {
@@ -93,7 +93,7 @@
             "tirosAbertos": 0,
             "tirosDados": 20,
             "tirosPerdidos": 17,
-            "updatedAt": "2024-11-10T00:35:01.914Z",
+            "updatedAt": "2024-11-10T01:35:01.906Z",
             "classificacao": 8
         },
         {
@@ -102,10 +102,10 @@
             "nome": "Felipe",
             "somaOdds": 3.5,
             "betCount": 1,
-            "tirosAbertos": 1,
+            "tirosAbertos": 0,
             "tirosDados": 20,
-            "tirosPerdidos": 18,
-            "updatedAt": "2024-11-10T00:35:01.914Z",
+            "tirosPerdidos": 19,
+            "updatedAt": "2024-11-10T01:35:01.906Z",
             "classificacao": 9
         },
         {
@@ -117,7 +117,7 @@
             "tirosAbertos": 2,
             "tirosDados": 7,
             "tirosPerdidos": 4,
-            "updatedAt": "2024-11-10T00:35:01.914Z",
+            "updatedAt": "2024-11-10T01:35:01.906Z",
             "classificacao": 10
         },
         {
@@ -129,7 +129,7 @@
             "tirosAbertos": 0,
             "tirosDados": 3,
             "tirosPerdidos": 3,
-            "updatedAt": "2024-11-10T00:35:01.914Z",
+            "updatedAt": "2024-11-10T01:35:01.906Z",
             "classificacao": 11
         },
         {
@@ -138,10 +138,10 @@
             "nome": "Borel",
             "somaOdds": 0,
             "betCount": 1,
-            "tirosAbertos": 6,
+            "tirosAbertos": 5,
             "tirosDados": 22,
-            "tirosPerdidos": 15,
-            "updatedAt": "2024-11-10T00:35:01.914Z",
+            "tirosPerdidos": 16,
+            "updatedAt": "2024-11-10T01:35:01.906Z",
             "classificacao": 12
         },
         {
@@ -153,7 +153,7 @@
             "tirosAbertos": 1,
             "tirosDados": 13,
             "tirosPerdidos": 12,
-            "updatedAt": "2024-11-10T00:35:01.914Z",
+            "updatedAt": "2024-11-10T01:35:01.906Z",
             "classificacao": 13
         },
         {
@@ -165,7 +165,7 @@
             "tirosAbertos": 0,
             "tirosDados": 6,
             "tirosPerdidos": 6,
-            "updatedAt": "2024-11-10T00:35:01.914Z",
+            "updatedAt": "2024-11-10T01:35:01.906Z",
             "classificacao": 14
         }
     ]
