@@ -1,1 +1,4897 @@
-{}
+{
+    "ranking": [
+        {
+            "id": 103025,
+            "nome": "magno",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 1
+        },
+        {
+            "id": 130579,
+            "nome": "adilson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 2
+        },
+        {
+            "id": 138766,
+            "nome": "domingos",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 3
+        },
+        {
+            "id": 191566,
+            "nome": "pedro",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 4
+        },
+        {
+            "id": 194278,
+            "nome": "paulo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 5
+        },
+        {
+            "id": 198252,
+            "nome": "diogo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 6
+        },
+        {
+            "id": 200733,
+            "nome": "jansse",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 7
+        },
+        {
+            "id": 202072,
+            "nome": "lidio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 8
+        },
+        {
+            "id": 203354,
+            "nome": "elton",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 9
+        },
+        {
+            "id": 203711,
+            "nome": "fernando",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 10
+        },
+        {
+            "id": 207085,
+            "nome": "éder",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 11
+        },
+        {
+            "id": 210604,
+            "nome": "claudio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 12
+        },
+        {
+            "id": 211667,
+            "nome": "adenilson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 13
+        },
+        {
+            "id": 213610,
+            "nome": "leandro",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 14
+        },
+        {
+            "id": 214351,
+            "nome": "thayson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 15
+        },
+        {
+            "id": 217351,
+            "nome": "wirismar",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 16
+        },
+        {
+            "id": 218171,
+            "nome": "carlos",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 17
+        },
+        {
+            "id": 220250,
+            "nome": "josé",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 18
+        },
+        {
+            "id": 220480,
+            "nome": "osmar",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 19
+        },
+        {
+            "id": 224603,
+            "nome": "anderson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 20
+        },
+        {
+            "id": 227838,
+            "nome": "felipe",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 21
+        },
+        {
+            "id": 228169,
+            "nome": "david",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 22
+        },
+        {
+            "id": 228694,
+            "nome": "francisco",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 23
+        },
+        {
+            "id": 231429,
+            "nome": "joelson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 24
+        },
+        {
+            "id": 231754,
+            "nome": "jose",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 25
+        },
+        {
+            "id": 239370,
+            "nome": "josafá",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 26
+        },
+        {
+            "id": 240183,
+            "nome": "moises",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 27
+        },
+        {
+            "id": 241875,
+            "nome": "jonisson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 28
+        },
+        {
+            "id": 242512,
+            "nome": "walter",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 29
+        },
+        {
+            "id": 250019,
+            "nome": "tiago",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 30
+        },
+        {
+            "id": 251048,
+            "nome": "joel",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 31
+        },
+        {
+            "id": 255210,
+            "nome": "robervan",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 32
+        },
+        {
+            "id": 258008,
+            "nome": "marcos",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 33
+        },
+        {
+            "id": 264990,
+            "nome": "edson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 34
+        },
+        {
+            "id": 268730,
+            "nome": "rhael",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 35
+        },
+        {
+            "id": 269497,
+            "nome": "michel",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 36
+        },
+        {
+            "id": 276119,
+            "nome": "brian",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 37
+        },
+        {
+            "id": 277815,
+            "nome": "joão",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 38
+        },
+        {
+            "id": 285456,
+            "nome": "jonas",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 39
+        },
+        {
+            "id": 288189,
+            "nome": "rogger",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 40
+        },
+        {
+            "id": 288602,
+            "nome": "fábio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 41
+        },
+        {
+            "id": 289151,
+            "nome": "marcelo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 42
+        },
+        {
+            "id": 293297,
+            "nome": "jerson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 43
+        },
+        {
+            "id": 300226,
+            "nome": "francisco",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 44
+        },
+        {
+            "id": 302247,
+            "nome": "wellington",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 45
+        },
+        {
+            "id": 307447,
+            "nome": "luiz",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 46
+        },
+        {
+            "id": 309171,
+            "nome": "fernando",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 47
+        },
+        {
+            "id": 312131,
+            "nome": "rodrigo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 48
+        },
+        {
+            "id": 315950,
+            "nome": "joão",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 49
+        },
+        {
+            "id": 318702,
+            "nome": "marli",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 50
+        },
+        {
+            "id": 320767,
+            "nome": "christofer",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 51
+        },
+        {
+            "id": 321925,
+            "nome": "cristiano",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 52
+        },
+        {
+            "id": 322724,
+            "nome": "márcio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 53
+        },
+        {
+            "id": 323084,
+            "nome": "edson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 54
+        },
+        {
+            "id": 326398,
+            "nome": "helio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 55
+        },
+        {
+            "id": 339567,
+            "nome": "rodrigo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 56
+        },
+        {
+            "id": 340474,
+            "nome": "hermes",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 57
+        },
+        {
+            "id": 344079,
+            "nome": "jairo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 58
+        },
+        {
+            "id": 344326,
+            "nome": "ileoni",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 59
+        },
+        {
+            "id": 345220,
+            "nome": "rogério",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 60
+        },
+        {
+            "id": 346361,
+            "nome": "glaydson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 61
+        },
+        {
+            "id": 347346,
+            "nome": "wagner",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 62
+        },
+        {
+            "id": 350331,
+            "nome": "ervison",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 63
+        },
+        {
+            "id": 351782,
+            "nome": "murilo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 64
+        },
+        {
+            "id": 351783,
+            "nome": "leandro",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 65
+        },
+        {
+            "id": 357638,
+            "nome": "anderson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 66
+        },
+        {
+            "id": 364607,
+            "nome": "josé",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 67
+        },
+        {
+            "id": 370337,
+            "nome": "josé",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 68
+        },
+        {
+            "id": 376750,
+            "nome": "vanderlei",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 69
+        },
+        {
+            "id": 377257,
+            "nome": "debson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 70
+        },
+        {
+            "id": 386397,
+            "nome": "kelvin",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 71
+        },
+        {
+            "id": 393987,
+            "nome": "celio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 72
+        },
+        {
+            "id": 394883,
+            "nome": "marcelo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 73
+        },
+        {
+            "id": 395559,
+            "nome": "sulakvelidze",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 74
+        },
+        {
+            "id": 395959,
+            "nome": "gefrison",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 75
+        },
+        {
+            "id": 397946,
+            "nome": "rossano",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 76
+        },
+        {
+            "id": 399832,
+            "nome": "elinelson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 77
+        },
+        {
+            "id": 401858,
+            "nome": "eduardo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 78
+        },
+        {
+            "id": 402105,
+            "nome": "ivanes",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 79
+        },
+        {
+            "id": 409440,
+            "nome": "emerson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 80
+        },
+        {
+            "id": 415732,
+            "nome": "junio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 81
+        },
+        {
+            "id": 418121,
+            "nome": "cícero",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 82
+        },
+        {
+            "id": 425352,
+            "nome": "cesar",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 83
+        },
+        {
+            "id": 426438,
+            "nome": "luis",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 84
+        },
+        {
+            "id": 431425,
+            "nome": "leandro",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 85
+        },
+        {
+            "id": 434063,
+            "nome": "juliano",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 86
+        },
+        {
+            "id": 434279,
+            "nome": "marcos",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 87
+        },
+        {
+            "id": 441395,
+            "nome": "gustavo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 88
+        },
+        {
+            "id": 441500,
+            "nome": "edilson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 89
+        },
+        {
+            "id": 445974,
+            "nome": "peterson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 90
+        },
+        {
+            "id": 446344,
+            "nome": "chander",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 91
+        },
+        {
+            "id": 446374,
+            "nome": "daniel",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 92
+        },
+        {
+            "id": 447109,
+            "nome": "lucas",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 93
+        },
+        {
+            "id": 447569,
+            "nome": "marcos",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 94
+        },
+        {
+            "id": 448549,
+            "nome": "joão",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 95
+        },
+        {
+            "id": 449815,
+            "nome": "irani",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 96
+        },
+        {
+            "id": 449902,
+            "nome": "maria",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 97
+        },
+        {
+            "id": 450110,
+            "nome": "juarez",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 98
+        },
+        {
+            "id": 451597,
+            "nome": "admilson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 99
+        },
+        {
+            "id": 452956,
+            "nome": "ademir",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 100
+        },
+        {
+            "id": 458609,
+            "nome": "fagner",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 101
+        },
+        {
+            "id": 459533,
+            "nome": "luciano",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 102
+        },
+        {
+            "id": 466036,
+            "nome": "josé",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 103
+        },
+        {
+            "id": 467554,
+            "nome": "antônio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 104
+        },
+        {
+            "id": 470668,
+            "nome": "jucemar",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 105
+        },
+        {
+            "id": 471925,
+            "nome": "diego",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 106
+        },
+        {
+            "id": 479122,
+            "nome": "diego",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 107
+        },
+        {
+            "id": 479600,
+            "nome": "arison",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 108
+        },
+        {
+            "id": 480012,
+            "nome": "thyago",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 109
+        },
+        {
+            "id": 480782,
+            "nome": "rafael",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 110
+        },
+        {
+            "id": 481870,
+            "nome": "josé",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 111
+        },
+        {
+            "id": 485564,
+            "nome": "richard",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 112
+        },
+        {
+            "id": 488514,
+            "nome": "michael",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 113
+        },
+        {
+            "id": 488620,
+            "nome": "marcelo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 114
+        },
+        {
+            "id": 494048,
+            "nome": "derivan",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 115
+        },
+        {
+            "id": 496993,
+            "nome": "gabriel",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 116
+        },
+        {
+            "id": 497118,
+            "nome": "danilo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 117
+        },
+        {
+            "id": 499953,
+            "nome": "rodrigo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 118
+        },
+        {
+            "id": 500211,
+            "nome": "gilberto",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 119
+        },
+        {
+            "id": 500524,
+            "nome": "alexandre",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 120
+        },
+        {
+            "id": 500715,
+            "nome": "pedro",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 121
+        },
+        {
+            "id": 505066,
+            "nome": "carlos",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 122
+        },
+        {
+            "id": 509362,
+            "nome": "dioenio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 123
+        },
+        {
+            "id": 510698,
+            "nome": "edgar",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 124
+        },
+        {
+            "id": 524006,
+            "nome": "enoque",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 125
+        },
+        {
+            "id": 524424,
+            "nome": "willian",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 126
+        },
+        {
+            "id": 528442,
+            "nome": "jacintto",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 127
+        },
+        {
+            "id": 532262,
+            "nome": "leandro",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 128
+        },
+        {
+            "id": 537002,
+            "nome": "edvan",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 129
+        },
+        {
+            "id": 539733,
+            "nome": "amaury",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 130
+        },
+        {
+            "id": 539821,
+            "nome": "jeferson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 131
+        },
+        {
+            "id": 546295,
+            "nome": "moises",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 132
+        },
+        {
+            "id": 547273,
+            "nome": "francisco",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 133
+        },
+        {
+            "id": 549257,
+            "nome": "marcelo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 134
+        },
+        {
+            "id": 549313,
+            "nome": "almir",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 135
+        },
+        {
+            "id": 550955,
+            "nome": "marcos",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 136
+        },
+        {
+            "id": 551407,
+            "nome": "maximiliano",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 137
+        },
+        {
+            "id": 551831,
+            "nome": "rafael",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 138
+        },
+        {
+            "id": 553499,
+            "nome": "anderson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 139
+        },
+        {
+            "id": 554654,
+            "nome": "renato",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 140
+        },
+        {
+            "id": 555705,
+            "nome": "fábio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 141
+        },
+        {
+            "id": 555914,
+            "nome": "marcio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 142
+        },
+        {
+            "id": 556725,
+            "nome": "caique",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 143
+        },
+        {
+            "id": 558454,
+            "nome": "johnatan",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 144
+        },
+        {
+            "id": 559968,
+            "nome": "antonio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 145
+        },
+        {
+            "id": 560159,
+            "nome": "joselito",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 146
+        },
+        {
+            "id": 560691,
+            "nome": "edclei",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 147
+        },
+        {
+            "id": 561478,
+            "nome": "haroldo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 148
+        },
+        {
+            "id": 563542,
+            "nome": "ademir",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 149
+        },
+        {
+            "id": 563796,
+            "nome": "geferson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 150
+        },
+        {
+            "id": 568926,
+            "nome": "carlos",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 151
+        },
+        {
+            "id": 569269,
+            "nome": "moises",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 152
+        },
+        {
+            "id": 569861,
+            "nome": "natalino",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 153
+        },
+        {
+            "id": 570024,
+            "nome": "daniel",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 154
+        },
+        {
+            "id": 571614,
+            "nome": "david",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 155
+        },
+        {
+            "id": 573851,
+            "nome": "leonardo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 156
+        },
+        {
+            "id": 574617,
+            "nome": "joaquim",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 157
+        },
+        {
+            "id": 578622,
+            "nome": "josé",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 158
+        },
+        {
+            "id": 579128,
+            "nome": "jose",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 159
+        },
+        {
+            "id": 579350,
+            "nome": "gilberto",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 160
+        },
+        {
+            "id": 579600,
+            "nome": "raimundo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 161
+        },
+        {
+            "id": 580665,
+            "nome": "carlos",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 162
+        },
+        {
+            "id": 582341,
+            "nome": "manoel",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 163
+        },
+        {
+            "id": 582413,
+            "nome": "willian",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 164
+        },
+        {
+            "id": 583201,
+            "nome": "leone",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 165
+        },
+        {
+            "id": 586534,
+            "nome": "igor",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 166
+        },
+        {
+            "id": 586553,
+            "nome": "rigoberto",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 167
+        },
+        {
+            "id": 586614,
+            "nome": "francisco",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 168
+        },
+        {
+            "id": 588407,
+            "nome": "luiz",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 169
+        },
+        {
+            "id": 589888,
+            "nome": "luiz",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 170
+        },
+        {
+            "id": 590721,
+            "nome": "rosimere",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 171
+        },
+        {
+            "id": 590820,
+            "nome": "alexandre",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 172
+        },
+        {
+            "id": 591717,
+            "nome": "josenildo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 173
+        },
+        {
+            "id": 593266,
+            "nome": "daniel",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 174
+        },
+        {
+            "id": 594179,
+            "nome": "adriano",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 175
+        },
+        {
+            "id": 595262,
+            "nome": "glauco",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 176
+        },
+        {
+            "id": 595381,
+            "nome": "amauri",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 177
+        },
+        {
+            "id": 596801,
+            "nome": "fabio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 178
+        },
+        {
+            "id": 597575,
+            "nome": "fabricio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 179
+        },
+        {
+            "id": 598503,
+            "nome": "philipe",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 180
+        },
+        {
+            "id": 598738,
+            "nome": "william",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 181
+        },
+        {
+            "id": 599291,
+            "nome": "johnny",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 182
+        },
+        {
+            "id": 599347,
+            "nome": "jonatas",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 183
+        },
+        {
+            "id": 601286,
+            "nome": "uilian",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 184
+        },
+        {
+            "id": 602453,
+            "nome": "gilailson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 185
+        },
+        {
+            "id": 603020,
+            "nome": "daniel",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 186
+        },
+        {
+            "id": 604062,
+            "nome": "fabio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 187
+        },
+        {
+            "id": 604710,
+            "nome": "josé",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 188
+        },
+        {
+            "id": 605287,
+            "nome": "renato",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 189
+        },
+        {
+            "id": 606019,
+            "nome": "antônio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 190
+        },
+        {
+            "id": 606385,
+            "nome": "ricardo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 191
+        },
+        {
+            "id": 606484,
+            "nome": "luciano",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 192
+        },
+        {
+            "id": 607538,
+            "nome": "josé",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 193
+        },
+        {
+            "id": 609606,
+            "nome": "antonio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 194
+        },
+        {
+            "id": 609787,
+            "nome": "paulo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 195
+        },
+        {
+            "id": 611321,
+            "nome": "marcos",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 196
+        },
+        {
+            "id": 611921,
+            "nome": "daniel",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 197
+        },
+        {
+            "id": 612121,
+            "nome": "donizete",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 198
+        },
+        {
+            "id": 615529,
+            "nome": "lidowane",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 199
+        },
+        {
+            "id": 616799,
+            "nome": "francisco",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 200
+        },
+        {
+            "id": 617128,
+            "nome": "luis",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 201
+        },
+        {
+            "id": 618626,
+            "nome": "fernando",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 202
+        },
+        {
+            "id": 622329,
+            "nome": "lisleandro",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 203
+        },
+        {
+            "id": 623016,
+            "nome": "ricardo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 204
+        },
+        {
+            "id": 623450,
+            "nome": "daniel",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 205
+        },
+        {
+            "id": 623722,
+            "nome": "vladimir",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 206
+        },
+        {
+            "id": 624682,
+            "nome": "welton",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 207
+        },
+        {
+            "id": 624850,
+            "nome": "claudius",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 208
+        },
+        {
+            "id": 625006,
+            "nome": "henrique",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 209
+        },
+        {
+            "id": 625645,
+            "nome": "mailton",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 210
+        },
+        {
+            "id": 628642,
+            "nome": "júlio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 211
+        },
+        {
+            "id": 629770,
+            "nome": "josé",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 212
+        },
+        {
+            "id": 630848,
+            "nome": "vinicius",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 213
+        },
+        {
+            "id": 633711,
+            "nome": "marlon",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 214
+        },
+        {
+            "id": 635703,
+            "nome": "jose",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 215
+        },
+        {
+            "id": 636099,
+            "nome": "weslei",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 216
+        },
+        {
+            "id": 638733,
+            "nome": "antônio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 217
+        },
+        {
+            "id": 638819,
+            "nome": "wallison",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 218
+        },
+        {
+            "id": 641502,
+            "nome": "elesandra",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 219
+        },
+        {
+            "id": 642586,
+            "nome": "rogerio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 220
+        },
+        {
+            "id": 642832,
+            "nome": "fernando",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 221
+        },
+        {
+            "id": 645722,
+            "nome": "josé",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 222
+        },
+        {
+            "id": 647926,
+            "nome": "milton",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 223
+        },
+        {
+            "id": 648400,
+            "nome": "jairo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 224
+        },
+        {
+            "id": 651559,
+            "nome": "rogerio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 225
+        },
+        {
+            "id": 652316,
+            "nome": "julio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 226
+        },
+        {
+            "id": 653193,
+            "nome": "marcos",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 227
+        },
+        {
+            "id": 654253,
+            "nome": "ruy",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 228
+        },
+        {
+            "id": 655333,
+            "nome": "francisco",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 229
+        },
+        {
+            "id": 656489,
+            "nome": "luiz",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 230
+        },
+        {
+            "id": 657114,
+            "nome": "isaias",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 231
+        },
+        {
+            "id": 659303,
+            "nome": "adelino",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 232
+        },
+        {
+            "id": 660245,
+            "nome": "jorge",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 233
+        },
+        {
+            "id": 660264,
+            "nome": "hassan",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 234
+        },
+        {
+            "id": 661192,
+            "nome": "larissy",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 235
+        },
+        {
+            "id": 661419,
+            "nome": "erik",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 236
+        },
+        {
+            "id": 669319,
+            "nome": "jefferson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 237
+        },
+        {
+            "id": 670082,
+            "nome": "genilton",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 238
+        },
+        {
+            "id": 671324,
+            "nome": "camilo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 239
+        },
+        {
+            "id": 672223,
+            "nome": "marluce",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 240
+        },
+        {
+            "id": 673225,
+            "nome": "raimundo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 241
+        },
+        {
+            "id": 675831,
+            "nome": "luan",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 242
+        },
+        {
+            "id": 676864,
+            "nome": "emerson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 243
+        },
+        {
+            "id": 679532,
+            "nome": "carlos",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 244
+        },
+        {
+            "id": 681297,
+            "nome": "rodrigo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 245
+        },
+        {
+            "id": 681478,
+            "nome": "felipe",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 246
+        },
+        {
+            "id": 685638,
+            "nome": "felipe",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 247
+        },
+        {
+            "id": 688279,
+            "nome": "abraao",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 248
+        },
+        {
+            "id": 689193,
+            "nome": "isaac",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 249
+        },
+        {
+            "id": 691738,
+            "nome": "luciano",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 250
+        },
+        {
+            "id": 693769,
+            "nome": "rogerio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 251
+        },
+        {
+            "id": 696927,
+            "nome": "wesley",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 252
+        },
+        {
+            "id": 697059,
+            "nome": "miguel",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 253
+        },
+        {
+            "id": 697266,
+            "nome": "francisco",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 254
+        },
+        {
+            "id": 697678,
+            "nome": "jose",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 255
+        },
+        {
+            "id": 698559,
+            "nome": "luiz",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 256
+        },
+        {
+            "id": 698956,
+            "nome": "vilmário",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 257
+        },
+        {
+            "id": 699628,
+            "nome": "jhony",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 258
+        },
+        {
+            "id": 707134,
+            "nome": "sebastiao",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 259
+        },
+        {
+            "id": 708845,
+            "nome": "italo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 260
+        },
+        {
+            "id": 710029,
+            "nome": "heber",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 261
+        },
+        {
+            "id": 710956,
+            "nome": "antonio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 262
+        },
+        {
+            "id": 712464,
+            "nome": "roger",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 263
+        },
+        {
+            "id": 714819,
+            "nome": "francisco",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 264
+        },
+        {
+            "id": 715357,
+            "nome": "bruno",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 265
+        },
+        {
+            "id": 715448,
+            "nome": "andré",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 266
+        },
+        {
+            "id": 721911,
+            "nome": "mateus",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 267
+        },
+        {
+            "id": 722120,
+            "nome": "david",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 268
+        },
+        {
+            "id": 722603,
+            "nome": "joaby",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 269
+        },
+        {
+            "id": 724247,
+            "nome": "itallo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 270
+        },
+        {
+            "id": 724684,
+            "nome": "danilo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 271
+        },
+        {
+            "id": 725750,
+            "nome": "marcio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 272
+        },
+        {
+            "id": 726821,
+            "nome": "nereu",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 273
+        },
+        {
+            "id": 727903,
+            "nome": "willie",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 274
+        },
+        {
+            "id": 728201,
+            "nome": "luanderson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 275
+        },
+        {
+            "id": 728395,
+            "nome": "jose",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 276
+        },
+        {
+            "id": 729184,
+            "nome": "felipe",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 277
+        },
+        {
+            "id": 729282,
+            "nome": "jenailson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 278
+        },
+        {
+            "id": 729748,
+            "nome": "vagno",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 279
+        },
+        {
+            "id": 734935,
+            "nome": "gilberto",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 280
+        },
+        {
+            "id": 736231,
+            "nome": "mozandir",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 281
+        },
+        {
+            "id": 736618,
+            "nome": "leonardo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 282
+        },
+        {
+            "id": 737889,
+            "nome": "josé",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 283
+        },
+        {
+            "id": 747899,
+            "nome": "denise",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 284
+        },
+        {
+            "id": 749062,
+            "nome": "luis",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 285
+        },
+        {
+            "id": 749786,
+            "nome": "pedro",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 286
+        },
+        {
+            "id": 751874,
+            "nome": "enoque",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 287
+        },
+        {
+            "id": 752401,
+            "nome": "rafael",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 288
+        },
+        {
+            "id": 753881,
+            "nome": "adriano",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 289
+        },
+        {
+            "id": 754150,
+            "nome": "marco",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 290
+        },
+        {
+            "id": 754329,
+            "nome": "jorge",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 291
+        },
+        {
+            "id": 754764,
+            "nome": "gerson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 292
+        },
+        {
+            "id": 755573,
+            "nome": "elane",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 293
+        },
+        {
+            "id": 759580,
+            "nome": "edilson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 294
+        },
+        {
+            "id": 760615,
+            "nome": "samuel",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 295
+        },
+        {
+            "id": 763886,
+            "nome": "daniel",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 296
+        },
+        {
+            "id": 771652,
+            "nome": "odair",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 297
+        },
+        {
+            "id": 774229,
+            "nome": "celso",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 298
+        },
+        {
+            "id": 775126,
+            "nome": "elailson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 299
+        },
+        {
+            "id": 775281,
+            "nome": "vladimir",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 300
+        },
+        {
+            "id": 775878,
+            "nome": "ocrair",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 301
+        },
+        {
+            "id": 779675,
+            "nome": "fernando",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 302
+        },
+        {
+            "id": 781819,
+            "nome": "helio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 303
+        },
+        {
+            "id": 782570,
+            "nome": "carlos",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 304
+        },
+        {
+            "id": 783366,
+            "nome": "antonio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 305
+        },
+        {
+            "id": 785280,
+            "nome": "antonio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 306
+        },
+        {
+            "id": 787023,
+            "nome": "jose",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 307
+        },
+        {
+            "id": 787150,
+            "nome": "lucicaldo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 308
+        },
+        {
+            "id": 788463,
+            "nome": "rafael",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 309
+        },
+        {
+            "id": 788474,
+            "nome": "mario",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 310
+        },
+        {
+            "id": 789617,
+            "nome": "almir",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 311
+        },
+        {
+            "id": 794196,
+            "nome": "cleison",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 312
+        },
+        {
+            "id": 796825,
+            "nome": "roberto",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 313
+        },
+        {
+            "id": 797978,
+            "nome": "natalia",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 314
+        },
+        {
+            "id": 800862,
+            "nome": "auro",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 315
+        },
+        {
+            "id": 801870,
+            "nome": "charles",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 316
+        },
+        {
+            "id": 802351,
+            "nome": "francisco",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 317
+        },
+        {
+            "id": 803859,
+            "nome": "gladson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 318
+        },
+        {
+            "id": 805371,
+            "nome": "jose",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 319
+        },
+        {
+            "id": 805618,
+            "nome": "ronei",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 320
+        },
+        {
+            "id": 807842,
+            "nome": "marcos",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 321
+        },
+        {
+            "id": 809222,
+            "nome": "betania",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 322
+        },
+        {
+            "id": 809610,
+            "nome": "vanderlei",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 323
+        },
+        {
+            "id": 809877,
+            "nome": "vilmondes",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 324
+        },
+        {
+            "id": 811270,
+            "nome": "carlos",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 325
+        },
+        {
+            "id": 811739,
+            "nome": "sebastião",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 326
+        },
+        {
+            "id": 814238,
+            "nome": "josé",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 327
+        },
+        {
+            "id": 814715,
+            "nome": "sandro",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 328
+        },
+        {
+            "id": 815018,
+            "nome": "marcelo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 329
+        },
+        {
+            "id": 815799,
+            "nome": "wladimir",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 330
+        },
+        {
+            "id": 819442,
+            "nome": "maurício",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 331
+        },
+        {
+            "id": 819542,
+            "nome": "ermeson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 332
+        },
+        {
+            "id": 819721,
+            "nome": "fabio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 333
+        },
+        {
+            "id": 821633,
+            "nome": "julho",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 334
+        },
+        {
+            "id": 823589,
+            "nome": "rafael",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 335
+        },
+        {
+            "id": 824123,
+            "nome": "josimar",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 336
+        },
+        {
+            "id": 824898,
+            "nome": "gilmar",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 337
+        },
+        {
+            "id": 825561,
+            "nome": "sandra",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 338
+        },
+        {
+            "id": 828965,
+            "nome": "vanderley",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 339
+        },
+        {
+            "id": 829475,
+            "nome": "fernando",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 340
+        },
+        {
+            "id": 829736,
+            "nome": "vanessa",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 341
+        },
+        {
+            "id": 831249,
+            "nome": "naider",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 342
+        },
+        {
+            "id": 834621,
+            "nome": "thayllan",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 343
+        },
+        {
+            "id": 836124,
+            "nome": "dadva",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 344
+        },
+        {
+            "id": 836495,
+            "nome": "lucas",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 345
+        },
+        {
+            "id": 836623,
+            "nome": "jose",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 346
+        },
+        {
+            "id": 847926,
+            "nome": "maciel",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 347
+        },
+        {
+            "id": 848633,
+            "nome": "claudio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 348
+        },
+        {
+            "id": 849353,
+            "nome": "kauan",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 349
+        },
+        {
+            "id": 849840,
+            "nome": "jocelino",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 350
+        },
+        {
+            "id": 850346,
+            "nome": "douglas",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 351
+        },
+        {
+            "id": 851490,
+            "nome": "rodrigo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 352
+        },
+        {
+            "id": 854077,
+            "nome": "irislania",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 353
+        },
+        {
+            "id": 855082,
+            "nome": "jarlon",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 354
+        },
+        {
+            "id": 856786,
+            "nome": "diego",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 355
+        },
+        {
+            "id": 858106,
+            "nome": "fabiana",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 356
+        },
+        {
+            "id": 858400,
+            "nome": "ildimaria",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 357
+        },
+        {
+            "id": 862786,
+            "nome": "madson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 358
+        },
+        {
+            "id": 863943,
+            "nome": "gilberto",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 359
+        },
+        {
+            "id": 864000,
+            "nome": "ricardo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 360
+        },
+        {
+            "id": 864177,
+            "nome": "daniel",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 361
+        },
+        {
+            "id": 864977,
+            "nome": "mihail",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 362
+        },
+        {
+            "id": 866247,
+            "nome": "nailton",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 363
+        },
+        {
+            "id": 866573,
+            "nome": "nilson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 364
+        },
+        {
+            "id": 869875,
+            "nome": "nivea",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 365
+        },
+        {
+            "id": 875207,
+            "nome": "carlos",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 366
+        },
+        {
+            "id": 880064,
+            "nome": "sivaldo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 367
+        },
+        {
+            "id": 881730,
+            "nome": "denilson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 368
+        },
+        {
+            "id": 885449,
+            "nome": "josé",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 369
+        },
+        {
+            "id": 890265,
+            "nome": "janci",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 370
+        },
+        {
+            "id": 891709,
+            "nome": "naelson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 371
+        },
+        {
+            "id": 892698,
+            "nome": "anderson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 372
+        },
+        {
+            "id": 894895,
+            "nome": "laila",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 373
+        },
+        {
+            "id": 897926,
+            "nome": "arthur",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 374
+        },
+        {
+            "id": 899146,
+            "nome": "josé",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 375
+        },
+        {
+            "id": 899934,
+            "nome": "jailson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 376
+        },
+        {
+            "id": 900802,
+            "nome": "jhonatan",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 377
+        },
+        {
+            "id": 902494,
+            "nome": "leonardo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 378
+        },
+        {
+            "id": 902510,
+            "nome": "ronaldo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 379
+        },
+        {
+            "id": 906249,
+            "nome": "francisco",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 380
+        },
+        {
+            "id": 906286,
+            "nome": "eduardo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 381
+        },
+        {
+            "id": 907299,
+            "nome": "cicero",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 382
+        },
+        {
+            "id": 908249,
+            "nome": "vinicius",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 383
+        },
+        {
+            "id": 910777,
+            "nome": "alex",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 384
+        },
+        {
+            "id": 912232,
+            "nome": "flavio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 385
+        },
+        {
+            "id": 913096,
+            "nome": "marcos",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 386
+        },
+        {
+            "id": 913473,
+            "nome": "felipe",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 387
+        },
+        {
+            "id": 914266,
+            "nome": "bruno",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 388
+        },
+        {
+            "id": 915394,
+            "nome": "diego",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 389
+        },
+        {
+            "id": 916550,
+            "nome": "alex",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 390
+        },
+        {
+            "id": 917335,
+            "nome": "gilson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 391
+        },
+        {
+            "id": 921289,
+            "nome": "luiz",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 392
+        },
+        {
+            "id": 921363,
+            "nome": "gabriel",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 393
+        },
+        {
+            "id": 921880,
+            "nome": "tonicelso",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 394
+        },
+        {
+            "id": 923011,
+            "nome": "eduardo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 395
+        },
+        {
+            "id": 924571,
+            "nome": "marcelo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 396
+        },
+        {
+            "id": 925946,
+            "nome": "wander",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 397
+        },
+        {
+            "id": 927054,
+            "nome": "josé",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 398
+        },
+        {
+            "id": 929339,
+            "nome": "carlos",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 399
+        },
+        {
+            "id": 930246,
+            "nome": "william",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 400
+        },
+        {
+            "id": 933627,
+            "nome": "conceicao",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 401
+        },
+        {
+            "id": 933761,
+            "nome": "robson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 402
+        },
+        {
+            "id": 937852,
+            "nome": "carlos",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 403
+        },
+        {
+            "id": 939298,
+            "nome": "césar",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 404
+        },
+        {
+            "id": 939359,
+            "nome": "jonathan",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 405
+        },
+        {
+            "id": 939398,
+            "nome": "lucas",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 406
+        },
+        {
+            "id": 940612,
+            "nome": "jorgiel",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 407
+        },
+        {
+            "id": 944147,
+            "nome": "flávio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 408
+        },
+        {
+            "id": 945035,
+            "nome": "moacir",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 409
+        },
+        {
+            "id": 945557,
+            "nome": "wesley",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 410
+        },
+        {
+            "id": 948818,
+            "nome": "robinson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 411
+        },
+        {
+            "id": 949640,
+            "nome": "fabio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 412
+        },
+        {
+            "id": 952544,
+            "nome": "humberto",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 413
+        },
+        {
+            "id": 954009,
+            "nome": "evandocarlos",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 414
+        },
+        {
+            "id": 955519,
+            "nome": "ronivaldo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 415
+        },
+        {
+            "id": 956245,
+            "nome": "alexandro",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 416
+        },
+        {
+            "id": 958514,
+            "nome": "cesar",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 417
+        },
+        {
+            "id": 958649,
+            "nome": "vicente",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 418
+        },
+        {
+            "id": 963328,
+            "nome": "fernando",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 419
+        },
+        {
+            "id": 963355,
+            "nome": "julio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 420
+        },
+        {
+            "id": 963584,
+            "nome": "wallyson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 421
+        },
+        {
+            "id": 964980,
+            "nome": "wagner",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 422
+        },
+        {
+            "id": 967313,
+            "nome": "priscila",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 423
+        },
+        {
+            "id": 967932,
+            "nome": "paulo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 424
+        },
+        {
+            "id": 968121,
+            "nome": "ozano",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 425
+        },
+        {
+            "id": 971695,
+            "nome": "célio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 426
+        },
+        {
+            "id": 972722,
+            "nome": "josé",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 427
+        },
+        {
+            "id": 974022,
+            "nome": "anderson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 428
+        },
+        {
+            "id": 974871,
+            "nome": "josemar",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 429
+        },
+        {
+            "id": 975364,
+            "nome": "edilson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 430
+        },
+        {
+            "id": 979931,
+            "nome": "robson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 431
+        },
+        {
+            "id": 982302,
+            "nome": "cláudio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 432
+        },
+        {
+            "id": 982645,
+            "nome": "jorge",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 433
+        },
+        {
+            "id": 984919,
+            "nome": "anderson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 434
+        },
+        {
+            "id": 985185,
+            "nome": "erminio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 435
+        },
+        {
+            "id": 986941,
+            "nome": "paulo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 436
+        },
+        {
+            "id": 990108,
+            "nome": "ademir",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 437
+        },
+        {
+            "id": 990598,
+            "nome": "sergio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 438
+        },
+        {
+            "id": 990685,
+            "nome": "marcelo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 439
+        },
+        {
+            "id": 994518,
+            "nome": "luis",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 440
+        },
+        {
+            "id": 998858,
+            "nome": "roberto",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 441
+        },
+        {
+            "id": 999521,
+            "nome": "bruna",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 442
+        },
+        {
+            "id": 999793,
+            "nome": "matheus",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 443
+        },
+        {
+            "id": 1000270,
+            "nome": "thiago",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 444
+        },
+        {
+            "id": 1002890,
+            "nome": "cleber",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 445
+        },
+        {
+            "id": 1005091,
+            "nome": "rander",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 446
+        },
+        {
+            "id": 1014806,
+            "nome": "bruno",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 447
+        },
+        {
+            "id": 1018036,
+            "nome": "eliel",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 448
+        },
+        {
+            "id": 1020497,
+            "nome": "allison",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 449
+        },
+        {
+            "id": 1022842,
+            "nome": "washington",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 450
+        },
+        {
+            "id": 1027058,
+            "nome": "paulo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 451
+        },
+        {
+            "id": 1027067,
+            "nome": "jose",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 452
+        },
+        {
+            "id": 1029161,
+            "nome": "cleriston",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 453
+        },
+        {
+            "id": 1031016,
+            "nome": "fabiano",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 454
+        },
+        {
+            "id": 1045037,
+            "nome": "waldomiro",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 455
+        },
+        {
+            "id": 1051493,
+            "nome": "robson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 456
+        },
+        {
+            "id": 1054565,
+            "nome": "danielson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 457
+        },
+        {
+            "id": 1054746,
+            "nome": "josé",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 458
+        },
+        {
+            "id": 1055335,
+            "nome": "roberto",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 459
+        },
+        {
+            "id": 1065502,
+            "nome": "maria",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 460
+        },
+        {
+            "id": 1073722,
+            "nome": "carlos",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 461
+        },
+        {
+            "id": 1081917,
+            "nome": "mauricio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 462
+        },
+        {
+            "id": 1086443,
+            "nome": "paula",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 463
+        },
+        {
+            "id": 1087276,
+            "nome": "joão",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 464
+        },
+        {
+            "id": 1087724,
+            "nome": "milton",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 465
+        },
+        {
+            "id": 1094729,
+            "nome": "vinicius",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 466
+        },
+        {
+            "id": 1097268,
+            "nome": "ricardo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 467
+        },
+        {
+            "id": 1101124,
+            "nome": "alex",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 468
+        },
+        {
+            "id": 1142636,
+            "nome": "anderson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 469
+        },
+        {
+            "id": 1145898,
+            "nome": "daniel",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 470
+        },
+        {
+            "id": 1153198,
+            "nome": "sérgio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 471
+        },
+        {
+            "id": 1154992,
+            "nome": "raimundo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 472
+        },
+        {
+            "id": 1156119,
+            "nome": "anailso",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 473
+        },
+        {
+            "id": 1156877,
+            "nome": "ramon",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 474
+        },
+        {
+            "id": 1166635,
+            "nome": "lacy",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 475
+        },
+        {
+            "id": 1168300,
+            "nome": "francisco",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 476
+        },
+        {
+            "id": 1170156,
+            "nome": "emerson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 477
+        },
+        {
+            "id": 1174184,
+            "nome": "luciano",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 478
+        },
+        {
+            "id": 1177657,
+            "nome": "marcelino",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 479
+        },
+        {
+            "id": 1178310,
+            "nome": "anderson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 480
+        },
+        {
+            "id": 1180808,
+            "nome": "welder",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 481
+        },
+        {
+            "id": 1182071,
+            "nome": "felipe",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 482
+        },
+        {
+            "id": 1182220,
+            "nome": "maria",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 483
+        },
+        {
+            "id": 1186565,
+            "nome": "dionatan",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 484
+        },
+        {
+            "id": 1191636,
+            "nome": "caua",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 485
+        },
+        {
+            "id": 1192304,
+            "nome": "josué",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 486
+        },
+        {
+            "id": 1210688,
+            "nome": "ezequiel",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 487
+        },
+        {
+            "id": 1211419,
+            "nome": "ivanildo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 488
+        },
+        {
+            "id": 1223343,
+            "nome": "alexsandro",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 489
+        },
+        {
+            "id": 1224753,
+            "nome": "dorivan",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 490
+        },
+        {
+            "id": 1227850,
+            "nome": "aderlan",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 491
+        },
+        {
+            "id": 1229818,
+            "nome": "alanda",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 492
+        },
+        {
+            "id": 1233607,
+            "nome": "carlos",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 493
+        },
+        {
+            "id": 1239818,
+            "nome": "italo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 494
+        },
+        {
+            "id": 1239914,
+            "nome": "sérgio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 495
+        },
+        {
+            "id": 1241043,
+            "nome": "iago",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 496
+        },
+        {
+            "id": 1251594,
+            "nome": "claudionara",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 497
+        },
+        {
+            "id": 1258344,
+            "nome": "andyeson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 498
+        },
+        {
+            "id": 1269554,
+            "nome": "francisco",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 499
+        },
+        {
+            "id": 1269747,
+            "nome": "thiago",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 500
+        },
+        {
+            "id": 1276441,
+            "nome": "igor",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 501
+        },
+        {
+            "id": 1277317,
+            "nome": "claudi",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 502
+        },
+        {
+            "id": 1282677,
+            "nome": "sandro",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 503
+        },
+        {
+            "id": 1286955,
+            "nome": "luciana",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 504
+        },
+        {
+            "id": 1290090,
+            "nome": "wellington",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 505
+        },
+        {
+            "id": 1290408,
+            "nome": "josé",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 506
+        },
+        {
+            "id": 1293991,
+            "nome": "reginaldo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 507
+        },
+        {
+            "id": 1309423,
+            "nome": "mario",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 508
+        },
+        {
+            "id": 1311465,
+            "nome": "jalmir",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 509
+        },
+        {
+            "id": 1311929,
+            "nome": "wanderson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 510
+        },
+        {
+            "id": 1313201,
+            "nome": "alessandro",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 511
+        },
+        {
+            "id": 1313433,
+            "nome": "rodrigo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 512
+        },
+        {
+            "id": 1315571,
+            "nome": "joão",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 513
+        },
+        {
+            "id": 1317408,
+            "nome": "claudinei",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 514
+        },
+        {
+            "id": 1319161,
+            "nome": "cleodemir",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 515
+        },
+        {
+            "id": 1319641,
+            "nome": "marcio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 516
+        },
+        {
+            "id": 1322412,
+            "nome": "sérgio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 517
+        },
+        {
+            "id": 1322710,
+            "nome": "antonio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 518
+        },
+        {
+            "id": 1323339,
+            "nome": "emmanouil",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 519
+        },
+        {
+            "id": 1329563,
+            "nome": "erisson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 520
+        },
+        {
+            "id": 1332774,
+            "nome": "ronaldo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 521
+        },
+        {
+            "id": 1334466,
+            "nome": "wilker",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 522
+        },
+        {
+            "id": 1334725,
+            "nome": "karen",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 523
+        },
+        {
+            "id": 1341432,
+            "nome": "marcione",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 524
+        },
+        {
+            "id": 1342592,
+            "nome": "kleber",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 525
+        },
+        {
+            "id": 1349384,
+            "nome": "anderson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 526
+        },
+        {
+            "id": 1352291,
+            "nome": "hamilton",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 527
+        },
+        {
+            "id": 1352554,
+            "nome": "raimundo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 528
+        },
+        {
+            "id": 1353460,
+            "nome": "danilo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 529
+        },
+        {
+            "id": 1356321,
+            "nome": "ozano",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 530
+        },
+        {
+            "id": 1357963,
+            "nome": "brauliojorge",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 531
+        },
+        {
+            "id": 1358440,
+            "nome": "lúcio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 532
+        },
+        {
+            "id": 1360323,
+            "nome": "willian",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 533
+        },
+        {
+            "id": 1362251,
+            "nome": "marcelo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 534
+        },
+        {
+            "id": 1365804,
+            "nome": "glenio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 535
+        },
+        {
+            "id": 1367264,
+            "nome": "cláudio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 536
+        },
+        {
+            "id": 1369297,
+            "nome": "ely",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 537
+        },
+        {
+            "id": 1369837,
+            "nome": "nirondes",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 538
+        },
+        {
+            "id": 1382780,
+            "nome": "jorge",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 539
+        },
+        {
+            "id": 1386150,
+            "nome": "marcelo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 540
+        },
+        {
+            "id": 1394659,
+            "nome": "henrique",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 541
+        },
+        {
+            "id": 1394816,
+            "nome": "jeferson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 542
+        },
+        {
+            "id": 1395172,
+            "nome": "fabio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 543
+        },
+        {
+            "id": 1409011,
+            "nome": "francisco",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 544
+        },
+        {
+            "id": 1411139,
+            "nome": "tony",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 545
+        },
+        {
+            "id": 1413360,
+            "nome": "sergio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 546
+        },
+        {
+            "id": 1414443,
+            "nome": "diógenes",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 547
+        },
+        {
+            "id": 1414646,
+            "nome": "leandro",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 548
+        },
+        {
+            "id": 1415612,
+            "nome": "joel",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 549
+        },
+        {
+            "id": 1415690,
+            "nome": "antonio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 550
+        },
+        {
+            "id": 1416714,
+            "nome": "antonio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 551
+        },
+        {
+            "id": 1418798,
+            "nome": "ricardo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 552
+        },
+        {
+            "id": 1421196,
+            "nome": "edenilson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 553
+        },
+        {
+            "id": 1423509,
+            "nome": "gabriel",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 554
+        },
+        {
+            "id": 1426202,
+            "nome": "bruno",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 555
+        },
+        {
+            "id": 1426852,
+            "nome": "rodrigo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 556
+        },
+        {
+            "id": 1435353,
+            "nome": "jairesf",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 557
+        },
+        {
+            "id": 1436042,
+            "nome": "julio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 558
+        },
+        {
+            "id": 1436369,
+            "nome": "matheus",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 559
+        },
+        {
+            "id": 1436409,
+            "nome": "venessa",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 560
+        },
+        {
+            "id": 1439147,
+            "nome": "antonio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 561
+        },
+        {
+            "id": 1440378,
+            "nome": "marcos",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 562
+        },
+        {
+            "id": 1442913,
+            "nome": "alex",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 563
+        },
+        {
+            "id": 1448990,
+            "nome": "jecilene",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 564
+        },
+        {
+            "id": 1451563,
+            "nome": "igor",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 565
+        },
+        {
+            "id": 1456155,
+            "nome": "cristiano",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 566
+        },
+        {
+            "id": 1464107,
+            "nome": "cristiane",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 567
+        },
+        {
+            "id": 1466528,
+            "nome": "abgail",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 568
+        },
+        {
+            "id": 1469242,
+            "nome": "bruno",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 569
+        },
+        {
+            "id": 1488938,
+            "nome": "gabriel",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 570
+        },
+        {
+            "id": 1489031,
+            "nome": "lousinete",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 571
+        },
+        {
+            "id": 1489645,
+            "nome": "valdson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 572
+        },
+        {
+            "id": 1489651,
+            "nome": "edinaldo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 573
+        },
+        {
+            "id": 1489671,
+            "nome": "filisolino",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 574
+        },
+        {
+            "id": 1490453,
+            "nome": "ricardo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 575
+        },
+        {
+            "id": 1491806,
+            "nome": "jadiel",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 576
+        },
+        {
+            "id": 1492027,
+            "nome": "paulo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 577
+        },
+        {
+            "id": 1493934,
+            "nome": "gilson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 578
+        },
+        {
+            "id": 1496198,
+            "nome": "rafaela",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 579
+        },
+        {
+            "id": 1498106,
+            "nome": "ricardo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 580
+        },
+        {
+            "id": 1499014,
+            "nome": "guilherme",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 581
+        },
+        {
+            "id": 1499098,
+            "nome": "guilherme",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 582
+        },
+        {
+            "id": 1500774,
+            "nome": "valdir",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 583
+        },
+        {
+            "id": 1505389,
+            "nome": "marco",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 584
+        },
+        {
+            "id": 1506330,
+            "nome": "rubens",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 585
+        },
+        {
+            "id": 1509744,
+            "nome": "jeliuson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 586
+        },
+        {
+            "id": 1520853,
+            "nome": "fabio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 587
+        },
+        {
+            "id": 1521165,
+            "nome": "andressa",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 588
+        },
+        {
+            "id": 1521439,
+            "nome": "henrique",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 589
+        },
+        {
+            "id": 1522960,
+            "nome": "ralfhens",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 590
+        },
+        {
+            "id": 1523763,
+            "nome": "eduardo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 591
+        },
+        {
+            "id": 1524389,
+            "nome": "leones",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 592
+        },
+        {
+            "id": 1526250,
+            "nome": "josé",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 593
+        },
+        {
+            "id": 1526334,
+            "nome": "diego",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 594
+        },
+        {
+            "id": 1527155,
+            "nome": "francisco",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 595
+        },
+        {
+            "id": 1528185,
+            "nome": "eudson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 596
+        },
+        {
+            "id": 1528378,
+            "nome": "hílton",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 597
+        },
+        {
+            "id": 1529423,
+            "nome": "edivaldo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 598
+        },
+        {
+            "id": 1535801,
+            "nome": "francisco",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 599
+        },
+        {
+            "id": 1535984,
+            "nome": "josé",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 600
+        },
+        {
+            "id": 1536718,
+            "nome": "erlanderson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 601
+        },
+        {
+            "id": 1537188,
+            "nome": "amauri",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 602
+        },
+        {
+            "id": 1537752,
+            "nome": "jose",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 603
+        },
+        {
+            "id": 1540261,
+            "nome": "welington",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 604
+        },
+        {
+            "id": 1541358,
+            "nome": "edson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 605
+        },
+        {
+            "id": 1541527,
+            "nome": "marcos",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 606
+        },
+        {
+            "id": 1547303,
+            "nome": "kleiton",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 607
+        },
+        {
+            "id": 1551651,
+            "nome": "raimundo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 608
+        },
+        {
+            "id": 1552532,
+            "nome": "cristovao",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 609
+        },
+        {
+            "id": 1552708,
+            "nome": "jose",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 610
+        },
+        {
+            "id": 1561823,
+            "nome": "gabriel",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 611
+        },
+        {
+            "id": 1562529,
+            "nome": "jose",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 612
+        },
+        {
+            "id": 1569907,
+            "nome": "hugo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 613
+        },
+        {
+            "id": 1579801,
+            "nome": "claudio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 614
+        },
+        {
+            "id": 1580321,
+            "nome": "jailton",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 615
+        },
+        {
+            "id": 1580327,
+            "nome": "leandro",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 616
+        },
+        {
+            "id": 1580638,
+            "nome": "antonio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 617
+        },
+        {
+            "id": 1581263,
+            "nome": "antonio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 618
+        },
+        {
+            "id": 1581308,
+            "nome": "alexandre",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 619
+        },
+        {
+            "id": 1581619,
+            "nome": "nayara",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 620
+        },
+        {
+            "id": 1581744,
+            "nome": "antonio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 621
+        },
+        {
+            "id": 1582271,
+            "nome": "gilberto",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 622
+        },
+        {
+            "id": 1582378,
+            "nome": "everaldo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 623
+        },
+        {
+            "id": 1582710,
+            "nome": "flavio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 624
+        },
+        {
+            "id": 1582962,
+            "nome": "rodrigo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 625
+        },
+        {
+            "id": 1584599,
+            "nome": "antonio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 626
+        },
+        {
+            "id": 1586926,
+            "nome": "mailson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 627
+        },
+        {
+            "id": 1587996,
+            "nome": "raimundo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 628
+        },
+        {
+            "id": 1588719,
+            "nome": "luiz",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 629
+        },
+        {
+            "id": 1588972,
+            "nome": "pauliano",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 630
+        },
+        {
+            "id": 1589504,
+            "nome": "cleiton",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 631
+        },
+        {
+            "id": 1589894,
+            "nome": "miguel",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 632
+        },
+        {
+            "id": 1590450,
+            "nome": "eduardo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 633
+        },
+        {
+            "id": 1592301,
+            "nome": "leonardo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 634
+        },
+        {
+            "id": 1594523,
+            "nome": "gabriel",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 635
+        },
+        {
+            "id": 1596968,
+            "nome": "jhonatas",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 636
+        },
+        {
+            "id": 1598956,
+            "nome": "antonio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 637
+        },
+        {
+            "id": 1599356,
+            "nome": "igor",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 638
+        },
+        {
+            "id": 1599730,
+            "nome": "rodrigo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 639
+        },
+        {
+            "id": 1601887,
+            "nome": "pedro",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 640
+        },
+        {
+            "id": 1602477,
+            "nome": "luiz",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 641
+        },
+        {
+            "id": 1603458,
+            "nome": "fernandes",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 642
+        },
+        {
+            "id": 1604680,
+            "nome": "lucas",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 643
+        },
+        {
+            "id": 1604982,
+            "nome": "regiani",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 644
+        },
+        {
+            "id": 1605026,
+            "nome": "wellington",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 645
+        },
+        {
+            "id": 1605117,
+            "nome": "douglas",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 646
+        },
+        {
+            "id": 1605718,
+            "nome": "jorge",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 647
+        },
+        {
+            "id": 1605890,
+            "nome": "william",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 648
+        },
+        {
+            "id": 1607544,
+            "nome": "valdir",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 649
+        },
+        {
+            "id": 1608343,
+            "nome": "raul",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 650
+        },
+        {
+            "id": 1609160,
+            "nome": "victor",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 651
+        },
+        {
+            "id": 1610126,
+            "nome": "ismael",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 652
+        },
+        {
+            "id": 1611425,
+            "nome": "julio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 653
+        },
+        {
+            "id": 1611812,
+            "nome": "jorge",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 654
+        },
+        {
+            "id": 1612054,
+            "nome": "maria",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 655
+        },
+        {
+            "id": 1613651,
+            "nome": "luciano",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 656
+        },
+        {
+            "id": 1613775,
+            "nome": "cleudilene",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 657
+        },
+        {
+            "id": 1614917,
+            "nome": "jones",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 658
+        },
+        {
+            "id": 1615323,
+            "nome": "pedro",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 659
+        },
+        {
+            "id": 1615867,
+            "nome": "lucas",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 660
+        },
+        {
+            "id": 1616304,
+            "nome": "ronaldo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 661
+        },
+        {
+            "id": 1616471,
+            "nome": "ronaldo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 662
+        },
+        {
+            "id": 1616540,
+            "nome": "raimundo",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 663
+        },
+        {
+            "id": 1616558,
+            "nome": "ryan",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 664
+        },
+        {
+            "id": 1616610,
+            "nome": "fernando",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 665
+        },
+        {
+            "id": 1616681,
+            "nome": "adriano",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 666
+        },
+        {
+            "id": 1616763,
+            "nome": "helio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 667
+        },
+        {
+            "id": 1616775,
+            "nome": "andreia",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 668
+        },
+        {
+            "id": 1616787,
+            "nome": "bruno",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 669
+        },
+        {
+            "id": 1616813,
+            "nome": "alvaro",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 670
+        },
+        {
+            "id": 1616842,
+            "nome": "lucas",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 671
+        },
+        {
+            "id": 1616872,
+            "nome": "robson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 672
+        },
+        {
+            "id": 1616932,
+            "nome": "arthur",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 673
+        },
+        {
+            "id": 1616968,
+            "nome": "gilberto",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 674
+        },
+        {
+            "id": 1616982,
+            "nome": "marcos",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 675
+        },
+        {
+            "id": 1617016,
+            "nome": "fabio",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 676
+        },
+        {
+            "id": 1617021,
+            "nome": "ailton",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 677
+        },
+        {
+            "id": 1617069,
+            "nome": "nilton",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 678
+        },
+        {
+            "id": 1617106,
+            "nome": "odirlei",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 679
+        },
+        {
+            "id": 1617132,
+            "nome": "vinicius",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 680
+        },
+        {
+            "id": 1617146,
+            "nome": "felipe",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 681
+        },
+        {
+            "id": 1617158,
+            "nome": "jefferson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 682
+        },
+        {
+            "id": 1617215,
+            "nome": "alexsandro",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 683
+        },
+        {
+            "id": 1617226,
+            "nome": "fernando",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 684
+        },
+        {
+            "id": 1617239,
+            "nome": "rafael",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 685
+        },
+        {
+            "id": 1617241,
+            "nome": "arleans",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 686
+        },
+        {
+            "id": 1617255,
+            "nome": "adjailson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 687
+        },
+        {
+            "id": 1617269,
+            "nome": "adeilson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 688
+        },
+        {
+            "id": 1617271,
+            "nome": "rafael",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 689
+        },
+        {
+            "id": 1617281,
+            "nome": "ivan",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 690
+        },
+        {
+            "id": 1617288,
+            "nome": "lazaro",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 691
+        },
+        {
+            "id": 1617290,
+            "nome": "matheus",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 692
+        },
+        {
+            "id": 1617292,
+            "nome": "pedro",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 693
+        },
+        {
+            "id": 1617300,
+            "nome": "edson",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 694
+        },
+        {
+            "id": 1617309,
+            "nome": "caua",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 695
+        },
+        {
+            "id": 1617310,
+            "nome": "jair",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 696
+        },
+        {
+            "id": 1617313,
+            "nome": "jardiel",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 697
+        },
+        {
+            "id": 1617318,
+            "nome": "rogenn",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 698
+        },
+        {
+            "id": 1617327,
+            "nome": "igor",
+            "somaOdds": 0,
+            "updatedAt": "2025-01-06T03:26:55.544Z",
+            "classificacao": 699
+        }
+    ]
+}
