@@ -185,12 +185,20 @@
             "classificacao": 23
         },
         {
+            "id": "326398",
+            "nome": "helio",
+            "somaReturn": 6635.979249999999,
+            "totalStake": 2376,
+            "updatedAt": "2025-01-13T03:00:00.000Z",
+            "classificacao": 24
+        },
+        {
             "id": "630324",
             "nome": "joanderson",
             "somaReturn": 6558.99154488,
             "totalStake": 2222.67,
             "updatedAt": "2025-01-13T03:00:00.000Z",
-            "classificacao": 24
+            "classificacao": 25
         },
         {
             "id": "203354",
@@ -198,21 +206,13 @@
             "somaReturn": 6399.3817500000005,
             "totalStake": 1678.74,
             "updatedAt": "2025-01-13T03:00:00.000Z",
-            "classificacao": 25
+            "classificacao": 26
         },
         {
             "id": "609606",
             "nome": "antonio",
             "somaReturn": 6285.618999999999,
             "totalStake": 3256.6,
-            "updatedAt": "2025-01-13T03:00:00.000Z",
-            "classificacao": 26
-        },
-        {
-            "id": "326398",
-            "nome": "helio",
-            "somaReturn": 5981.9945,
-            "totalStake": 2126,
             "updatedAt": "2025-01-13T03:00:00.000Z",
             "classificacao": 27
         },
