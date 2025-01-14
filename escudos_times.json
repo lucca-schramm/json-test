@@ -44,6 +44,11 @@
         "name": "Fulham FC",
         "crest": "https://crests.football-data.org/63.png"
     },
+    "64": {
+        "id": 64,
+        "name": "Liverpool FC",
+        "crest": "https://crests.football-data.org/64.png"
+    },
     "65": {
         "id": 65,
         "name": "Manchester City FC",
@@ -69,6 +74,11 @@
         "name": "Watford FC",
         "crest": "https://crests.football-data.org/346.png"
     },
+    "351": {
+        "id": 351,
+        "name": "Nottingham Forest FC",
+        "crest": "https://crests.football-data.org/351.png"
+    },
     "402": {
         "id": 402,
         "name": "Brentford FC",
@@ -93,6 +103,16 @@
         "id": 1044,
         "name": "AFC Bournemouth",
         "crest": "https://crests.football-data.org/bournemouth.png"
+    },
+    "1082": {
+        "id": 1082,
+        "name": "Oxford United FC",
+        "crest": "https://crests.football-data.org/1082.png"
+    },
+    "1138": {
+        "id": 1138,
+        "name": "Plymouth Argyle FC",
+        "crest": "https://crests.football-data.org/1138.png"
     },
     "7397": {
         "id": 7397,
